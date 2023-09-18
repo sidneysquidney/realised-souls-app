@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "529470364549",
+    "firebase_url": "https://realised-souls-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "realised-souls",
+    "storage_bucket": "realised-souls.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529470364549:android:9a71fc72323e0a657f82ec",
+        "android_client_info": {
+          "package_name": "com.example.realised_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529470364549-h73qc2nm4amaa3349es7v5evbcv6lqf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW7P23OK_U115Mnx0l7h7txilkUaOIa2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529470364549-h73qc2nm4amaa3349es7v5evbcv6lqf6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "529470364549-7gck8716q4kk06h9frg8pnc92lb90933.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.realisedApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
