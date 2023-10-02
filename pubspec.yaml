@@ -32,6 +32,9 @@ dependencies:
     sdk: flutter
 
   font_awesome_flutter: ^10.5.0
+  google_fonts: ^6.1.0
+
+
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -69,6 +72,8 @@ flutter:
     - assets/bgmulti.jpeg
     - assets/bgyellow.jpeg
     - assets/AbeIcon.png
+    - assets/data.json
+
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

@@ -1,9 +1,13 @@
 class Quote {
   late int id; // Unique identifier (auto-incremented)
-  late String quoteText;
-  late int authorId; // References the Author table
-  String? from; // Nullable field
-  String? title; // Nullable field
+  late String quote;
+  late String author; // References the Author table
+  late String title; // Nullable field
+  late int count;
 
-  Quote(this.quoteText, this.authorId);
+  Quote(this.id, this.quote, this.author, this.title, this.count);
+
+  Map<String, dynamic> ToJson() {
+    return {'quote': quote, 'author': author, 'title': title, 'count': count};
+  }
 }

@@ -1,0 +1,513 @@
+{
+  "authors": {
+    "0": {
+      "full_name": "Abraham Lincoln",
+      "short_bio": "16th President of the United States",
+      "dates_alive": "1809 - 1865",
+      "image": "assets/lincoln.jpg"
+    },
+    "1": {
+      "full_name": "George Washington",
+      "short_bio": "First President of the United States",
+      "dates_alive": "1732 - 1799",
+      "image": "assets/washington.jpg"
+    },
+    "2": {
+      "full_name": "William Shakespeare",
+      "short_bio": "English playwright and poet",
+      "dates_alive": "1564 - 1616",
+      "image": "assets/shakespeare.jpg"
+    },
+    "3": {
+      "full_name": "C.S. Lewis",
+      "short_bio": "Writer and theologian",
+      "dates_alive": "1898 - 1963",
+      "image": "assets/cslewis.jpg"
+    },
+    "4": {
+      "full_name": "Carl Jung",
+      "short_bio": "Swiss psychiatrist and psychoanalyst",
+      "dates_alive": "1875 - 1961",
+      "image": "assets/jung.jpg"
+    },
+    "5": {
+      "full_name": "Charles Dickens",
+      "short_bio": "English writer and social critic",
+      "dates_alive": "1812 - 1870",
+      "image": "assets/dickens.jpg"
+    },
+    "6": {
+      "full_name": "Kahlil Gibran",
+      "short_bio": "Lebanese-American poet and philosopher",
+      "dates_alive": "1883 - 1931",
+      "image": "assets/gibran.jpg"
+    },
+    "7": {
+      "full_name": "Alfred Lord Tennyson",
+      "short_bio": "English poet",
+      "dates_alive": "1809 - 1892",
+      "image": "assets/tennyson.jpg"
+    },
+    "8": {
+      "full_name": "Bernard Shaw",
+      "short_bio": "Irish playwright and critic",
+      "dates_alive": "1856 - 1950",
+      "image": "assets/shaw.jpg"
+    },
+    "9": {
+      "full_name": "A.J. Cronin",
+      "short_bio": "Scottish novelist and physician",
+      "dates_alive": "1896 - 1981",
+      "image": "assets/cronin.jpg"
+    },
+    "10": {
+      "full_name": "Emile Zola",
+      "short_bio": "French novelist and journalist",
+      "dates_alive": "1840 - 1902",
+      "image": "assets/zola.jpg"
+    },
+    "11": {
+      "full_name": "Molière",
+      "short_bio": "French playwright and actor",
+      "dates_alive": "1622 - 1673",
+      "image": "assets/molieres.jpg"
+    },
+    "12": {
+      "full_name": "Guy de Maupassant",
+      "short_bio": "French writer",
+      "dates_alive": "1850 - 1893",
+      "image": "assets/maupassant.jpg"
+    },
+    "13": {
+      "full_name": "Maria Theresa",
+      "short_bio": "Holy Roman Empress",
+      "dates_alive": "1717 - 1780",
+      "image": "assets/maria_theresa.jpg"
+    },
+    "14": {
+      "full_name": "Martin Luther King Jr.",
+      "short_bio": "Civil rights leader",
+      "dates_alive": "1929 - 1968",
+      "image": "assets/king.jpg"
+    },
+    "15": {
+      "full_name": "Nelson Mandela",
+      "short_bio": "South African anti-apartheid revolutionary",
+      "dates_alive": "1918 - 2013",
+      "image": "assets/mandela.jpg"
+    },
+    "16": {
+      "full_name": "Mikhail Gorbachev",
+      "short_bio": "Soviet statesman",
+      "dates_alive": "1931 - Present",
+      "image": "assets/gorbachev.jpg"
+    },
+    "17": {
+      "full_name": "Wolfgang Mozart",
+      "short_bio": "Austrian composer",
+      "dates_alive": "1756 - 1791",
+      "image": "assets/mozart.jpg"
+    },
+    "18": {
+      "full_name": "Leonardo da Vinci",
+      "short_bio": "Italian polymath",
+      "dates_alive": "1452 - 1519",
+      "image": "assets/davinci.jpg"
+    },
+    "19": {
+      "full_name": "Michelangelo",
+      "short_bio": "Italian sculptor and painter",
+      "dates_alive": "1475 - 1564",
+      "image": "assets/michelangelo.jpg"
+    },
+    "20": {
+      "full_name": "Dante Alighieri",
+      "short_bio": "Italian poet",
+      "dates_alive": "1265 - 1321",
+      "image": "assets/dante.jpg"
+    },
+    "21": {
+      "full_name": "Homer",
+      "short_bio": "Ancient Greek poet",
+      "dates_alive": "Estimated 8th century BCE",
+      "image": "assets/homer.jpg"
+    }
+  },
+  "quotes": {
+    "0": {
+      "author": "Michelangelo",
+      "count": 0,
+      "quote": "If we have been pleased with life, we should not be displeased with death, since it comes from the hand of the same master."
+    },
+    "1": {
+      "author": "Michelangelo",
+      "count": 0,
+      "quote": "Many believe - and I believe - that I have been designated for this work by God. In spite of my old age, I do not want to give it up; I work out of love for God and I put all my hope in Him."
+    },
+    "2": {
+      "author": "Michelangelo",
+      "count": 0,
+      "quote": "Lord, grant that I may always desire more than I can accomplish."
+    },
+    "3": {
+      "author": "Michelangelo",
+      "count": 0,
+      "quote": "If people knew how hard I worked to get my mastery, it wouldn't seem so wonderful at all."
+    },
+    "4": {
+      "author": "Michelangelo",
+      "count": 0,
+      "quote": "A man paints with his brains and not with his hands."
+    },
+    "5": {
+      "author": "Michelangelo",
+      "count": 0,
+      "quote": "The marble not yet carved can hold the form of every thought the greatest artist has."
+    },
+    "6": {
+      "author": "Michelangelo",
+      "count": 0,
+      "quote": "I am still learning."
+    },
+    "7": {
+      "author": "Michelangelo",
+      "count": 0,
+      "quote": "The true work of art is but a shadow of the divine perfection."
+    },
+    "8": {
+      "author": "Michelangelo",
+      "count": 0,
+      "quote": "A beautiful thing never gives so much pain as does failing to hear and see it."
+    },
+    "9": {
+      "author": "Michelangelo",
+      "count": 0,
+      "quote": "The promises of this world are, for the most part, vain phantoms; and to confide in one's self, and become something of worth and value is the best and safest course."
+    },
+    "10": {
+      "author": "Michelangelo",
+      "count": 0,
+      "quote": "Death and love are the two wings that bear the good man to heaven."
+    },
+    "11": {
+      "author": "Michelangelo",
+      "count": 0,
+      "quote": "The greater danger for most of us lies not in setting our aim too high and falling short; but in setting our aim too low, and achieving our mark."
+    },
+    "12": {
+      "author": "Michelangelo",
+      "count": 0,
+      "quote": "Every beauty which is seen here by persons of perception resembles more than anything else that celestial source from which we all are come."
+    },
+    "13": {
+      "author": "Michelangelo",
+      "count": 0,
+      "quote": "My soul can find no staircase to Heaven unless it be through Earth's loveliness."
+    },
+    "14": {
+      "author": "Michelangelo",
+      "count": 0,
+      "quote": "Faith in oneself is the best and safest course."
+    },
+    "15": {
+      "author": "Michelangelo",
+      "count": 0,
+      "quote": "Every block of stone has a statue inside it and it is the task of the sculptor to discover it."
+    },
+    "16": {
+      "author": "Michelangelo",
+      "count": 0,
+      "quote": "I saw the angel in the marble and carved until I set him free."
+    },
+    "17": {
+      "author": "Dante Alighieri",
+      "count": 0,
+      "quote": "Heat cannot be separated from fire, or beauty from The Eternal."
+    },
+    "18": {
+      "author": "Dante Alighieri",
+      "count": 0,
+      "quote": "The darkest places in hell are reserved for those who maintain their neutrality in times of moral crisis."
+    },
+    "19": {
+      "author": "Dante Alighieri",
+      "count": 0,
+      "quote": "Nature is the art of God."
+    },
+    "20": {
+      "author": "Dante Alighieri",
+      "count": 0,
+      "quote": "Worldly fame is but a breath of wind that blows now this way, and now that, and changes name as it changes direction."
+    },
+    "21": {
+      "author": "Dante Alighieri",
+      "count": 0,
+      "quote": "Art, as far as it is able, follows nature, as a pupil imitates his master; thus your art must be, as it were, God's grandchild."
+    },
+    "22": {
+      "author": "Dante Alighieri",
+      "count": 0,
+      "quote": "He listens well who takes notes."
+    },
+    "23": {
+      "author": "Dante Alighieri",
+      "count": 0,
+      "quote": "The secret of getting things done is to act!"
+    },
+    "24": {
+      "author": "Leonardo Da Vinci",
+      "count": 0,
+      "quote": "There is no object so large but that at a great distance from the eye it does not appear smaller than a smaller object near."
+    },
+    "25": {
+      "author": "Leonardo Da Vinci",
+      "count": 0,
+      "quote": "Experience does not err. Only your judgments err by expecting from her what is not in her power."
+    },
+    "26": {
+      "author": "Leonardo Da Vinci",
+      "count": 0,
+      "quote": "Common Sense is that which judges the things given to it by other senses."
+    },
+    "27": {
+      "author": "Leonardo Da Vinci",
+      "count": 0,
+      "quote": "The spirit desires to remain with its body, because, without the organic instruments of that body, it can neither act, nor feel anything."
+    },
+    "28": {
+      "author": "Leonardo Da Vinci",
+      "count": 0,
+      "quote": "You can have no dominion greater or less than that over yourself."
+    },
+    "29": {
+      "author": "Leonardo Da Vinci",
+      "count": 0,
+      "quote": "Our body is dependant on Heaven and Heaven on the Spirit."
+    },
+    "30": {
+      "author": "Leonardo Da Vinci",
+      "count": 0,
+      "quote": "You do ill if you praise, but worse if you censure, what you do not understand."
+    },
+    "31": {
+      "author": "Leonardo Da Vinci",
+      "count": 0,
+      "quote": "The length of a man's outspread arms is equal to his height."
+    },
+    "32": {
+      "author": "Leonardo Da Vinci",
+      "count": 0,
+      "quote": "Although nature commences with reason and ends in experience it is necessary for us to do the opposite, that is to commence with experience and from this to proceed to investigate the reason."
+    },
+    "33": {
+      "author": "Leonardo Da Vinci",
+      "count": 0,
+      "quote": "In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time."
+    },
+    "34": {
+      "author": "Leonardo Da Vinci",
+      "count": 0,
+      "quote": "He who loves practice without theory is like the sailor who boards ship without a rudder and compass and never knows where he may cast."
+    },
+    "35": {
+      "author": "Leonardo Da Vinci",
+      "count": 0,
+      "quote": "Nature is the source of all true knowledge. She has her own logic, her own laws, she has no effect without cause nor invention without necessity."
+    },
+    "36": {
+      "author": "Leonardo Da Vinci",
+      "count": 0,
+      "quote": "I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do."
+    },
+    "37": {
+      "author": "Leonardo Da Vinci",
+      "count": 0,
+      "quote": "Just as food eaten without appetite is a tedious nourishment, so does study without zeal damage the memory by not assimilating what it absorbs."
+    },
+    "38": {
+      "author": "Leonardo Da Vinci",
+      "count": 0,
+      "quote": "Blinding ignorance does mislead us. O! Wretched mortals, open your eyes!"
+    },
+    "39": {
+      "author": "Leonardo Da Vinci",
+      "count": 0,
+      "quote": "The natural desire of good men is knowledge."
+    },
+    "40": {
+      "author": "Leonardo Da Vinci",
+      "count": 0,
+      "quote": "The truth of things is the chief nutriment of superior intellects."
+    },
+    "41": {
+      "author": "Leonardo Da Vinci",
+      "count": 0,
+      "quote": "As every divided kingdom falls, so every mind divided between many studies confounds and saps itself."
+    },
+    "42": {
+      "author": "Leonardo Da Vinci",
+      "count": 0,
+      "quote": "Human subtlety will never devise an invention more beautiful, more simple or more direct than does nature because in her inventions nothing is lacking, and nothing is superfluous."
+    },
+    "43": {
+      "author": "Leonardo Da Vinci",
+      "count": 0,
+      "quote": "Men of lofty genius sometimes accomplish the most when they work least, for their minds are occupied with their ideas and the perfection of their conceptions, to which they afterwards give form."
+    },
+    "44": {
+      "author": "Leonardo Da Vinci",
+      "count": 0,
+      "quote": "Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigor of the mind."
+    },
+    "45": {
+      "author": "Leonardo Da Vinci",
+      "count": 0,
+      "quote": "Poor is the pupil who does not surpass his master."
+    },
+    "46": {
+      "author": "Leonardo Da Vinci",
+      "count": 0,
+      "quote": "Art is never finished, only abandoned."
+    },
+    "47": {
+      "author": "Leonardo Da Vinci",
+      "count": 0,
+      "quote": "Learning never exhausts the mind."
+    },
+    "48": {
+      "author": "Leonardo Da Vinci",
+      "count": 0,
+      "quote": "Marriage is like putting your hand into a bag of snakes in the hope of pulling out an eel."
+    },
+    "49": {
+      "author": "Mikhail Gorbachev",
+      "count": 0,
+      "quote": "More socialism means more democracy, openness and collectivism in everyday life."
+    },
+    "50": {
+      "author": "Mikhail Gorbachev",
+      "count": 0,
+      "quote": "It would be naive to think that the problems plaguing mankind today can be solved with means and methods which were applied or seemed to work in the past."
+    },
+    "51": {
+      "author": "Mikhail Gorbachev",
+      "count": 0,
+      "quote": "Starting reforms in the Soviet Union was only possible from above, only from above. Any attempt to go from below was suppressed, suppressed in a most resolute way."
+    },
+    "52": {
+      "author": "Mikhail Gorbachev",
+      "count": 0,
+      "quote": "The market came with the dawn of civilization and it is not an invention of capitalism. If it leads to improving the well-being of the people there is no contradiction with socialism."
+    },
+    "53": {
+      "author": "Mikhail Gorbachev",
+      "count": 0,
+      "quote": "If what you have done yesterday still looks big to you, you haven't done much today."
+    },
+    "54": {
+      "author": "Mikhail Gorbachev",
+      "count": 0,
+      "quote": "I couldn't wait to get to the most powerful position, because I thought then I would be able to fix problems that only the leader can fix. But when I got there, I realized we needed revolutionary change."
+    },
+    "55": {
+      "author": "Mahatma Gandhi",
+      "count": 0,
+      "quote": "Always aim at complete harmony of thought and word and deed. Always aim at purifying your thoughts and everything will be well."
+    },
+    "56": {
+      "author": "Mahatma Gandhi",
+      "count": 0,
+      "quote": "The real ornament of woman is her character, her purity."
+    },
+    "57": {
+      "author": "Mahatma Gandhi",
+      "count": 0,
+      "quote": "My religion is based on truth and non-violence. Truth is my God. Non-violence is the means of realizing Him."
+    },
+    "58": {
+      "author": "Mahatma Gandhi",
+      "count": 0,
+      "quote": "If a man reaches the heart of his own religion, he has reached the heart of the others, too. There is only one God, and there are many paths to him."
+    },
+    "59": {
+      "author": "Mahatma Gandhi",
+      "count": 0,
+      "quote": "Morality is the basis of things and truth is the substance of all morality."
+    },
+    "60": {
+      "author": "Mahatma Gandhi",
+      "count": 0,
+      "quote": "Man's nature is not essentially evil. Brute nature has been known to yield to the influence of love. You must never despair of human nature."
+    },
+    "61": {
+      "author": "Mahatma Gandhi",
+      "count": 0,
+      "quote": "I object to violence because when it appears to do good, the good is only temporary; the evil it does is permanent."
+    },
+    "62": {
+      "author": "Mahatma Gandhi",
+      "count": 0,
+      "quote": "I suppose leadership at one time meant muscles; but today it means getting along with people."
+    },
+    "63": {
+      "author": "Mahatma Gandhi",
+      "count": 0,
+      "quote": "A man is but the product of his thoughts, what he thinks he becomes."
+    },
+    "64": {
+      "author": "Mahatma Gandhi",
+      "count": 0,
+      "quote": "Man becomes great exactly in the degree in which he works for the welfare of his fellow-men."
+    },
+    "65": {
+      "author": "Mahatma Gandhi",
+      "count": 0,
+      "quote": "There is a sufficiency in the world for man's need but not for man's greed."
+    },
+    "66": {
+      "author": "Mahatma Gandhi",
+      "count": 0,
+      "quote": "You can chain me, you can torture me, you can even destroy this body, but you will never imprison my mind."
+    },
+    "67": {
+      "author": "Mahatma Gandhi",
+      "count": 0,
+      "quote": "You must not lose faith in humanity. Humanity is an ocean; if a few drops of the ocean are dirty, the ocean does not become dirty."
+    },
+    "68": {
+      "author": "Mahatma Gandhi",
+      "count": 0,
+      "quote": "The weak can never forgive. Forgiveness is the attribute of the strong."
+    },
+    "69": {
+      "author": "Mahatma Gandhi",
+      "count": 0,
+      "quote": "An eye for an eye only ends up making the whole world blind."
+    },
+    "70": {
+      "author": "Mahatma Gandhi",
+      "count": 0,
+      "quote": "Where there is love there is life."
+    },
+    "71": {
+      "author": "Mahatma Gandhi",
+      "count": 0,
+      "quote": "In a gentle way, you can shake the world."
+    },
+    "72": {
+      "author": "Mahatma Gandhi",
+      "count": 0,
+      "quote": "It is better to be violent, if there is violence in our hearts, than to put on the cloak of nonviolence to cover impotence."
+    },
+    "73": {
+      "author": "Mahatma Gandhi",
+      "count": 0,
+      "quote": "You must be the change you wish to see in the world."
+    },
+    "74": {
+      "author": "Mahatma Gandhi",
+      "count": 0,
+      "quote": "Strength does not come from physical capacity. It comes from an indomitable will."
+    }
+  }
+}

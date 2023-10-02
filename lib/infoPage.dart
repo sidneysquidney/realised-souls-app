@@ -25,14 +25,13 @@ class _InfoPageState extends State<InfoPage> {
   @override
   Widget build(BuildContext context) {
     return Padding(
-      padding: const EdgeInsets.only(top: 50.0, left: 20.0, right: 20.0),
+      padding: const EdgeInsets.fromLTRB(0, 70, 0, 0),
       child: SingleChildScrollView(
         child: Column(
           // mainAxisAlignment: MainAxisAlignment.center,
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            const Text("Settings",
-                style: TextStyle(fontWeight: FontWeight.w600)),
+            Text("Settings", style: Theme.of(context).textTheme.titleSmall),
             const SizedBox(height: 30),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -127,6 +126,7 @@ and if we went in together, we could see it."''',
             const Opacity(
                 opacity: 0.6,
                 child: Text("https://www.siddharthalethbridge.com/")),
+            const SizedBox(height: 150),
           ],
         ),
       ),
