@@ -1,14 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:realised_app/authorsPage.dart';
+import 'package:realised_app/page_authors.dart';
 import 'package:realised_app/helper.dart';
-import 'package:realised_app/infoPage.dart';
-import 'package:realised_app/quoteOfTheDayPage.dart';
-
+import 'package:realised_app/page_info.dart';
+import 'package:realised_app/page_qod.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:google_fonts/google_fonts.dart';
-
-import 'Classes/author.dart';
-import 'Classes/quote.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key, required this.title, required this.data});
@@ -20,9 +15,12 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
+  @override
+  void initState() {
+    super.initState();
+  }
+
   int currentPageIndex = 0;
-  // final List<Author> aList = [];
-  // final List<Quote> qList = [];
 
   @override
   Widget build(BuildContext context) {
@@ -50,11 +48,11 @@ class _HomePageState extends State<HomePage> {
             elevation: 0,
           ),
           body: [
-            QuoteOfTheDayPage(qList: extractQuotes(widget.data)),
-            AuthorsPage(
-                aList: extractAuthors(widget.data),
-                qList: extractQuotes(widget.data)),
-            const InfoPage(),
+            PageQod(qList: extractQuotes2(widget.data)),
+            PageAuthors(
+                aList: extractAuthors2(widget.data),
+                qList: extractQuotes2(widget.data)),
+            const PageInfo(),
             // const QuotesPage()
           ][currentPageIndex],
           bottomNavigationBar: NavigationBar(

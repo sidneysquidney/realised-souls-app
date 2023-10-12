@@ -1,34 +1,25 @@
 import 'package:flutter/material.dart';
-import 'package:realised_app/Classes/customBoxShadow.dart';
-import 'package:realised_app/Classes/practiceAuthor.dart';
-import 'package:realised_app/Classes/practiceList.dart';
 import 'package:realised_app/helper.dart';
-
 import 'Classes/author.dart';
 import 'Classes/quote.dart';
-import 'authorQuotesPage.dart';
-import 'database.dart';
+import 'page_author_quotes.dart';
 
-var abe =
-    PracticeAuthor('Abraham Lincoln', '16th President of the United States');
-
-var rumi = PracticeAuthor('Rumi', 'Sufi mystic and poet');
-
-var will =
-    PracticeAuthor('William Blake', 'Everyones faveourite realised soul');
-
-var charles = PracticeAuthor('Charles Dickens', '19th century English writer');
-
-class AuthorsPage extends StatefulWidget {
-  const AuthorsPage({super.key, required this.aList, required this.qList});
+class PageAuthors extends StatefulWidget {
+  const PageAuthors({super.key, required this.aList, required this.qList});
   final List<Author> aList;
   final List<Quote> qList;
 
   @override
-  State<AuthorsPage> createState() => _AuthorsPageState();
+  State<PageAuthors> createState() => _AuthorsPageState();
 }
 
-class _AuthorsPageState extends State<AuthorsPage> {
+class _AuthorsPageState extends State<PageAuthors> {
+  @override
+  void initState() {
+    super.initState();
+    widget.aList.sort((a, b) => a.full_name.compareTo(b.full_name));
+  }
+
   @override
   Widget build(BuildContext context) {
     return Padding(
@@ -48,7 +39,7 @@ class _AuthorsPageState extends State<AuthorsPage> {
                   onTap: () {
                     Navigator.of(context).push(
                       MaterialPageRoute(
-                        builder: (context) => AuthorQuotesPage(
+                        builder: (context) => PageAuthorQuotes(
                           author_name: author.full_name,
                           quotes: authorQuotes(widget.qList, author.full_name),
                         ),
@@ -61,6 +52,7 @@ class _AuthorsPageState extends State<AuthorsPage> {
                   ),
                   subtitle: Text(
                     author.short_bio,
+                    // '${author.short_bio} (${author.dates_alive})',
                     style: Theme.of(context).textTheme.labelSmall,
                   ),
                   leading: const ImageIcon(

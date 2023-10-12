@@ -18,6 +18,13 @@ Future<void> initializeFirebase() async {
 }
 
 void addToDatabase() {
+  // DatabaseReference databaseRef = FirebaseDatabase.instance.ref();
+  DatabaseReference ref = FirebaseDatabase.instance.ref();
+  ref.set({
+    "name": "John",
+    "age": 18,
+    "address": {"line1": "100 Mountain View"}
+  });
   databaseRef.child('big').set('small'); //add to root
 }
 
@@ -84,12 +91,15 @@ Future<List<Quote>> getQuotes() async {
     List<Quote> quoteList = [];
 
     if (data != null) {
-      for (var quoteData in data) {
+      for (int index = 0; index < data.length; index++) {
+        var quoteData = data[index];
         Quote quote = Quote(
-          10, // Use the key as the quote ID
+          index, // Use the index as the quote ID
           quoteData['quote'],
           quoteData['author'],
-          '',
+          // quoteData['title'],
+          'title',
+          quoteData['last_used'],
           quoteData['count'],
         );
         quoteList.add(quote);
@@ -105,27 +115,29 @@ Future<List<Quote>> getQuotes() async {
 }
 
 Future<List<Author>> getAuthors() async {
-  List<Author> authorList = [];
+  Completer<List<Author>> completer = Completer<List<Author>>();
 
   DatabaseReference dbRef = FirebaseDatabase.instance.ref('authors/');
-  DataSnapshot snapshot =
-      (await dbRef.once()) as DataSnapshot; // Wait for data once
+  dbRef.onValue.listen((event) async {
+    dynamic data = event.snapshot.value;
+    List<Author> authorList = [];
 
-  dynamic data = snapshot.value;
-  if (data != null) {
-    for (var authorData in data) {
-      Author author = Author(
-        10, // Use the key as the author ID
-        authorData['full_name'],
-        authorData['short_bio'],
-        authorData['dates_alive'],
-        authorData['image'],
-      );
-      authorList.add(author);
+    if (data != null) {
+      for (int index = 0; index < data.length; index++) {
+        var authorData = data[index];
+        Author author = Author(
+          index, // Use the index as the author ID
+          authorData['full_name'],
+          authorData['short_bio'],
+          authorData['dates_alive'],
+          authorData['image'],
+        );
+        authorList.add(author);
+      }
     }
-  }
-
-  return authorList;
+    completer.complete(authorList);
+  });
+  return completer.future;
 }
 
 // gets an author by searching for their id
@@ -146,6 +158,40 @@ void updateDate(quoteId) async {
   });
 // Only update the name, leave the age and address!
 }
+
+Future<Map<String, dynamic>> getData() async {
+  List<Author> authors = await getAuthors();
+  List<Quote> quotes = await getQuotes();
+  return <String, dynamic>{'authors': authors, 'quotes': quotes};
+}
+
+Future<List<Map<String, dynamic>>> getData2() async {
+  Completer<List<Map<String, dynamic>>> completer =
+      Completer<List<Map<String, dynamic>>>();
+
+  DatabaseReference dbRef =
+      FirebaseDatabase.instance.ref(); // Reference to the highest node
+
+  dbRef.onValue.listen((event) async {
+    dynamic data = event.snapshot.value;
+    List<Map<String, dynamic>> dataList = [];
+
+    if (data != null) {
+      // If you want to preserve the keys in the data, you can use Map<String, dynamic> instead of List<Map<String, dynamic>>.
+      dataList.add(data);
+    }
+
+    // Complete the Future with the dataList
+    completer.complete(dataList);
+  });
+
+  // Return the Future
+  return completer.future;
+}
+
+
+
+
 
 // // get all quotes from a particular author
 // void getAuthorQuotes(authorId) {

@@ -1,44 +1,52 @@
-import 'dart:async';
-// import 'dart:html';
+// messaging and notifications
+import 'package:flutter/foundation.dart';
+import 'package:firebase_messaging/firebase_messaging.dart';
 
-import 'package:firebase_database/firebase_database.dart';
+// normal
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'firebase_options.dart';
 import 'package:realised_app/helper.dart';
-import 'Classes/author.dart';
-// import 'package:firebase_database/firebase_database.dart';
-
-import 'homePage.dart';
-import 'database.dart';
+import 'home_page.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-import 'package:flutter/services.dart' show rootBundle;
-import 'dart:convert';
-// FirebaseDatabase database = FirebaseDatabase.instance;
-
-Timer scheduleTimeout([int milliseconds = 10000]) =>
-    Timer(Duration(milliseconds: milliseconds), handleTimeout);
-
-void handleTimeout() {
-  x += 1;
-}
-
-int x = 0;
+// TODO: Add stream controller
+// TODO: Define the background message handler
 
 void main() async {
-  await initializeFirebase();
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
-
   Map<String, dynamic> data = await loadDataFromJson();
-  // List<Author> auts = await getAuthors();
-  // print(auts);
-  AddToAuthors();
-  // String s = eventSnap() as String;
-  // updateDate(2);
+  // Map<String, dynamic> data = await getData(); //from database
+
+  // TODO: Request permission
+  final messaging = FirebaseMessaging.instance;
+
+  final settings = await messaging.requestPermission(
+    alert: true,
+    announcement: false,
+    badge: true,
+    carPlay: false,
+    criticalAlert: false,
+    provisional: false,
+    sound: true,
+  );
+
+  if (kDebugMode) {
+    print('Permission granted: ${settings.authorizationStatus}');
+  }
+  // TODO: Register with FCM
+  // It requests a registration token for sending messages to users from your App server or other trusted server environment.
+  String? token = await messaging.getToken();
+
+  if (kDebugMode) {
+    print('Registration Token=$token');
+  }
+  // Registration Token=dd0LdvNPRfeKQLa0W0Yjxx:APA91bFMGiRzRA_sntoqhdAeLM0FNppFfpsAJe8-AKNHuodmLIxHhlbW02NHG9ftQFywzzazhvPOZcmGJ7vRPNHX_cZcQt72y-lv4CQS9kOLvlIsxcVDyElLzv2AQ3KRAKzFnwdcDstE
+
+  // TODO: Set up foreground message handler
+  // TODO: Set up background message handler
   runApp(MyApp(data: data));
-  addToDatabase();
 }
 
 class MyApp extends StatelessWidget {
@@ -46,22 +54,12 @@ class MyApp extends StatelessWidget {
   static const seedColor = Color(0xFF6F665A);
   final Map<String, dynamic> data;
 
-  Future<Map<String, dynamic>> loadDataFromJson() async {
-    String jsonString = await rootBundle.loadString('assets/data.json');
-    return json.decode(jsonString);
-  }
-
-  // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Realised Souls',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: seedColor),
-        // fontFamily: GoogleFonts.openSans().fontFamily,
-        // textTheme: GoogleFonts.openSansTextTheme(
-        //   Theme.of(context).textTheme,
-        // ),
         textTheme: TextTheme(
           //appbar
           titleLarge: GoogleFonts.openSans(

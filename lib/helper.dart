@@ -1,5 +1,6 @@
 import 'dart:async';
 import 'dart:math';
+
 import 'Classes/author.dart';
 import 'Classes/quote.dart';
 import 'package:flutter/services.dart' show rootBundle;
@@ -19,25 +20,35 @@ int getRandomNumber(range) {
 }
 
 // takes the json {authors: {1: {...}, 2: {...}}, quotes: {}} and returns a list of authors
-List<Author> extractAuthors(Map<String, dynamic> data) {
+List<Author> extractAuthors2(Map<String, dynamic> data) {
   Map<String, dynamic> aMap = data['authors'];
   List<Author> aList = [];
   aMap.forEach((key, value) {
-    aList.add(Author(int.parse(key), value['full_name'], value['short_bio'],
-        value['dates_alive'], value['image']));
+    aList.add(Author(int.parse(key), value['Full Name'], value['Short Bio'],
+        value['Dates Alive'], value['Image']));
   });
   return aList;
 }
 
 // takes the json {authors: {1: {...}, 2: {...}}, quotes: {}} and returns a list of quotes
-List<Quote> extractQuotes(Map<String, dynamic> data) {
+List<Quote> extractQuotes2(Map<String, dynamic> data) {
   Map<String, dynamic> qMap = data['quotes'];
   List<Quote> qList = [];
   qMap.forEach((key, value) {
-    qList.add(Quote(
-        int.parse(key), value['quote'], value['author'], "", value['count']));
+    qList.add(Quote(int.parse(key), value['quote'], value['author'],
+        value['title'], value['last_used'], value['count']));
   });
   return qList;
+}
+
+List<Quote> extractQuotes(Map<String, dynamic> data) {
+  List<Quote> qList = data['quotes'];
+  return qList;
+}
+
+List<Author> extractAuthors(Map<String, dynamic> data) {
+  List<Author> aList = data['authors'];
+  return aList;
 }
 
 // gets a list of quotes from a given author argument
@@ -77,6 +88,29 @@ String getDate() {
   int month = now.month;
   int day = now.day;
 
-  String formattedDate = '$year-$month-$day'; // Format it as needed
+  String formattedDate =
+      '$year-${month.toString().padLeft(2, '0')}-${day.toString().padLeft(2, '0')}'; // Format it as needed
   return formattedDate;
+}
+
+Quote getQuoteOfTheDay(List<Quote> qList) {
+  String todaysDate = getDate();
+  // String testDate = '2026-06-22';
+  // todaysDate = testDate;
+  late Quote Qod;
+  for (var q in qList) {
+    if (q.last_used == todaysDate) {
+      Qod = Quote(10, q.quote, q.author, q.title, q.last_used, q.count);
+      return Qod;
+    }
+  }
+  // if date is out of range of json assigned
+  for (var q in qList) {
+    if (q.last_used.substring(5) == todaysDate.substring(5)) {
+      Qod = Quote(10, q.quote, q.author, q.title, q.last_used, q.count);
+      return Qod;
+    }
+  }
+  // if nothing is resolved - this quote returned.
+  return Quote(1, 'I am the Spirit', '', '', todaysDate, 0);
 }
