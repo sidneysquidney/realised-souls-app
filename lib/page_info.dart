@@ -1,3 +1,5 @@
+import 'package:firebase_messaging/firebase_messaging.dart';
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 
@@ -20,6 +22,32 @@ class _InfoPageState extends State<PageInfo> {
     setState(() {
       selectedTime = newTime!;
     });
+  }
+
+  void changeNotifications() async {
+    // TODO: Request permission
+    final messaging = FirebaseMessaging.instance;
+
+    final settings = await messaging.requestPermission(
+      alert: true,
+      announcement: false,
+      badge: true,
+      carPlay: false,
+      criticalAlert: false,
+      provisional: false,
+      sound: true,
+    );
+
+    if (kDebugMode) {
+      print('Permission granted: ${settings.authorizationStatus}');
+    }
+    // TODO: Register with FCM
+    // It requests a registration token for sending messages to users from your App server or other trusted server environment.
+    String? token = await messaging.getToken();
+
+    if (kDebugMode) {
+      print('Registration Token=$token');
+    }
   }
 
   @override
@@ -53,6 +81,7 @@ class _InfoPageState extends State<PageInfo> {
                         setState(() {
                           receiveNotifications = value;
                         });
+                        changeNotifications();
                       }),
                 ),
               ],
