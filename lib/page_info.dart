@@ -1,10 +1,11 @@
 import 'package:firebase_messaging/firebase_messaging.dart';
-import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/rendering.dart';
+import 'package:realised_app/Classes/user_info.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
 class PageInfo extends StatefulWidget {
-  const PageInfo({super.key});
+  const PageInfo({super.key, required this.userInfo});
+  final UserInfo userInfo;
 
   @override
   State<PageInfo> createState() => _InfoPageState();
@@ -13,6 +14,29 @@ class PageInfo extends StatefulWidget {
 class _InfoPageState extends State<PageInfo> {
   bool receiveNotifications = false;
   TimeOfDay selectedTime = TimeOfDay.now();
+
+  @override
+  void initState() {
+    super.initState();
+    receiveNotifications = widget.userInfo.showNotifications;
+    // _loadNotificationStatus();
+  }
+
+  void _loadNotificationStatus() async {
+    final prefs = await SharedPreferences.getInstance();
+    final notificationStatus = prefs.getBool('notification_status');
+    if (notificationStatus != null) {
+      setState(() {
+        receiveNotifications = notificationStatus;
+      });
+    }
+  }
+
+  void _saveNotificationStatus(bool status) async {
+    final prefs = await SharedPreferences.getInstance();
+    prefs.setBool('notification_status', status);
+    widget.userInfo.showNotifications = status;
+  }
 
   void _selectTime() async {
     final TimeOfDay? newTime = await showTimePicker(
@@ -25,35 +49,24 @@ class _InfoPageState extends State<PageInfo> {
   }
 
   void changeNotifications() async {
-    // TODO: Request permission
-    final messaging = FirebaseMessaging.instance;
-
-    final settings = await messaging.requestPermission(
-      alert: true,
-      announcement: false,
-      badge: true,
-      carPlay: false,
-      criticalAlert: false,
-      provisional: false,
-      sound: true,
-    );
-
-    if (kDebugMode) {
-      print('Permission granted: ${settings.authorizationStatus}');
-    }
-    // TODO: Register with FCM
-    // It requests a registration token for sending messages to users from your App server or other trusted server environment.
-    String? token = await messaging.getToken();
-
-    if (kDebugMode) {
-      print('Registration Token=$token');
+    _saveNotificationStatus(receiveNotifications);
+    if (receiveNotifications) {
+      FirebaseMessaging.instance.subscribeToTopic('qod');
+    } else {
+      FirebaseMessaging.instance.unsubscribeFromTopic('qod');
     }
   }
 
   @override
   Widget build(BuildContext context) {
+    // Get the top padding (safe area) of the device
+    final double topPadding = MediaQuery.of(context).padding.top;
+
+    // Optional: You can add additional padding if needed
+    const double additionalPadding = 30.0; // or any other value you see fit
+
     return Padding(
-      padding: const EdgeInsets.fromLTRB(0, 70, 0, 0),
+      padding: EdgeInsets.fromLTRB(0, topPadding, 0, 0),
       child: SingleChildScrollView(
         child: Column(
           // mainAxisAlignment: MainAxisAlignment.center,
@@ -86,15 +99,15 @@ class _InfoPageState extends State<PageInfo> {
                 ),
               ],
             ),
-            const SizedBox(height: 25),
-            const Text("Time of daily notification"),
-            GestureDetector(
-              onTap: _selectTime,
-              child: Opacity(
-                  opacity: 0.6,
-                  child: Text(
-                      "${selectedTime.hour.toString().padLeft(2, '0')}:${selectedTime.minute.toString().padLeft(2, '0')}")),
-            ),
+            // const SizedBox(height: 25),
+            // const Text("Time of daily notification"),
+            // GestureDetector(
+            //   onTap: _selectTime,
+            //   child: Opacity(
+            //       opacity: 0.6,
+            //       child: Text(
+            //           "${selectedTime.hour.toString().padLeft(2, '0')}:${selectedTime.minute.toString().padLeft(2, '0')}")),
+            // ),
             const SizedBox(height: 25),
             const Text("About", style: TextStyle(fontWeight: FontWeight.w600)),
             const SizedBox(height: 10),

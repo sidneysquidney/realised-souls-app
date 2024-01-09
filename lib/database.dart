@@ -12,10 +12,10 @@ DatabaseReference databaseRef = FirebaseDatabase.instance.ref();
 final authorsReference = databaseRef.child('authors');
 final quotesReference = databaseRef.child('quotes');
 
-Future<void> initializeFirebase() async {
-  WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
-}
+// Future<void> initializeFirebase() async {
+//   WidgetsFlutterBinding.ensureInitialized();
+//   await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
+// }
 
 void addToDatabase() {
   // DatabaseReference databaseRef = FirebaseDatabase.instance.ref();

@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:realised_app/Classes/user_info.dart';
 import 'package:realised_app/page_authors.dart';
 import 'package:realised_app/helper.dart';
 import 'package:realised_app/page_info.dart';
@@ -6,9 +7,14 @@ import 'package:realised_app/page_qod.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 class HomePage extends StatefulWidget {
-  const HomePage({super.key, required this.title, required this.data});
+  const HomePage(
+      {super.key,
+      required this.title,
+      required this.data,
+      required this.userInfo});
   final String title;
   final Map<String, dynamic> data;
+  final UserInfo userInfo;
 
   @override
   State<HomePage> createState() => _HomePageState();
@@ -52,7 +58,7 @@ class _HomePageState extends State<HomePage> {
             PageAuthors(
                 aList: extractAuthors2(widget.data),
                 qList: extractQuotes2(widget.data)),
-            const PageInfo(),
+            PageInfo(userInfo: widget.userInfo),
             // const QuotesPage()
           ][currentPageIndex],
           bottomNavigationBar: NavigationBar(

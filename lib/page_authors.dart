@@ -22,19 +22,41 @@ class _AuthorsPageState extends State<PageAuthors> {
 
   @override
   Widget build(BuildContext context) {
+    // Get the top padding (safe area) of the device
+    final double topPadding = MediaQuery.of(context).padding.top;
+
+    // Optional: You can add additional padding if needed
+    const double additionalPadding = 30.0; // or any other value you see fit
+
     return Padding(
-        padding: const EdgeInsets.fromLTRB(0, 70, 0, 0),
-        child: SingleChildScrollView(
-          child: Column(
-            children: widget.aList.map((author) {
-              return Card(
-                margin: const EdgeInsets.symmetric(
-                  vertical: 5,
-                  horizontal: 0,
-                ),
-                color:
-                    Colors.white.withOpacity(0.6), // White and 60% transparent
-                elevation: 0, // Set elevation to 0 for a transparent card
+      padding: EdgeInsets.fromLTRB(0, topPadding, 0, 0),
+      child: SingleChildScrollView(
+        child: Column(
+          children: widget.aList.map((author) {
+            return Container(
+              margin: const EdgeInsets.symmetric(
+                vertical: 0,
+                horizontal: 0, //change to 5 for both with shadow
+              ),
+              decoration: BoxDecoration(
+                borderRadius: BorderRadius.circular(5),
+                // creates cut-out shadow but can't offset y propperly as can still see the top
+                // boxShadow: [
+                //   BoxShadow(
+                //     color: Colors.black.withOpacity(0.5),
+                //     offset: const Offset(0, 0),
+                //     blurRadius: 6.0,
+                //     spreadRadius:
+                //         -1, // Negative spread radius to tighten the shadow
+                //     blurStyle: BlurStyle.outer, // Use the outer blur style
+                //   ),
+                // ],
+              ),
+              child: Card(
+                color: Colors.white
+                    .withOpacity(0.6), // Keep card color transparent
+                elevation: 0,
+
                 child: ListTile(
                   onTap: () {
                     Navigator.of(context).push(
@@ -52,17 +74,18 @@ class _AuthorsPageState extends State<PageAuthors> {
                   ),
                   subtitle: Text(
                     author.short_bio,
-                    // '${author.short_bio} (${author.dates_alive})',
                     style: Theme.of(context).textTheme.labelSmall,
                   ),
-                  leading: const ImageIcon(
-                    AssetImage('assets/AbeIcon.png'),
+                  leading: ImageIcon(
+                    AssetImage('assets/head_png/${author.image}'),
                     size: 60.0,
                   ),
                 ),
-              );
-            }).toList(),
-          ),
-        ));
+              ),
+            );
+          }).toList(),
+        ),
+      ),
+    );
   }
 }

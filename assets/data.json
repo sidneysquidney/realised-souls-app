@@ -1,3942 +1,4010 @@
 {
   "authors": {
-    "0": {
+   "0": {
       "Full Name": "Abraham Lincoln",
       "Short Bio": "16th President of the United States",
       "Dates Alive": "1809 - 1865",
-      "Image": "assets/lincoln.jpg"
-    },
-    "1": {
+      "Image": "lincoln.png"
+   },
+   "1": {
       "Full Name": "George Washington",
       "Short Bio": "First President of the United States",
       "Dates Alive": "1732 - 1799",
-      "Image": "assets/washington.jpg"
-    },
-    "2": {
+      "Image": "washington.png"
+   },
+   "2": {
       "Full Name": "William Shakespeare",
       "Short Bio": "English Playwright and Poet",
       "Dates Alive": "1564 - 1616",
-      "Image": "assets/shakespeare.jpg"
-    },
-    "3": {
+      "Image": "shakespeare.png"
+   },
+   "3": {
       "Full Name": "C.S. Lewis",
       "Short Bio": "British Writer and Theologian",
       "Dates Alive": "1898 - 1963",
-      "Image": "assets/cs_lewis.jpg"
-    },
-    "4": {
+      "Image": "lewis.png"
+   },
+   "4": {
       "Full Name": "Carl Jung",
       "Short Bio": "Swiss Psychiatrist and Psychoanalyst",
       "Dates Alive": "1875 - 1961",
-      "Image": "assets/carl_jung.jpg"
-    },
-    "5": {
+      "Image": "jung.png"
+   },
+   "5": {
       "Full Name": "Charles Dickens",
       "Short Bio": "English Writer and Novelist",
       "Dates Alive": "1812 - 1870",
-      "Image": "assets/charles_dickens.jpg"
-    },
-    "6": {
+      "Image": "dickens.png"
+   },
+   "6": {
       "Full Name": "Rumi",
       "Short Bio": "Persian Poet and Mystic",
       "Dates Alive": "1207 - 1273",
-      "Image": "assets/rumi.jpg"
-    },
-    "7": {
+      "Image": "rumi.png"
+   },
+   "7": {
       "Full Name": "Kahlil Gibran",
       "Short Bio": "Lebanese-American Writer and Philosopher",
       "Dates Alive": "1883 - 1931",
-      "Image": "assets/kahlil_gibran.jpg"
-    },
-    "8": {
+      "Image": "gibran.png"
+   },
+   "8": {
       "Full Name": "William Blake",
       "Short Bio": "English Poet and Painter",
       "Dates Alive": "1757 - 1827",
-      "Image": "assets/william_blake.jpg"
-    },
-    "9": {
+      "Image": "blake.png"
+   },
+   "9": {
       "Full Name": "William Wordsworth",
       "Short Bio": "English Romantic Poet",
       "Dates Alive": "1770 - 1850",
-      "Image": "assets/william_wordsworth.jpg"
-    },
-    "10": {
+      "Image": "wordsworth.png"
+   },
+   "10": {
       "Full Name": "Albert Einstein",
       "Short Bio": "Theoretical Physicist",
       "Dates Alive": "1879 - 1955",
-      "Image": "assets/einstein.jpg"
-    },
-    "11": {
+      "Image": "einstein.png"
+   },
+   "11": {
       "Full Name": "Alfred Lord Tennyson",
       "Short Bio": "English Poet",
       "Dates Alive": "1809 - 1892",
-      "Image": "assets/alfred_tennyson.jpg"
-    },
-    "12": {
+      "Image": "tennyson.png"
+   },
+   "12": {
       "Full Name": "Bernard Shaw",
       "Short Bio": "Irish Playwright and Critic",
       "Dates Alive": "1856 - 1950",
-      "Image": "assets/george_bernard_shaw.jpg"
-    },
-    "13": {
+      "Image": "shaw.png"
+   },
+   "13": {
       "Full Name": "A.J. Cronin",
       "Short Bio": "Scottish Novelist and Physician",
       "Dates Alive": "1896 - 1981",
-      "Image": "assets/aj_cronin.jpg"
-    },
-    "14": {
+      "Image": "cronin.png"
+   },
+   "14": {
       "Full Name": "Émile Zola",
       "Short Bio": "French Novelist",
       "Dates Alive": "1840 - 1902",
-      "Image": "assets/emile_zola.jpg"
-    },
-    "15": {
+      "Image": "zola.png"
+   },
+   "15": {
       "Full Name": "Molière",
       "Short Bio": "French Playwright and Actor",
       "Dates Alive": "1622 - 1673",
-      "Image": "assets/molliere.jpg"
-    },
-    "16": {
+      "Image": "moliere.png"
+   },
+   "16": {
       "Full Name": "Mahatma Gandhi",
       "Short Bio": "Leader of Indian Independence Movement",
       "Dates Alive": "1869 - 1948",
-      "Image": "assets/gandhi.jpg"
-    },
-    "17": {
+      "Image": "gandhi.png"
+   },
+   "17": {
       "Full Name": "Martin Luther King Jr.",
       "Short Bio": "Civil Rights Leader",
       "Dates Alive": "1929 - 1968",
-      "Image": "assets/martin_luther_king.jpg"
-    },
-    "18": {
+      "Image": "king.png"
+   },
+   "18": {
       "Full Name": "Nelson Mandela",
       "Short Bio": "Anti-Apartheid Revolutionary and Politician",
       "Dates Alive": "1918 - 2013",
-      "Image": "assets/nelson_mandela.jpg"
-    },
-    "19": {
+      "Image": "mandela.png"
+   },
+   "19": {
       "Full Name": "Mikhail Gorbachev",
       "Short Bio": "Former Soviet Union President",
       "Dates Alive": "1931 - Present",
-      "Image": "assets/mikhail_gorbachev.jpg"
-    },
-    "20": {
+      "Image": "gorbachev.png"
+   },
+   "20": {
       "Full Name": "Leonardo da Vinci",
       "Short Bio": "Polymath",
       "Dates Alive": "1452 - 1519",
-      "Image": "assets/da_vinci.jpg"
-    },
-    "21": {
+      "Image": "da_vinci.png"
+   },
+   "21": {
       "Full Name": "Michelangelo",
       "Short Bio": "Renaissance Sculptor and Painter",
       "Dates Alive": "1475 - 1564",
-      "Image": "assets/michelangelo.jpg"
-    },
-    "22": {
+      "Image": "michelangelo.png"
+   },
+   "22": {
       "Full Name": "Dante Alighieri",
       "Short Bio": "Italian Poet",
       "Dates Alive": "1265 - 1321",
-      "Image": "assets/dante.jpg"
-    },
-    "23": {
+      "Image": "dante.png"
+   },
+   "23": {
       "Full Name": "Johann Wolfgang von Goethe",
       "Short Bio": "German Writer and Philosopher",
       "Dates Alive": "1749 - 1832",
-      "Image": "assets/goethe.jpg"
-    },
-    "24": {
+      "Image": "goethe.png"
+   },
+   "24": {
       "Full Name": "Rabindranath Tagore",
       "Short Bio": "Bengali Poet and Philosopher",
       "Dates Alive": "1861 - 1941",
-      "Image": "assets/tagore.jpg"
-    },
-    "26": {
+      "Image": "tagore.png"
+   },
+   "26": {
       "Full Name": "Shivaji Maharaj",
       "Short Bio": "Maratha King",
       "Dates Alive": "1630 - 1680",
-      "Image": "assets/shivaji_maharaj.jpg"
-    },
-    "27": {
+      "Image": "shivaji.png"
+   },
+   "27": {
       "Full Name": "Baba Farid",
       "Short Bio": "Sufi Saint and Poet",
       "Dates Alive": "1173 - 1266",
-      "Image": "assets/baba_farid.jpg"
-    },
-    "28": {
+      "Image": "baba_farid.png"
+   },
+   "28": {
       "Full Name": "Shaikh Nizamuddin Auliya",
       "Short Bio": "Sufi Saint",
       "Dates Alive": "1238 - 1325",
-      "Image": "assets/nizamuddin_auliya.jpg"
-    },
-    "29": {
+      "Image": "nizamuddin.png"
+   },
+   "29": {
       "Full Name": "Kabir",
       "Short Bio": "Indian Mystic Poet",
       "Dates Alive": "1440 - 1518",
-      "Image": "assets/kabir.jpg"
-    },
-    "30": {
+      "Image": "kabir.png"
+   },
+   "30": {
       "Full Name": "Eknath",
       "Short Bio": "Saint, Poet, and Scholar",
       "Dates Alive": "1533 - 1599",
-      "Image": "assets/eknath.jpg"
-    },
-    "31": {
+      "Image": "eknath.png"
+   },
+   "31": {
       "Full Name": "Ramdas",
       "Short Bio": "Saint and Philosopher",
       "Dates Alive": "1608 - 1681",
-      "Image": "assets/ramdas.jpg"
-    },
-    "32": {
+      "Image": "ramdas.png"
+   },
+   "32": {
       "Full Name": "Tukaram",
       "Short Bio": "Saint and Poet",
       "Dates Alive": "1608 - 1649",
-      "Image": "assets/tukaram.jpg"
-    },
-    "33": {
+      "Image": "tukaram.png"
+   },
+   "33": {
       "Full Name": "Bulleh Shah",
       "Short Bio": "Sufi Saint and Poet",
       "Dates Alive": "1680 - 1757",
-      "Image": "assets/bulleh_shah.jpg"
-    },
-    "34": {
+      "Image": "bulleh_shah.png"
+   },
+   "34": {
       "Full Name": "Gnyaneshwar",
       "Short Bio": "Saint and Poet",
       "Dates Alive": "1275 - 1296",
-      "Image": "assets/gyaneshwar.jpg"
-    }
-  },
+      "Image": "gnyaneshwar.png"
+   },
+   "35": {
+      "Full Name": "Leo Tolstoy",
+      "Short Bio": "Russian Novelist and Philosopher",
+      "Dates Alive": "1828 - 1910",
+      "Image": "tolstoy.png"
+   },
+   "37": {
+      "Full Name": "Namdeo",
+      "Short Bio": "Visionary saint and poet from the Bhakti movement",
+      "Dates Alive": "1270 - 1350",
+      "Image": "namdeo.png"
+   }
+},
 
   "quotes": {
-    "0": {
+   "0": {
       "quote": "My concern is not whether God is on our side; my greatest concern is to be on God's side, for God is always right",
       "author": "Abraham Lincoln",
       "title": "",
       "count": 0,
       "last_used": "2024-05-26"
-    },
-    "1": {
+   },
+   "1": {
       "quote": "There are no bad pictures; that's just how your face looks sometimes.",
       "author": "Abraham Lincoln",
       "title": "",
       "count": 0,
       "last_used": "2024-09-12"
-    },
-    "2": {
+   },
+   "2": {
       "quote": "Those who look for the bad in people will surely find it.",
       "author": "Abraham Lincoln",
       "title": "",
       "count": 0,
       "last_used": "2024-09-15"
-    },
-    "3": {
+   },
+   "3": {
       "quote": "I don't like that man. I must get to know him better.",
       "author": "Abraham Lincoln",
       "title": "",
       "count": 0,
       "last_used": "2024-03-14"
-    },
-    "4": {
+   },
+   "4": {
       "quote": "Tact: the ability to describe others as they see themselves.",
       "author": "Abraham Lincoln",
       "title": "",
       "count": 0,
       "last_used": "2024-01-19"
-    },
-    "5": {
+   },
+   "5": {
       "quote": "Give me six hours to chop down a tree and I will spend the first four sharpening the axe.",
       "author": "Abraham Lincoln",
       "title": "",
       "count": 0,
       "last_used": "2024-11-22"
-    },
-    "6": {
+   },
+   "6": {
       "quote": "No man has a good enough memory to be a successful liar",
       "author": "Abraham Lincoln",
       "title": "",
       "count": 0,
       "last_used": "2023-11-18"
-    },
-    "7": {
+   },
+   "7": {
       "quote": "You can tell the greatness of a man by what makes him angry",
       "author": "Abraham Lincoln",
       "title": "",
       "count": 0,
       "last_used": "2025-03-01"
-    },
-    "8": {
+   },
+   "8": {
       "quote": "The Lord prefers common-looking people. That is why he made so many of them.",
       "author": "Abraham Lincoln",
       "title": "",
       "count": 0,
       "last_used": "2024-03-19"
-    },
-    "9": {
+   },
+   "9": {
       "quote": "It is difficult to make a man miserable while he feels worthy of himself and claims kindred to the great God who made him.",
       "author": "Abraham Lincoln",
       "title": "",
       "count": 0,
       "last_used": "2024-05-14"
-    },
-    "10": {
+   },
+   "10": {
       "quote": "When I get ready to talk to people, I spend two thirds of the time thinking what they want to hear and one third thinking about what I want to say.",
       "author": "Abraham Lincoln",
       "title": "",
       "count": 0,
       "last_used": "2024-10-24"
-    },
-    "11": {
+   },
+   "11": {
       "quote": "We should be too big to take offense and too noble to give it.",
       "author": "Abraham Lincoln",
       "title": "",
       "count": 0,
       "last_used": "2024-07-15"
-    },
-    "12": {
+   },
+   "12": {
       "quote": "I desire so to conduct the affairs of this administration that if at the end... I have lost every other friend on earth, I shall at least have one friend left, and that friend shall be down inside of me.",
       "author": "Abraham Lincoln",
       "title": "",
       "count": 0,
       "last_used": "2025-01-25"
-    },
-    "13": {
+   },
+   "13": {
       "quote": "Surely God would not have created such a being as man, with an ability to grasp the infinite, to exist only for a day! No, no, man was made for immortality",
       "author": "Abraham Lincoln",
       "title": "",
       "count": 0,
       "last_used": "2024-09-07"
-    },
-    "14": {
+   },
+   "14": {
       "quote": "The shepherd drives the wolf from the sheep's throat, for which the sheep thanks the shepherd as his liberator, while the wolf denounces him for the same act as the destroyer of liberty. Plainly, the sheep and the wolf are not agreed upon a definition of liberty.",
       "author": "Abraham Lincoln",
       "title": "",
       "count": 0,
       "last_used": "2024-06-28"
-    },
-    "15": {
+   },
+   "15": {
       "quote": "Don't worry when you are not recognized, but strive to be worthy of recognition",
       "author": "Abraham Lincoln",
       "title": "",
       "count": 0,
       "last_used": "2024-07-31"
-    },
-    "16": {
+   },
+   "16": {
       "quote": "I am a slow walker, but I never walk back",
       "author": "Abraham Lincoln",
       "title": "",
       "count": 0,
       "last_used": "2024-07-05"
-    },
-    "17": {
+   },
+   "17": {
       "quote": "Be sure you put your feet in the right place, then stand firm",
       "author": "Abraham Lincoln",
       "title": "",
       "count": 0,
       "last_used": "2024-10-23"
-    },
-    "18": {
+   },
+   "18": {
       "quote": "That some achieve great success, is proof to all that others can achieve it as well.",
       "author": "Abraham Lincoln",
       "title": "",
       "count": 0,
       "last_used": "2024-10-01"
-    },
-    "19": {
+   },
+   "19": {
       "quote": "You can fool all the people some of the time, and some of the people all the time, but you cannot fool all the people all the time.",
       "author": "Abraham Lincoln",
       "title": "",
       "count": 0,
       "last_used": "2024-10-20"
-    },
-    "20": {
+   },
+   "20": {
       "quote": "Experience teaches us that it is much easier to prevent an enemy from posting themselves than it is to dislodge them after they have got possession",
       "author": "George Washington",
       "title": "",
       "count": 0,
       "last_used": "2024-04-15"
-    },
-    "21": {
+   },
+   "21": {
       "quote": "I walk on untrodden ground. There is scarcely any part of my conduct which may not hereafter be drawn into precedent",
       "author": "George Washington",
       "title": "",
       "count": 0,
       "last_used": "2024-05-28"
-    },
-    "22": {
+   },
+   "22": {
       "quote": "My observation is that whenever one person is found adequate to the discharge of a duty... it is worse executed by two persons, and scarcely done at all if three or more are employed therein.",
       "author": "George Washington",
       "title": "",
       "count": 0,
       "last_used": "2024-02-17"
-    },
-    "23": {
+   },
+   "23": {
       "quote": "Few men have virtue to withstand the highest bidder",
       "author": "George Washington",
       "title": "",
       "count": 0,
       "last_used": "2023-11-16"
-    },
-    "24": {
+   },
+   "24": {
       "quote": "Worry is the interest paid by those who borrow trouble",
       "author": "George Washington",
       "title": "",
       "count": 0,
       "last_used": "2024-05-12"
-    },
-    "25": {
+   },
+   "25": {
       "quote": "It is far better to be alone, than to be in bad company.",
       "author": "George Washington",
       "title": "",
       "count": 0,
       "last_used": "2024-11-23"
-    },
-    "26": {
+   },
+   "26": {
       "quote": "Human happiness and moral duty are inseparably connected.",
       "author": "George Washington",
       "title": "",
       "count": 0,
       "last_used": "2025-03-26"
-    },
-    "27": {
+   },
+   "27": {
       "quote": "99% of failures come from people who make excuses.",
       "author": "George Washington",
       "title": "",
       "count": 0,
       "last_used": "2024-02-07"
-    },
-    "28": {
+   },
+   "28": {
       "quote": "Individuals entering into society, must give up a share of liberty to preserve the rest.",
       "author": "George Washington",
       "title": "",
       "count": 0,
       "last_used": "2025-02-13"
-    },
-    "29": {
+   },
+   "29": {
       "quote": "If to please the people, we offer what we ourselves disapprove, how can we afterwards defend our work? Let us raise a standard to which the wise and honest can repair. The rest is in the hands of God",
       "author": "George Washington",
       "title": "",
       "count": 0,
       "last_used": "2024-04-22"
-    },
-    "30": {
+   },
+   "30": {
       "quote": "Uneasy lies the head that wears the crown.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2025-01-31"
-    },
-    "31": {
+   },
+   "31": {
       "quote": "Give every man thy ear, but few thy voice.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2024-12-04"
-    },
-    "32": {
+   },
+   "32": {
       "quote": "Time and the hour run through the roughest day.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2025-01-12"
-    },
-    "33": {
+   },
+   "33": {
       "quote": "The love of heaven makes one heavenly.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2024-03-26"
-    },
-    "34": {
+   },
+   "34": {
       "quote": "Love is not love that alters when it alteration finds.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2023-12-17"
-    },
-    "35": {
+   },
+   "35": {
       "quote": "Boldness be my friend.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2023-10-20"
-    },
-    "36": {
+   },
+   "36": {
       "quote": "My crown is called content, a crown that seldom kings enjoy.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2025-02-10"
-    },
-    "37": {
+   },
+   "37": {
       "quote": "Ignorance is the curse of God; knowledge is the wing wherewith we fly to heaven.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2024-05-06"
-    },
-    "38": {
+   },
+   "38": {
       "quote": "Let me embrace thee, sour adversity, for wise men say it is the wisest course.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2024-09-13"
-    },
-    "39": {
+   },
+   "39": {
       "quote": "God has given you one face, and you make yourself another.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2025-03-20"
-    },
-    "40": {
+   },
+   "40": {
       "quote": "Some rise by sin, and some by virtue fall.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2024-12-16"
-    },
-    "41": {
+   },
+   "41": {
       "quote": "If you prick us do we not bleed? If you tickle us do we not laugh? If you poison us do we not die? And if you wrong us shall we not revenge?",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2024-08-10"
-    },
-    "42": {
+   },
+   "42": {
       "quote": "It is not in the stars to hold our destiny but in ourselves.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2024-02-23"
-    },
-    "43": {
+   },
+   "43": {
       "quote": "I am not bound to please thee with my answer.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2024-09-20"
-    },
-    "44": {
+   },
+   "44": {
       "quote": "A fool thinks himself to be wise, but a wise man knows himself to be a fool.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2024-03-22"
-    },
-    "45": {
+   },
+   "45": {
       "quote": "Cowards die many times before their deaths; the valiant never taste of death but once.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2024-06-05"
-    },
-    "46": {
+   },
+   "46": {
       "quote": "Is it not strange that desire should so many years outlive performance?",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2024-03-06"
-    },
-    "47": {
+   },
+   "47": {
       "quote": "Lord, what fools these mortals be!",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2024-10-14"
-    },
-    "48": {
+   },
+   "48": {
       "quote": "O thou invisible spirit of wine, if thou hast no name to be known by, let us call thee devil.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2024-07-10"
-    },
-    "49": {
+   },
+   "49": {
       "quote": "Maids want nothing but husbands, and when they have them, they want everything.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2024-12-05"
-    },
-    "50": {
+   },
+   "50": {
       "quote": "So long as men can breathe or eyes can see, so long lives this and this gives life to thee.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2024-12-28"
-    },
-    "51": {
+   },
+   "51": {
       "quote": "Love all, trust a few, do wrong to none.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2024-07-08"
-    },
-    "52": {
+   },
+   "52": {
       "quote": "They do not love that do not show their love.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2024-12-20"
-    },
-    "53": {
+   },
+   "53": {
       "quote": "Self-love, my liege, is not so vile a sin, as self-neglecting.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2024-04-02"
-    },
-    "54": {
+   },
+   "54": {
       "quote": "Many a true word hath been spoken in jest.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2024-05-30"
-    },
-    "55": {
+   },
+   "55": {
       "quote": "All things are ready, if our mind be so.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2024-07-25"
-    },
-    "56": {
+   },
+   "56": {
       "quote": "If we are true to ourselves, we can not be false to anyone.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2023-10-19"
-    },
-    "57": {
+   },
+   "57": {
       "quote": "O, beware, my lord, of jealousy; it is the green-ey'd monster, which doth mock the meat it feeds on.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2023-11-06"
-    },
-    "58": {
+   },
+   "58": {
       "quote": "Brevity is the soul of wit.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2023-11-08"
-    },
-    "59": {
+   },
+   "59": {
       "quote": "Better three hours too soon than a minute too late.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2024-08-30"
-    },
-    "60": {
+   },
+   "60": {
       "quote": "All that glitters is not gold.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2025-02-24"
-    },
-    "61": {
+   },
+   "61": {
       "quote": "All the world's a stage, and all the men and women merely players. They have their exits and their entrances; and one man in his time plays many parts.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2025-01-10"
-    },
-    "62": {
+   },
+   "62": {
       "quote": "To be, or not to be: that is the question.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2023-11-24"
-    },
-    "63": {
+   },
+   "63": {
       "quote": "Reputation is an idle and most false imposition; oft got without merit, and lost without deserving.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2025-02-03"
-    },
-    "64": {
+   },
+   "64": {
       "quote": "And oftentimes excusing of a fault doth make the fault the worse by the excuse.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2024-09-01"
-    },
-    "65": {
+   },
+   "65": {
       "quote": "Such as we are made of, such we be.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2024-05-20"
-    },
-    "66": {
+   },
+   "66": {
       "quote": "In time we hate that which we often fear.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2024-09-09"
-    },
-    "67": {
+   },
+   "67": {
       "quote": "Heat not a furnace for your foe so hot that it do singe yourself.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2024-03-20"
-    },
-    "68": {
+   },
+   "68": {
       "quote": "Neither a borrower nor a lender be.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2024-12-07"
-    },
-    "69": {
+   },
+   "69": {
       "quote": "'Tis not enough to help the feeble up, but to support them after.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2024-03-09"
-    },
-    "70": {
+   },
+   "70": {
       "quote": "Sweet mercy is nobility's true badge.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2024-01-30"
-    },
-    "71": {
+   },
+   "71": {
       "quote": "What is past is prologue.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2024-02-08"
-    },
-    "72": {
+   },
+   "72": {
       "quote": "The robbed that smiles, steals something from the thief.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2024-03-31"
-    },
-    "73": {
+   },
+   "73": {
       "quote": "I wasted time, and now doth time waste me.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2024-01-18"
-    },
-    "74": {
+   },
+   "74": {
       "quote": "This above all; to thine own self be true.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2024-09-27"
-    },
-    "75": {
+   },
+   "75": {
       "quote": "What's done can't be undone.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2024-11-04"
-    },
-    "76": {
+   },
+   "76": {
       "quote": "How far that little candle throws its beams! So shines a good deed in a naughty world.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2025-02-26"
-    },
-    "77": {
+   },
+   "77": {
       "quote": "Nothing can come of nothing.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2024-02-26"
-    },
-    "78": {
+   },
+   "78": {
       "quote": "How poor are they that have not patience! What wound did ever heal but by degrees?",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2024-07-24"
-    },
-    "79": {
+   },
+   "79": {
       "quote": "Our doubts are traitors and make us lose the good we oft might win by fearing to attempt.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2024-02-12"
-    },
-    "80": {
+   },
+   "80": {
       "quote": "We know what we are, but know not what we may be",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2025-02-28"
-    },
-    "81": {
+   },
+   "81": {
       "quote": "Some are born great, some achieve greatness, and others have greatness thrust upon them.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2023-11-07"
-    },
-    "82": {
+   },
+   "82": {
       "quote": "Fortune brings in some boats that are not steered.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2024-04-11"
-    },
-    "83": {
+   },
+   "83": {
       "quote": "O, what a goodly outside falsehood hath!",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2024-04-25"
-    },
-    "84": {
+   },
+   "84": {
       "quote": "Go to you bosom: Knock there, and ask your heart what it doth know.",
       "author": "William Shakespeare",
       "title": "",
       "count": 0,
       "last_used": "2023-11-01"
-    },
-    "85": {
+   },
+   "85": {
       "quote": "Humans are amphibians - half spirit and half animal. As spirits they belong to the eternal world, but as animals they inhabit time",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2024-01-17"
-    },
-    "86": {
+   },
+   "86": {
       "quote": "Part of every misery is, so to speak, the misery's shadow or reflection: the fact that you don't merely suffer but have to keep on thinking about the fact that you suffer. I not only live each endless day in grief, but live each day thinking about living each day in grief.",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2023-10-17"
-    },
-    "87": {
+   },
+   "87": {
       "quote": "Nothing that you have not given away will ever be really yours",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2023-11-19"
-    },
-    "88": {
+   },
+   "88": {
       "quote": "We are not living in a world where all roads are radii of a circle and where all, if followed long enough, will therefore draw gradually nearer and finally meet at the centre: rather in a world where every road, after a few miles, forks into two, and each of those into two again, and at each fork, you must make a decision.",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2024-11-19"
-    },
-    "89": {
+   },
+   "89": {
       "quote": "I think that all things, in their way, reflect heavenly truth, the imagination not least.",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2024-07-11"
-    },
-    "90": {
+   },
+   "90": {
       "quote": "History isn't just the story of bad people doing bad things. It's quite as much a story of people trying to do good things. But somehow, something goes wrong.",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2024-10-02"
-    },
-    "91": {
+   },
+   "91": {
       "quote": "I gave in, and admitted that God was God",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2024-11-01"
-    },
-    "92": {
+   },
+   "92": {
       "quote": "Always try to use the language so as to make quite clear what you mean and make sure your sentence couldn't mean anything else.",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2025-03-17"
-    },
-    "93": {
+   },
+   "93": {
       "quote": "With the possible exception of the equator, everything begins somewhere",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2024-12-24"
-    },
-    "94": {
+   },
+   "94": {
       "quote": "I sometimes wonder whether all pleasures are not substitutes for joy",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2024-10-17"
-    },
-    "95": {
+   },
+   "95": {
       "quote": "Joy is the serious business of Heaven",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2023-12-28"
-    },
-    "96": {
+   },
+   "96": {
       "quote": "Look for yourself, and you will find in the long run only hatred, loneliness, despair, rage, ruin, and decay. But look for Christ, and you will find Him, and with Him everything else thrown in.",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2024-06-27"
-    },
-    "97": {
+   },
+   "97": {
       "quote": "The safest road to hell is the gradual one - the gentle slope, soft underfoot, without sudden turnings, without milestones, without signposts.",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2024-08-12"
-    },
-    "98": {
+   },
+   "98": {
       "quote": "Courage is not simply one of the virtues, but the form of every virtue at the testing point.",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2024-02-06"
-    },
-    "99": {
+   },
+   "99": {
       "quote": "We all want progress, but if you're on the wrong road, progress means doing an about-turn and walking back to the right road; in that case, the man who turns back soonest is the most progressive.",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2024-08-03"
-    },
-    "100": {
+   },
+   "100": {
       "quote": "Aim at heaven and you will get earth thrown in. Aim at earth and you get neither.",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2025-03-25"
-    },
-    "101": {
+   },
+   "101": {
       "quote": "If you look for truth, you may find comfort in the end; if you look for comfort you will not get either comfort or truth only soft soap and wishful thinking to begin, and in the end, despair.",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2024-10-21"
-    },
-    "102": {
+   },
+   "102": {
       "quote": "There are two kinds of people: those who say to God, 'Thy will be done,' and those to whom God says, 'All right, then, have it your way.'",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2024-01-08"
-    },
-    "103": {
+   },
+   "103": {
       "quote": "There is but one good; that is God. Everything else is good when it looks to him and bad when it turns from him.",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2024-10-05"
-    },
-    "104": {
+   },
+   "104": {
       "quote": "It is safe to tell the pure in heart that they shall see God, for only the pure in heart want to.",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2024-04-01"
-    },
-    "105": {
+   },
+   "105": {
       "quote": "The terrible thing, the almost impossible thing, is to hand over your whole self--all your wishes and precautions--to Christ. But it is far easier than what we are all trying to do instead. For what we are trying to do is to remain what we call 'ourselves,' to keep personal happiness as our great aim in life, and yet at the same time be 'good.'",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2025-02-23"
-    },
-    "106": {
+   },
+   "106": {
       "quote": "Since it is so likely that children will meet cruel enemies, let them at least have heard of brave knights and heroic courage.",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2024-09-25"
-    },
-    "107": {
+   },
+   "107": {
       "quote": "The homemaker has the ultimate career. All other careers exist for one purpose only - and that is to support the ultimate career.",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2023-12-02"
-    },
-    "108": {
+   },
+   "108": {
       "quote": "In each of my friends there is something that only some other friend can fully bring out. By myself I am not large enough to call the whole man into activity; I want other lights than my own to show all his facets... Hence true Friendship is the least jealous of loves. Two friends delight to be joined by a third, and three by a fourth, if only the newcomer is qualified to become a real friend. They can then say, as the blessed souls say in Dante, 'Here comes one who will augment our loves.' For in this love 'to divide is not to take away’.",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2024-08-13"
-    },
-    "109": {
+   },
+   "109": {
       "quote": "Alone among unsympathetic companions, I hold certain views and standards timidly, half ashamed to avow them and half doubtful if they can after all be right. Put me back among my Friends and in half an hour - in ten minutes - these same views and standards become once more indisputable. The opinion of this little circle, while I am in it, outweighs that of a thousand outsiders: as Friendship strengthens, it will do this even when my Friends are far away. For we all wish to be judged by our peers, by the men 'after our own heart.' Only they really know our mind and only they judge it by standards we fully acknowledge. Theirs is the praise we really covet and the blame we really dread",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2024-04-18"
-    },
-    "110": {
+   },
+   "110": {
       "quote": "I remember Christian teachers telling me long ago that I must hate a bad man's actions but not hate the bad man: or, as they would say, hate the sin but not the sinner. ...I used to think this a silly, straw-splitting distinction: how could you hate what a man did and not hate the man? But years later it occurred to me that there was one man to whom I had been doing this all my life -- namely myself. However much I might dislike my own cowardice or conceit or greed, I went on loving myself. There had never been the slightest difficulty about it. In fact the very reason why I hated the things was that I loved the man. Just because I loved myself, I was sorry to find that I was the sort of man who did those things.",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2024-03-10"
-    },
-    "111": {
+   },
+   "111": {
       "quote": "Faith, in the sense in which I am here using the word, is the art of holding on to things your reason has once accepted, in spite of your changing moods.”",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2024-05-11"
-    },
-    "112": {
+   },
+   "112": {
       "quote": "Everyone thinks forgiveness is a lovely idea until he has something to forgive.”",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2024-02-27"
-    },
-    "113": {
+   },
+   "113": {
       "quote": "'I never exactly made a book. It's rather like taking dictation. I was given things to say.",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2024-08-27"
-    },
-    "114": {
+   },
+   "114": {
       "quote": "Pride gets no pleasure out of having something, only out of having more of it than the next man... It is the comparison that makes you proud: the pleasure of being above the rest. Once the element of competition is gone, pride is gone.”",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2024-10-06"
-    },
-    "115": {
+   },
+   "115": {
       "quote": "When you argue against Him you are arguing against the very power that makes you able to argue at all: it is like cutting off the branch you are sitting on.”",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2024-11-24"
-    },
-    "116": {
+   },
+   "116": {
       "quote": "Remember He is the artist and you are only the picture. You can't see it. So quietly submit to be painted---i.e., keep fulfilling all the obvious duties of your station (you really know quite well enough what they are!), asking forgiveness for each failure and then leaving it alone. You are in the right way. Walk---don't keep on looking at it.",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2023-10-11"
-    },
-    "117": {
+   },
+   "117": {
       "quote": "If we let ourselves, we shall always be waiting for some distraction or other to end before we can really get down to our work. The only people who achieve much are those who want knowledge so badly that they seek it while the conditions are still unfavourable. Favourable conditions never come.",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2024-04-13"
-    },
-    "118": {
+   },
+   "118": {
       "quote": "Do not let us mistake necessary evils for good",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2024-02-21"
-    },
-    "119": {
+   },
+   "119": {
       "quote": "You may have noticed that the books you really love are bound together by a secret thread. You know very well what is the common quality that makes you love them, though you cannot put it into words",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2024-03-03"
-    },
-    "120": {
+   },
+   "120": {
       "quote": "Give up yourself, and you will find your real self. Lose your life and you will save it. Submit to death, death of your ambitions and favourite wishes every day and death of your whole body in the end submit with every fibre of your being, and you will find eternal life",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2024-01-09"
-    },
-    "121": {
+   },
+   "121": {
       "quote": "The more we let God take us over, the more truly ourselves we become - because He made us. He invented us. He invented all the different people that you and I were intended to be...It is when I turn to Christ, when I give up myself to His personality, that I first begin to have a real personality of my own.”",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2024-04-26"
-    },
-    "122": {
+   },
+   "122": {
       "quote": "Adventures are never fun while you're having them.”",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2024-07-16"
-    },
-    "123": {
+   },
+   "123": {
       "quote": "I am trying here to prevent anyone saying the really foolish thing that people often say about Him: I’m ready to accept Jesus as a great moral teacher, but I don’t accept his claim to be God. That is the one thing we must not say. A man who was merely a man and said the sort of things Jesus said would not be a great moral teacher. He would either be a lunatic — on the level with the man who says he is a poached egg — or else he would be the Devil of Hell. You must make your choice. Either this man was, and is, the Son of God, or else a madman or something worse. You can shut him up for a fool, you can spit at him and kill him as a demon or you can fall at his feet and call him Lord and God, but let us not come with any patronizing nonsense about his being a great human teacher. He has not left that open to us. He did not intend to.",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2025-03-13"
-    },
-    "124": {
+   },
+   "124": {
       "quote": "Relying on God has to begin all over again every day as if nothing had yet been done. The sweetest thing in all my life has been the longing — to reach the Mountain, to find the place where all the beauty came from — my country, the place where I ought to have been born. Do you think it all meant nothing, all the longing? The longing for home? For indeed it now feels not like going, but like going back.",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2024-10-19"
-    },
-    "125": {
+   },
+   "125": {
       "quote": "The sweetest thing in all my life has been the longing — to reach the Mountain, to find the place where all the beauty came from — my country, the place where I ought to have been born. Do you think it all meant nothing, all the longing? The longing for home? For indeed it now feels not like going, but like going back.”",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2024-12-30"
-    },
-    "126": {
+   },
+   "126": {
       "quote": "We may ignore, but we can nowhere evade the presence of God. The world is crowded with Him. He walks everywhere incognito.",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2025-03-05"
-    },
-    "127": {
+   },
+   "127": {
       "quote": "A proud man is always looking down on things and people; and, of course, as long as you are looking down, you cannot see something that is above you",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2025-02-25"
-    },
-    "128": {
+   },
+   "128": {
       "quote": "A silly idea is current that good people do not know what temptation means. This is an obvious lie. Only those who try to resist temptation know how strong it is... A man who gives in to temptation after five minutes simply does not know what it would have been like an hour later. That is why bad people, in one sense, know very little about badness. They have lived a sheltered life by always giving in",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2023-12-04"
-    },
-    "129": {
+   },
+   "129": {
       "quote": "You would not have called to me unless I had been calling to you,' said the Lion.",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2023-12-31"
-    },
-    "130": {
+   },
+   "130": {
       "quote": "To have faith in Christ means, of course, trying to do all that He says. There would be no sense in saying you trusted a person if you would not take his advice. Thus if you have really handed yourself over to Him, it must follow that you are trying to obey Him. But trying in a new way, a less worried way. Not doing these things in order to be saved, but because He has begun to save you already. Not hoping to get to Heaven as a reward for your actions, but inevitably wanting to act in a certain way because a first faint gleam of Heaven is already inside you.",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2025-02-01"
-    },
-    "131": {
+   },
+   "131": {
       "quote": "Imagine yourself as a living house. God comes in to rebuild that house. At first, perhaps, you can understand what He is doing. He is getting the drains right and stopping the leaks in the roof and so on; you knew that those jobs needed doing and so you are not surprised. But presently He starts knocking the house about in a way that hurts abominably and does not seem to make any sense. What on earth is He up to? The explanation is that He is building quite a different house from the one you thought of - throwing out a new wing here, putting on an extra floor there, running up towers, making courtyards. You thought you were being made into a decent little cottage: but He is building a palace. He intends to come and live in it Himself.",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2023-11-04"
-    },
-    "132": {
+   },
+   "132": {
       "quote": "I think that if God forgives us we must forgive ourselves. Otherwise, it is almost like setting up ourselves as a higher tribunal than Him.",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2023-12-29"
-    },
-    "133": {
+   },
+   "133": {
       "quote": "The great thing to remember is that though our feelings come and go God's love for us does not.",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2023-12-19"
-    },
-    "134": {
+   },
+   "134": {
       "quote": "My argument against God was that the universe seemed so cruel and unjust. But how had I got this idea of just and unjust? A man does not call a line crooked unless he has some idea of a straight line. What was I comparing this universe with when I called it unjust?”",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2024-03-02"
-    },
-    "135": {
+   },
+   "135": {
       "quote": "It is a good rule after reading a new book, never to allow yourself another new one till you have read an old one in between.",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2025-01-05"
-    },
-    "136": {
+   },
+   "136": {
       "quote": "I can't imagine a man really enjoying a book and reading it only once.",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2024-04-05"
-    },
-    "137": {
+   },
+   "137": {
       "quote": "The Christian does not think God will love us because we are good, but that God will make us good because He loves us.",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2024-07-18"
-    },
-    "138": {
+   },
+   "138": {
       "quote": "We are not necessarily doubting that God will do the best for us; we are wondering how painful the best will turn out to be.",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2024-07-13"
-    },
-    "139": {
+   },
+   "139": {
       "quote": "A children's story that can only be enjoyed by children is not a good children's story in the slightest",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2024-06-10"
-    },
-    "140": {
+   },
+   "140": {
       "quote": "It would seem that Our Lord finds our desires not too strong, but too weak. We are half-hearted creatures, fooling about with drink and sex and ambition when infinite joy is offered us, like an ignorant child who wants to go on making mud pies in a slum because he cannot imagine what is meant by the offer of a holiday at the sea. We are far too easily pleased.",
       "author": "C.S. Lewis",
       "title": "",
       "count": 0,
       "last_used": "2024-12-26"
-    },
-    "141": {
+   },
+   "141": {
       "quote": "A man likes to believe that he is the master of his soul. But as long as he is unable to control his moods and emotions, or to be conscious of the myriad secret ways in which unconscious factors insinuate themselves into his arrangements and decisions, he is certainly not his own master.",
       "author": "Carl Jung",
       "title": "",
       "count": 0,
       "last_used": "2024-07-02"
-    },
-    "142": {
+   },
+   "142": {
       "quote": "I cannot prove to you that God exists, but my work has proved empirically that the pattern of God exists in every man and that this pattern in the individual has at its disposal the greatest transforming energies of which life is capable. Find this pattern in your own individual self and life is transformed.",
       "author": "Carl Jung",
       "title": "",
       "count": 0,
       "last_used": "2024-01-14"
-    },
-    "143": {
+   },
+   "143": {
       "quote": "We don't really heal anything; we simply let it go.",
       "author": "Carl Jung",
       "title": "",
       "count": 0,
       "last_used": "2024-07-14"
-    },
-    "144": {
+   },
+   "144": {
       "quote": "Everyone you meet knows something you don't know but need to know. Learn from them.",
       "author": "Carl Jung",
       "title": "",
       "count": 0,
       "last_used": "2024-02-22"
-    },
-    "145": {
+   },
+   "145": {
       "quote": "The foundation of all mental illness is the unwillingness to experience legitimate suffering.",
       "author": "Carl Jung",
       "title": "",
       "count": 0,
       "last_used": "2024-05-02"
-    },
-    "146": {
+   },
+   "146": {
       "quote": "About a third of my cases are suffering from no clinically definable neurosis, but from the senselessness and emptiness of their lives. This can be defined as the general neurosis of our times.",
       "author": "Carl Jung",
       "title": "",
       "count": 0,
       "last_used": "2024-12-12"
-    },
-    "147": {
+   },
+   "147": {
       "quote": "To find out what is truly individual in ourselves, profound reflection is needed; and suddenly we realize how uncommonly difficult the discovery of individuality is.",
       "author": "Carl Jung",
       "title": "",
       "count": 0,
       "last_used": "2024-04-21"
-    },
-    "148": {
+   },
+   "148": {
       "quote": "The greatest tragedy of the family is the unlived lives of the parents.",
       "author": "Carl Jung",
       "title": "",
       "count": 0,
       "last_used": "2024-12-14"
-    },
-    "149": {
+   },
+   "149": {
       "quote": "Thinking is difficult, that’s why most people judge.",
       "author": "Carl Jung",
       "title": "",
       "count": 0,
       "last_used": "2023-12-21"
-    },
-    "150": {
+   },
+   "150": {
       "quote": "The most terrifying thing is to accept oneself completely.",
       "author": "Carl Jung",
       "title": "",
       "count": 0,
       "last_used": "2024-06-02"
-    },
-    "151": {
+   },
+   "151": {
       "quote": "People will do anything, no matter how absurd, to avoid facing their own souls.",
       "author": "Carl Jung",
       "title": "",
       "count": 0,
       "last_used": "2024-07-06"
-    },
-    "152": {
+   },
+   "152": {
       "quote": "As a child I felt myself to be alone, and I am still, because I know things and must hint at things which others apparently know nothing of, and for the most part do not want to know.",
       "author": "Carl Jung",
       "title": "",
       "count": 0,
       "last_used": "2023-10-27"
-    },
-    "153": {
+   },
+   "153": {
       "quote": "The privilege of a lifetime is to become who you truly are.",
       "author": "Carl Jung",
       "title": "",
       "count": 0,
       "last_used": "2024-01-22"
-    },
-    "154": {
+   },
+   "154": {
       "quote": "You are what you do, not what you say you'll do.",
       "author": "Carl Jung",
       "title": "",
       "count": 0,
       "last_used": "2024-11-30"
-    },
-    "155": {
+   },
+   "155": {
       "quote": "I am not what happened to me, I am what I choose to become.",
       "author": "Carl Jung",
       "title": "",
       "count": 0,
       "last_used": "2024-09-30"
-    },
-    "156": {
+   },
+   "156": {
       "quote": "The word 'belief' is a difficult thing for me. I don't believe. I must have a reason for a certain hypothesis. Either I know a thing, and then I know it - I don't need to believe it.",
       "author": "Carl Jung",
       "title": "",
       "count": 0,
       "last_used": "2024-02-01"
-    },
-    "157": {
+   },
+   "157": {
       "quote": "It is a fact that cannot be denied: the wickedness of others becomes our own wickedness because it kindles something evil in our own hearts.",
       "author": "Carl Jung",
       "title": "",
       "count": 0,
       "last_used": "2024-06-23"
-    },
-    "158": {
+   },
+   "158": {
       "quote": "Man's task is to become conscious of the contents that press upward from the unconscious.",
       "author": "Carl Jung",
       "title": "",
       "count": 0,
       "last_used": "2024-08-02"
-    },
-    "159": {
+   },
+   "159": {
       "quote": "I have treated many hundreds of patients. Among those in the second half of life - that is to say, over 35 - there has not been one whose problem in the last resort was not that of finding a religious outlook on life.",
       "author": "Carl Jung",
       "title": "",
       "count": 0,
       "last_used": "2024-08-09"
-    },
-    "160": {
+   },
+   "160": {
       "quote": "The greatest and most important problems of life are all fundamentally insoluble. They can never be solved but only outgrown.",
       "author": "Carl Jung",
       "title": "",
       "count": 0,
       "last_used": "2023-10-13"
-    },
-    "161": {
+   },
+   "161": {
       "quote": "If there is anything that we wish to change in the child, we should first examine it and see whether it is not something that could better be changed in ourselves.",
       "author": "Carl Jung",
       "title": "",
       "count": 0,
       "last_used": "2024-01-23"
-    },
-    "162": {
+   },
+   "162": {
       "quote": "The most intense conflicts, if overcome, leave behind a sense of security and calm that is not easily disturbed. It is just these intense conflicts and their conflagration which are needed to produce valuable and lasting results.",
       "author": "Carl Jung",
       "title": "",
       "count": 0,
       "last_used": "2024-08-06"
-    },
-    "163": {
+   },
+   "163": {
       "quote": "There is no such thing as a pure introvert or extrovert. Such a person would be in the lunatic asylum.",
       "author": "Carl Jung",
       "title": "",
       "count": 0,
       "last_used": "2024-05-03"
-    },
-    "164": {
+   },
+   "164": {
       "quote": "Children are educated by what the grown-up is and not by his talk.",
       "author": "Carl Jung",
       "title": "",
       "count": 0,
       "last_used": "2024-08-22"
-    },
-    "165": {
+   },
+   "165": {
       "quote": "The pendulum of the mind alternates between sense and nonsense, not between right and wrong.",
       "author": "Carl Jung",
       "title": "",
       "count": 0,
       "last_used": "2024-09-21"
-    },
-    "166": {
+   },
+   "166": {
       "quote": "If one does not understand a person, one tends to regard him as a fool.",
       "author": "Carl Jung",
       "title": "",
       "count": 0,
       "last_used": "2024-10-22"
-    },
-    "167": {
+   },
+   "167": {
       "quote": "When an inner situation is not made conscious, it appears outside as fate.",
       "author": "Carl Jung",
       "title": "",
       "count": 0,
       "last_used": "2023-11-11"
-    },
-    "168": {
+   },
+   "168": {
       "quote": "Every form of addiction is bad, no matter whether the narcotic be alcohol or morphine or idealism.",
       "author": "Carl Jung",
       "title": "",
       "count": 0,
       "last_used": "2024-02-02"
-    },
-    "169": {
+   },
+   "169": {
       "quote": "In all chaos there is a cosmos, in all disorder a secret order.",
       "author": "Carl Jung",
       "title": "",
       "count": 0,
       "last_used": "2024-11-14"
-    },
-    "170": {
+   },
+   "170": {
       "quote": "Everything that irritates us about others can lead us to an understanding of ourselves.",
       "author": "Carl Jung",
       "title": "",
       "count": 0,
       "last_used": "2023-12-13"
-    },
-    "171": {
+   },
+   "171": {
       "quote": "Knowing your own darkness is the best method for dealing with the darknesses of other people.",
       "author": "Carl Jung",
       "title": "",
       "count": 0,
       "last_used": "2024-05-21"
-    },
-    "172": {
+   },
+   "172": {
       "quote": "Your vision will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.",
       "author": "Carl Jung",
       "title": "",
       "count": 0,
       "last_used": "2023-10-14"
-    },
-    "173": {
+   },
+   "173": {
       "quote": "A loving heart is the truest wisdom",
       "author": "Charles Dickens",
       "title": "",
       "count": 0,
       "last_used": "2024-07-26"
-    },
-    "174": {
+   },
+   "174": {
       "quote": "Although a skillful flatterer is a most delightful companion if you have him all to yourself, his taste becomes very doubtful when he takes to complimenting other people.",
       "author": "Charles Dickens",
       "title": "",
       "count": 0,
       "last_used": "2024-11-29"
-    },
-    "175": {
+   },
+   "175": {
       "quote": "Great men are seldom over-scrupulous in the arrangement of their attire.",
       "author": "Charles Dickens",
       "title": "",
       "count": 0,
       "last_used": "2024-08-16"
-    },
-    "176": {
+   },
+   "176": {
       "quote": "I never could have done what I have done without the habits of punctuality, order, and diligence, without the determination to concentrate myself on one subject at a time.",
       "author": "Charles Dickens",
       "title": "",
       "count": 0,
       "last_used": "2023-10-31"
-    },
-    "177": {
+   },
+   "177": {
       "quote": "In a word, I was too cowardly to do what I knew to be right, as I had been too cowardly to avoid doing what I knew to be wrong",
       "author": "Charles Dickens",
       "title": "",
       "count": 0,
       "last_used": "2023-11-03"
-    },
-    "178": {
+   },
+   "178": {
       "quote": "Suffering has been stronger than all other teaching, and has taught me to understand what your heart used to be. I have been bent and broken, but – I hope - into a better shape.",
       "author": "Charles Dickens",
       "title": "",
       "count": 0,
       "last_used": "2024-04-04"
-    },
-    "179": {
+   },
+   "179": {
       "quote": "Have a heart that never hardens, and a temper that never tires, and a touch that never hurts",
       "author": "Charles Dickens",
       "title": "",
       "count": 0,
       "last_used": "2024-02-04"
-    },
-    "180": {
+   },
+   "180": {
       "quote": "Suffering is a gift. In it is hidden mercy.",
       "author": "Rumi",
       "title": "",
       "count": 0,
       "last_used": "2024-01-29"
-    },
-    "181": {
+   },
+   "181": {
       "quote": "Sorrow prepares you for joy. It violently sweeps everything out of your house, so that new joy can find space to enter. It shakes the yellow leaves from the bough of your heart, so that fresh, green leaves can grow in their place. It pulls up the rotten roots, so that new roots hidden beneath have room to grow. Whatever sorrow shakes from your heart, far better things will take their place.",
       "author": "Rumi",
       "title": "",
       "count": 0,
       "last_used": "2024-10-15"
-    },
-    "182": {
+   },
+   "182": {
       "quote": "Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.",
       "author": "Rumi",
       "title": "",
       "count": 0,
       "last_used": "2024-06-20"
-    },
-    "183": {
+   },
+   "183": {
       "quote": "Patience is the key to joy.",
       "author": "Rumi",
       "title": "",
       "count": 0,
       "last_used": "2024-04-27"
-    },
-    "184": {
+   },
+   "184": {
       "quote": "Sit, be still, and listen.",
       "author": "Rumi",
       "title": "",
       "count": 0,
       "last_used": "2024-11-12"
-    },
-    "185": {
+   },
+   "185": {
       "quote": "Close your eyes, fall in love, stay there.",
       "author": "Rumi",
       "title": "",
       "count": 0,
       "last_used": "2024-11-08"
-    },
-    "186": {
+   },
+   "186": {
       "quote": "Love is the bridge between you and everything.",
       "author": "Rumi",
       "title": "",
       "count": 0,
       "last_used": "2025-02-19"
-    },
-    "187": {
+   },
+   "187": {
       "quote": "Don’t you know yet? It is your light that lights the world.",
       "author": "Rumi",
       "title": "",
       "count": 0,
       "last_used": "2025-03-18"
-    },
-    "188": {
+   },
+   "188": {
       "quote": "I know you’re tired but come, this is the way.",
       "author": "Rumi",
       "title": "",
       "count": 0,
       "last_used": "2023-12-11"
-    },
-    "189": {
+   },
+   "189": {
       "quote": "Goodbyes are only for those who love with their eyes. Because for those who love with heart and soul there is no such thing as separation.",
       "author": "Rumi",
       "title": "",
       "count": 0,
       "last_used": "2024-05-08"
-    },
-    "190": {
+   },
+   "190": {
       "quote": "Everything that is made beautiful and fair and lovely is made for the eye of one who sees.",
       "author": "Rumi",
       "title": "",
       "count": 0,
       "last_used": "2024-12-25"
-    },
-    "191": {
+   },
+   "191": {
       "quote": "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.",
       "author": "Rumi",
       "title": "",
       "count": 0,
       "last_used": "2023-11-14"
-    },
-    "192": {
+   },
+   "192": {
       "quote": "You are not a drop in the ocean. You are the entire ocean, in a drop.",
       "author": "Rumi",
       "title": "",
       "count": 0,
       "last_used": "2025-01-11"
-    },
-    "193": {
+   },
+   "193": {
       "quote": "Lovers don’t finally meet somewhere. They’re in each other all along.",
       "author": "Rumi",
       "title": "",
       "count": 0,
       "last_used": "2024-08-14"
-    },
-    "194": {
+   },
+   "194": {
       "quote": "Do not feel lonely, the entire universe is inside you.",
       "author": "Rumi",
       "title": "",
       "count": 0,
       "last_used": "2024-07-23"
-    },
-    "195": {
+   },
+   "195": {
       "quote": "When someone beats a rug, the blows are not against the rug, but against the dust in it.",
       "author": "Rumi",
       "title": "",
       "count": 0,
       "last_used": "2024-04-08"
-    },
-    "196": {
+   },
+   "196": {
       "quote": "This being human is a guest house.\\nEvery morning a new arrival.\\n\\nA joy, a depression, a meanness,\\nsome momentary awareness comes\\nas an unexpected visitor.\\n\\nWelcome and entertain them all!\\nEven if they’re a crowd of sorrows,\\nwho violently sweep your house\\nempty of its furniture,\\nstill, treat each guest honorably.\\nHe may be clearing you out\\nfor some new delight.\\n\\nThe dark thought, the shame, the malice,\\nmeet them at the door laughing,\\nand invite them in.\\n\\nBe grateful for whoever comes,\\nbecause each has been sent\\nas a guide from beyond.",
       "author": "Rumi",
       "title": "The Guest House",
       "count": 0,
       "last_used": "2025-02-22"
-    },
-    "197": {
+   },
+   "197": {
       "quote": "Knock, And He'll open the door\\nVanish, And He'll make you shine like the sun\\nFall, And He'll raise you to the heavens\\nBecome nothing, And He'll turn you into everything.",
       "author": "Rumi",
       "title": "",
       "count": 0,
       "last_used": "2024-12-23"
-    },
-    "198": {
+   },
+   "198": {
       "quote": "You wander from room to room\\nHunting for the diamond necklace\\nThat is already around your neck!",
       "author": "Rumi",
       "title": "",
       "count": 0,
       "last_used": "2024-11-27"
-    },
-    "199": {
+   },
+   "199": {
       "quote": "Be like the sun for grace and mercy. Be like the night to cover others' faults. Be like running water for generosity. Be like death for rage and anger. Be like the Earth for modesty. Appear as you are. Be as you appear.",
       "author": "Rumi",
       "title": "",
       "count": 0,
       "last_used": "2023-12-26"
-    },
-    "200": {
+   },
+   "200": {
       "quote": "A thousand half-loves must be forsaken to take one whole heart home.",
       "author": "Rumi",
       "title": "",
       "count": 0,
       "last_used": "2024-08-08"
-    },
-    "201": {
+   },
+   "201": {
       "quote": "And you? When will you begin that long journey into yourself?",
       "author": "Rumi",
       "title": "",
       "count": 0,
       "last_used": "2025-02-07"
-    },
-    "202": {
+   },
+   "202": {
       "quote": "You have to keep breaking your heart until it opens.",
       "author": "Rumi",
       "title": "",
       "count": 0,
       "last_used": "2024-12-10"
-    },
-    "203": {
+   },
+   "203": {
       "quote": "Respond to every call that excites your spirit.",
       "author": "Rumi",
       "title": "",
       "count": 0,
       "last_used": "2023-11-17"
-    },
-    "204": {
+   },
+   "204": {
       "quote": "Take someone who doesn't keep score,\\nwho's not looking to be richer, or afraid of losing,\\nwho has not the slightest interest even\\nin his own personality: he's free.",
       "author": "Rumi",
       "title": "",
       "count": 0,
       "last_used": "2024-07-01"
-    },
-    "205": {
+   },
+   "205": {
       "quote": "I have lived on the lip\\nof insanity, wanting to know reasons,\\nknocking on a door. It opens.\\nI've been knocking from the inside.",
       "author": "Rumi",
       "title": "",
       "count": 0,
       "last_used": "2025-01-29"
-    },
-    "206": {
+   },
+   "206": {
       "quote": "Some Hindus have an elephant to show.\\nNo one here has ever seen an elephant.\\nThey bring it at night to a dark room.\\n\\nOne by one, we go in the dark and come out\\nsaying how we experience the animal.\\nOne of us happens to touch the trunk.\\nA water-pipe kind of creature.\\n\\nAnother, the ear. A very strong, always moving\\nback and forth, fan-animal. Another, the leg.\\nI find it still, like a column on a temple.\\n\\nAnother touches the curved back.\\nA leathery throne. Another the cleverest,\\nfeels the tusk. A rounded sword made of porcelain.\\nHe is proud of his description.\\n\\nEach of us touches one place\\nand understands the whole that way.\\nThe palm and the fingers feeling in the dark\\nare how the senses explore the reality of the elephant.\\n\\nIf each of us held a candle there,\\nand if we went in together, we could see it.",
       "author": "Rumi",
       "title": "Elephant in the Dark",
       "count": 0,
       "last_used": "2025-01-24"
-    },
-    "207": {
+   },
+   "207": {
       "quote": "Confusion of goals and perfection of means seems, in my opinion, to characterize our age",
       "author": "Albert Einstein",
       "title": "",
       "count": 0,
       "last_used": "2023-12-07"
-    },
-    "208": {
+   },
+   "208": {
       "quote": "Any man who reads too much and uses his own brain too little falls into lazy habits of thinking",
       "author": "Albert Einstein",
       "title": "",
       "count": 0,
       "last_used": "2024-09-05"
-    },
-    "209": {
+   },
+   "209": {
       "quote": "No amount of experimentation can ever prove me right; a single experiment can prove me wrong",
       "author": "Albert Einstein",
       "title": "",
       "count": 0,
       "last_used": "2025-02-11"
-    },
-    "210": {
+   },
+   "210": {
       "quote": "Intellectuals solve problems, geniuses prevent them",
       "author": "Albert Einstein",
       "title": "",
       "count": 0,
       "last_used": "2024-02-24"
-    },
-    "211": {
+   },
+   "211": {
       "quote": "Everything should be made as simple as possible, but not simpler",
       "author": "Albert Einstein",
       "title": "",
       "count": 0,
       "last_used": "2024-07-04"
-    },
-    "212": {
+   },
+   "212": {
       "quote": "The important thing is not to stop questioning. Curiosity has its own reason for existing.",
       "author": "Albert Einstein",
       "title": "",
       "count": 0,
       "last_used": "2024-05-16"
-    },
-    "213": {
+   },
+   "213": {
       "quote": "I live in that solitude which is painful in youth, but delicious in the years of maturity",
       "author": "Albert Einstein",
       "title": "",
       "count": 0,
       "last_used": "2024-12-06"
-    },
-    "214": {
+   },
+   "214": {
       "quote": "It is the supreme art of the teacher to awaken joy in creative expression and knowledge",
       "author": "Albert Einstein",
       "title": "",
       "count": 0,
       "last_used": "2023-10-16"
-    },
-    "215": {
+   },
+   "215": {
       "quote": "The only reason for time is so that everything doesn't happen at once",
       "author": "Albert Einstein",
       "title": "",
       "count": 0,
       "last_used": "2023-11-22"
-    },
-    "216": {
+   },
+   "216": {
       "quote": "Peace cannot be kept by force; it can only be achieved by understanding",
       "author": "Albert Einstein",
       "title": "",
       "count": 0,
       "last_used": "2023-10-23"
-    },
-    "217": {
+   },
+   "217": {
       "quote": "Reality is merely an illusion, albeit a very persistent one",
       "author": "Albert Einstein",
       "title": "",
       "count": 0,
       "last_used": "2023-11-13"
-    },
-    "218": {
+   },
+   "218": {
       "quote": "Logic will get you from A to B. Imagination will take you everywhere",
       "author": "Albert Einstein",
       "title": "",
       "count": 0,
       "last_used": "2024-10-31"
-    },
-    "219": {
+   },
+   "219": {
       "quote": "I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones",
       "author": "Albert Einstein",
       "title": "",
       "count": 0,
       "last_used": "2024-03-13"
-    },
-    "220": {
+   },
+   "220": {
       "quote": "Only two things are infinite, the universe and human stupidity, and I'm not sure about the former",
       "author": "Albert Einstein",
       "title": "",
       "count": 0,
       "last_used": "2024-05-17"
-    },
-    "221": {
+   },
+   "221": {
       "quote": "Coincidence is God's way of remaining anonymous",
       "author": "Albert Einstein",
       "title": "",
       "count": 0,
       "last_used": "2024-12-19"
-    },
-    "222": {
+   },
+   "222": {
       "quote": "Look deep into nature, and then you will understand everything better",
       "author": "Albert Einstein",
       "title": "",
       "count": 0,
       "last_used": "2024-01-12"
-    },
-    "223": {
+   },
+   "223": {
       "quote": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
       "author": "Albert Einstein",
       "title": "",
       "count": 0,
       "last_used": "2024-11-17"
-    },
-    "224": {
+   },
+   "224": {
       "quote": "We cannot solve our problems with the same thinking we used when we created them",
       "author": "Albert Einstein",
       "title": "",
       "count": 0,
       "last_used": "2024-03-29"
-    },
-    "225": {
+   },
+   "225": {
       "quote": "If you can't explain it simply, you don't understand it well enough.",
       "author": "Albert Einstein",
       "title": "",
       "count": 0,
       "last_used": "2024-11-03"
-    },
-    "226": {
+   },
+   "226": {
       "quote": "You never fail until you stop trying.",
       "author": "Albert Einstein",
       "title": "",
       "count": 0,
       "last_used": "2024-11-21"
-    },
-    "227": {
+   },
+   "227": {
       "quote": "A human being is a part of the whole called by us universe, a part limited in time and space. He experiences himself, his thoughts and feeling as something separated from the rest, a kind of optical delusion of his consciousness. This delusion is a kind of prison for us, restricting us to our personal desires and to affection for a few persons nearest to us. Our task must be to free ourselves from this prison by widening our circle of compassion to embrace all living creatures and the whole of nature in its beauty.",
       "author": "Albert Einstein",
       "title": "",
       "count": 0,
       "last_used": "2024-03-17"
-    },
-    "228": {
+   },
+   "228": {
       "quote": "Never memorize something that you can look up.",
       "author": "Albert Einstein",
       "title": "",
       "count": 0,
       "last_used": "2024-12-09"
-    },
-    "229": {
+   },
+   "229": {
       "quote": "A happy man is too satisfied with the present to dwell too much on the future.",
       "author": "Albert Einstein",
       "title": "",
       "count": 0,
       "last_used": "2024-02-03"
-    },
-    "230": {
+   },
+   "230": {
       "quote": "The man who writes about himself and his own time is the only man who writes about all people and about all time.",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2025-02-12"
-    },
-    "231": {
+   },
+   "231": {
       "quote": "Martyrdom: The only way a man can become famous without ability.",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2023-11-27"
-    },
-    "232": {
+   },
+   "232": {
       "quote": "The truth is, hardly any of us have ethical energy enough for more than one really inflexible point of honor.",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2025-01-03"
-    },
-    "233": {
+   },
+   "233": {
       "quote": "It's so hard to know what to do when one wishes earnestly to do right.",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2024-06-11"
-    },
-    "234": {
+   },
+   "234": {
       "quote": "Perhaps the greatest social service that can be rendered by anybody to the country and to mankind is to bring up a family.",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2024-08-17"
-    },
-    "235": {
+   },
+   "235": {
       "quote": "All genuinely intellectual work is humorous.",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2024-10-08"
-    },
-    "236": {
+   },
+   "236": {
       "quote": "Socialism is the same as Communism, only better English.",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2024-06-01"
-    },
-    "237": {
+   },
+   "237": {
       "quote": "In this world there is always danger for those who are afraid of it.",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2023-11-21"
-    },
-    "238": {
+   },
+   "238": {
       "quote": "I am afraid we must make the world honest before we can honestly say to our children that honesty is the best policy.",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2023-12-24"
-    },
-    "239": {
+   },
+   "239": {
       "quote": "Use your health, even to the point of wearing it out. That is what it is for. Spend all you have before you die; do not outlive yourself.",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2024-08-01"
-    },
-    "240": {
+   },
+   "240": {
       "quote": "Nothing is worth doing unless the consequences may be serious.",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2025-02-20"
-    },
-    "241": {
+   },
+   "241": {
       "quote": "The man with a toothache thinks everyone happy whose teeth are sound. The poverty-stricken man makes the same mistake about the rich man.",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2024-07-22"
-    },
-    "242": {
+   },
+   "242": {
       "quote": "People become attached to their burdens sometimes more than the burdens are attached to them.",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2023-11-10"
-    },
-    "243": {
+   },
+   "243": {
       "quote": "The trouble with her is that she lacks the power of conversation but not the power of speech.",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2023-11-30"
-    },
-    "244": {
+   },
+   "244": {
       "quote": "We are all dependent on one another, every soul of us on earth.",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2023-12-12"
-    },
-    "245": {
+   },
+   "245": {
       "quote": "Why should we take advice on sex from the pope? If he knows anything about it, he shouldn't!",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2025-03-16"
-    },
-    "246": {
+   },
+   "246": {
       "quote": "Men are wise in proportion, not to their experience, but to their capacity for experience.",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2024-02-13"
-    },
-    "247": {
+   },
+   "247": {
       "quote": "Do not do unto others as you expect they should do unto you. Their tastes may not be the same.",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2025-03-11"
-    },
-    "248": {
+   },
+   "248": {
       "quote": "Do not waste your time on Social Questions. What is the matter with the poor is Poverty; what is the matter with the rich is Uselessness.",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2024-02-25"
-    },
-    "249": {
+   },
+   "249": {
       "quote": "When a man says money can do anything, that settles it: he hasn't got any.",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2024-10-11"
-    },
-    "250": {
+   },
+   "250": {
       "quote": "Hell is full of musical amateurs.",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2024-09-18"
-    },
-    "251": {
+   },
+   "251": {
       "quote": "When a man wants to murder a tiger he calls it sport; when a tiger wants to murder him he calls it ferocity.",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2024-06-17"
-    },
-    "252": {
+   },
+   "252": {
       "quote": "Statistics show that of those who contract the habit of eating, very few survive.",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2023-12-03"
-    },
-    "253": {
+   },
+   "253": {
       "quote": "I would like to take you seriously, but to do so would be an affront to your intelligence.",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2024-09-10"
-    },
-    "254": {
+   },
+   "254": {
       "quote": "There is only one religion, though there are a hundred versions of it.",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2025-03-19"
-    },
-    "255": {
+   },
+   "255": {
       "quote": "We learn from experience that men never learn anything from experience.",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2024-12-17"
-    },
-    "256": {
+   },
+   "256": {
       "quote": "Few people think more than two or three times a year; I have made an international reputation for myself by thinking once or twice a week.",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2023-10-15"
-    },
-    "257": {
+   },
+   "257": {
       "quote": "Hegel was right when he said that we learn from history that man can never learn anything from history.",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2024-06-30"
-    },
-    "258": {
+   },
+   "258": {
       "quote": "The moment we want to believe something, we suddenly see all the arguments for it, and become blind to the arguments against it.",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2024-10-29"
-    },
-    "259": {
+   },
+   "259": {
       "quote": "The possibilities are numerous once we decide to act and not react.",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2024-02-14"
-    },
-    "260": {
+   },
+   "260": {
       "quote": "Silence is the most perfect expression of scorn.",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2024-10-30"
-    },
-    "261": {
+   },
+   "261": {
       "quote": "If history repeats itself, and the unexpected always happens, how incapable must Man be of learning from experience.",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2024-02-05"
-    },
-    "262": {
+   },
+   "262": {
       "quote": "Take care to get what you like or you will be forced to like what you get.",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2024-01-11"
-    },
-    "263": {
+   },
+   "263": {
       "quote": "Life does not cease to be funny when people die any more than it ceases to be serious when people laugh.",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2023-10-21"
-    },
-    "264": {
+   },
+   "264": {
       "quote": "Marriage is an alliance entered into by a man who can't sleep with the window shut, and a woman who can't sleep with the window open.",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2024-03-05"
-    },
-    "265": {
+   },
+   "265": {
       "quote": "A government that robs Peter to pay Paul can always depend on the support of Paul.",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2024-02-09"
-    },
-    "266": {
+   },
+   "266": {
       "quote": "Beware of false knowledge; it is more dangerous than ignorance.",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2024-04-07"
-    },
-    "267": {
+   },
+   "267": {
       "quote": "You use a glass mirror to see your face; you use works of art to see your soul.",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2024-05-18"
-    },
-    "268": {
+   },
+   "268": {
       "quote": "A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2024-01-27"
-    },
-    "269": {
+   },
+   "269": {
       "quote": "Youth is wasted on the young.",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2024-03-24"
-    },
-    "270": {
+   },
+   "270": {
       "quote": "Progress is impossible without change, and those who cannot change their minds cannot change anything.",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2025-03-03"
-    },
-    "271": {
+   },
+   "271": {
       "quote": "I learned long ago, never to wrestle with a pig. You get dirty, and besides, the pig likes it.",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2024-05-10"
-    },
-    "272": {
+   },
+   "272": {
       "quote": "The liar's punishment is not in the least that he is not believed, but that he cannot believe anyone else.",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2023-12-06"
-    },
-    "273": {
+   },
+   "273": {
       "quote": "We don't stop playing because we grow old; we grow old because we stop playing.",
       "author": "Bernard Shaw",
       "title": "",
       "count": 0,
       "last_used": "2025-01-06"
-    },
-    "274": {
+   },
+   "274": {
       "quote": "Worry never robs tomorrow of its sorrow, but only saps today of its strength",
       "author": "A.J. Cronin",
       "title": "",
       "count": 0,
       "last_used": "2023-11-20"
-    },
-    "275": {
+   },
+   "275": {
       "quote": "Above all am I convinced of the need, irrevocable and inescapable, of every human heart, for God. No matter how we try to escape, to lose ourselves in restless seeking, we cannot separate ourselves from our divine source. There is no substitute for God.",
       "author": "A.J. Cronin",
       "title": "",
       "count": 0,
       "last_used": "2024-06-26"
-    },
-    "276": {
+   },
+   "276": {
       "quote": "Gratitude is something of which none of us can give too much. For on the smiles, the thanks we give, our little gestures of appreciation, our neighbors build their philosophy of life.",
       "author": "A.J. Cronin",
       "title": "",
       "count": 0,
       "last_used": "2024-04-06"
-    },
-    "277": {
+   },
+   "277": {
       "quote": "There are two men inside the artist, the poet and the craftsman. One is born a poet. One becomes a craftsman",
       "author": "Émile Zola",
       "title": "",
       "count": 0,
       "last_used": "2024-08-04"
-    },
-    "278": {
+   },
+   "278": {
       "quote": "People like comfort; that's natural. But as for making money simply for the sake of making it, and giving yourself far more trouble and anxiety to gain it than you can ever get pleasure from it when it's gained, why, as for me, I'd rather sit still and cross my arms.",
       "author": "Émile Zola",
       "title": "",
       "count": 0,
       "last_used": "2024-09-04"
-    },
-    "279": {
+   },
+   "279": {
       "quote": "If you shut up truth, and bury it underground, it will but grow",
       "author": "Émile Zola",
       "title": "",
       "count": 0,
       "last_used": "2025-01-09"
-    },
-    "280": {
+   },
+   "280": {
       "quote": "Life is a tragedy to those who feel and a comedy to those who think.",
       "author": "Molière",
       "title": "",
       "count": 0,
       "last_used": "2024-02-15"
-    },
-    "281": {
+   },
+   "281": {
       "quote": "As the purpose of comedy is to correct the vices of men, I see no reason why anyone should be exempt.",
       "author": "Molière",
       "title": "",
       "count": 0,
       "last_used": "2024-05-15"
-    },
-    "282": {
+   },
+   "282": {
       "quote": "It is not only for what we do that we are held responsible, but also for what we do not do.",
       "author": "Molière",
       "title": "",
       "count": 0,
       "last_used": "2025-01-28"
-    },
-    "283": {
+   },
+   "283": {
       "quote": "A wise man is superior to any insults which can be put upon him, and the best reply to unseemly behavior is patience and moderation.",
       "author": "Molière",
       "title": "",
       "count": 0,
       "last_used": "2023-11-12"
-    },
-    "284": {
+   },
+   "284": {
       "quote": "My religion is based on truth and non-violence. Truth is my God. Non-violence is the means of realizing Him.",
       "author": "Mahatma Gandhi",
       "title": "",
       "count": 0,
       "last_used": "2024-06-09"
-    },
-    "285": {
+   },
+   "285": {
       "quote": "If a man reaches the heart of his own religion, he has reached the heart of the others, too. There is only one God, and there are many paths to him.",
       "author": "Mahatma Gandhi",
       "title": "",
       "count": 0,
       "last_used": "2023-11-15"
-    },
-    "286": {
+   },
+   "286": {
       "quote": "Morality is the basis of things and truth is the substance of all morality.",
       "author": "Mahatma Gandhi",
       "title": "",
       "count": 0,
       "last_used": "2024-03-28"
-    },
-    "287": {
+   },
+   "287": {
       "quote": "I object to violence because when it appears to do good, the good is only temporary; the evil it does is permanent.",
       "author": "Mahatma Gandhi",
       "title": "",
       "count": 0,
       "last_used": "2025-01-14"
-    },
-    "288": {
+   },
+   "288": {
       "quote": "I suppose leadership at one time meant muscles; but today it means getting along with people.",
       "author": "Mahatma Gandhi",
       "title": "",
       "count": 0,
       "last_used": "2024-06-13"
-    },
-    "289": {
+   },
+   "289": {
       "quote": "Man becomes great exactly in the degree in which he works for the welfare of his fellow-men.",
       "author": "Mahatma Gandhi",
       "title": "",
       "count": 0,
       "last_used": "2024-11-05"
-    },
-    "290": {
+   },
+   "290": {
       "quote": "There is a sufficiency in the world for man's need but not for man's greed.",
       "author": "Mahatma Gandhi",
       "title": "",
       "count": 0,
       "last_used": "2024-02-28"
-    },
-    "291": {
+   },
+   "291": {
       "quote": "You must not lose faith in humanity. Humanity is an ocean; if a few drops of the ocean are dirty, the ocean does not become dirty.",
       "author": "Mahatma Gandhi",
       "title": "",
       "count": 0,
       "last_used": "2024-05-25"
-    },
-    "292": {
+   },
+   "292": {
       "quote": "The weak can never forgive. Forgiveness is the attribute of the strong.",
       "author": "Mahatma Gandhi",
       "title": "",
       "count": 0,
       "last_used": "2024-08-25"
-    },
-    "293": {
+   },
+   "293": {
       "quote": "An eye for an eye only ends up making the whole world blind.",
       "author": "Mahatma Gandhi",
       "title": "",
       "count": 0,
       "last_used": "2024-07-03"
-    },
-    "294": {
+   },
+   "294": {
       "quote": "In a gentle way, you can shake the world.",
       "author": "Mahatma Gandhi",
       "title": "",
       "count": 0,
       "last_used": "2024-08-18"
-    },
-    "295": {
+   },
+   "295": {
       "quote": "You must be the change you wish to see in the world.",
       "author": "Mahatma Gandhi",
       "title": "",
       "count": 0,
       "last_used": "2023-12-15"
-    },
-    "296": {
+   },
+   "296": {
       "quote": "First they ignore you, then they laugh at you, then they fight you, then you win.",
       "author": "Mahatma Gandhi",
       "title": "",
       "count": 0,
       "last_used": "2024-01-02"
-    },
-    "297": {
+   },
+   "297": {
       "quote": "Nearly everything you do is of no importance, but it is important that you do it.",
       "author": "Mahatma Gandhi",
       "title": "",
       "count": 0,
       "last_used": "2025-03-10"
-    },
-    "298": {
+   },
+   "298": {
       "quote": "I have nothing new to teach the world. Truth and Non-violence are as old as the hills. All I have done is to try experiments in both on as vast a scale as I could.",
       "author": "Mahatma Gandhi",
       "title": "",
       "count": 0,
       "last_used": "2024-03-11"
-    },
-    "299": {
+   },
+   "299": {
       "quote": "There are people in the world so hungry, that God cannot appear to them except in the form of bread.",
       "author": "Mahatma Gandhi",
       "title": "",
       "count": 0,
       "last_used": "2025-01-21"
-    },
-    "300": {
+   },
+   "300": {
       "quote": "Truth is by nature self-evident. As soon as you remove the cobwebs of ignorance that surround it, it shines clear.",
       "author": "Mahatma Gandhi",
       "title": "",
       "count": 0,
       "last_used": "2024-12-13"
-    },
-    "301": {
+   },
+   "301": {
       "quote": "Intolerance betrays want of faith in one's cause.",
       "author": "Mahatma Gandhi",
       "title": "",
       "count": 0,
       "last_used": "2024-12-18"
-    },
-    "302": {
+   },
+   "302": {
       "quote": "There is nothing that wastes the body like worry, and one who has any faith in God should be ashamed to worry about anything whatsoever.",
       "author": "Mahatma Gandhi",
       "title": "",
       "count": 0,
       "last_used": "2025-01-27"
-    },
-    "303": {
+   },
+   "303": {
       "quote": "When restraint and courtesy are added to strength, the latter becomes irresistible.",
       "author": "Mahatma Gandhi",
       "title": "",
       "count": 0,
       "last_used": "2024-05-07"
-    },
-    "304": {
+   },
+   "304": {
       "quote": "A 'No' uttered from the deepest conviction is better than a 'Yes' merely uttered to please, or worse, to avoid trouble.",
       "author": "Mahatma Gandhi",
       "title": "",
       "count": 0,
       "last_used": "2024-07-17"
-    },
-    "305": {
+   },
+   "305": {
       "quote": "It is easy enough to be friendly to one's friends. But to befriend the one who regards himself as your enemy is the quintessence of true religion. The other is mere business.",
       "author": "Mahatma Gandhi",
       "title": "",
       "count": 0,
       "last_used": "2024-03-16"
-    },
-    "306": {
+   },
+   "306": {
       "quote": "Nobody can hurt me without my permission.",
       "author": "Mahatma Gandhi",
       "title": "",
       "count": 0,
       "last_used": "2024-08-31"
-    },
-    "307": {
+   },
+   "307": {
       "quote": "We must build dikes of courage to hold back the flood of fear.",
       "author": "Martin Luther King Jr.",
       "title": "",
       "count": 0,
       "last_used": "2024-04-23"
-    },
-    "308": {
+   },
+   "308": {
       "quote": "Rarely do we find men who willingly engage in hard, solid thinking. There is an almost universal quest for easy answers and half-baked solutions. Nothing pains some people more than having to think.",
       "author": "Martin Luther King Jr.",
       "title": "",
       "count": 0,
       "last_used": "2024-09-23"
-    },
-    "309": {
+   },
+   "309": {
       "quote": "We've got some difficult days ahead. But it really doesn't matter with me now because I've been to the mountaintop... I've looked over and I've seen the promised land. I may not get there with you. But I want you to know tonight that we as a people will get to the promised land.",
       "author": "Martin Luther King Jr.",
       "title": "",
       "count": 0,
       "last_used": "2025-02-14"
-    },
-    "310": {
+   },
+   "310": {
       "quote": "The time is always right to do what is right.",
       "author": "Martin Luther King Jr.",
       "title": "",
       "count": 0,
       "last_used": "2024-10-27"
-    },
-    "311": {
+   },
+   "311": {
       "quote": "Love is the only force capable of transforming an enemy into a friend.",
       "author": "Martin Luther King Jr.",
       "title": "",
       "count": 0,
       "last_used": "2023-10-29"
-    },
-    "312": {
+   },
+   "312": {
       "quote": "We may have all come on different ships, but we're in the same boat now.",
       "author": "Martin Luther King Jr.",
       "title": "",
       "count": 0,
       "last_used": "2024-05-09"
-    },
-    "313": {
+   },
+   "313": {
       "quote": "Our lives begin to end the day we become silent about things that matter.",
       "author": "Martin Luther King Jr.",
       "title": "",
       "count": 0,
       "last_used": "2024-11-10"
-    },
-    "314": {
+   },
+   "314": {
       "quote": "I have decided to stick with love. Hate is too great a burden to bear.",
       "author": "Martin Luther King Jr.",
       "title": "",
       "count": 0,
       "last_used": "2024-10-18"
-    },
-    "315": {
+   },
+   "315": {
       "quote": "Forgiveness is not an occasional act. It is a permanent attitude.",
       "author": "Martin Luther King Jr.",
       "title": "",
       "count": 0,
       "last_used": "2024-05-01"
-    },
-    "316": {
+   },
+   "316": {
       "quote": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
       "author": "Martin Luther King Jr.",
       "title": "",
       "count": 0,
       "last_used": "2025-02-16"
-    },
-    "317": {
+   },
+   "317": {
       "quote": "I am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation.\\n\\nFive score years ago, a great American, in whose symbolic shadow we stand today, signed the Emancipation Proclamation. This momentous decree came as a great beacon of hope to millions of slaves, who had been seared in the flames of whithering injustice. It came as a joyous daybreak to end the long night of their captivity. But one hundred years later, the colored America is still not free. One hundred years later, the life of the colored American is still sadly crippled by the manacle of segregation and the chains of discrimination.\\n\\nOne hundred years later, the colored American lives on a lonely island of poverty in the midst of a vast ocean of material prosperity. One hundred years later, the colored American is still languishing in the corners of American society and finds himself an exile in his own land So we have come here today to dramatize a shameful condition.\\n\\nIn a sense we have come to our Nation’s Capital to cash a check. When the architects of our great republic wrote the magnificent words of the Constitution and the Declaration of Independence, they were signing a promissory note to which every American was to fall heir.\\n\\nThis note was a promise that all men, yes, black men as well as white men, would be guaranteed the inalienable rights of life liberty and the pursuit of happiness.\\n\\nIt is obvious today that America has defaulted on this promissory note insofar as her citizens of color are concerned. Instead of honoring this sacred obligation, America has given its colored people a bad check, a check that has come back marked “insufficient funds.”\\n\\nBut we refuse to believe that the bank of justice is bankrupt. We refuse to believe that there are insufficient funds in the great vaults of opportunity of this nation. So we have come to cash this check, a check that will give us upon demand the riches of freedom and security of justice.\\n\\nWe have also come to his hallowed spot to remind America of the fierce urgency of Now. This is not time to engage in the luxury of cooling off or to take the tranquilizing drug of gradualism.\\n\\nNow is the time to make real the promise of democracy.\\n\\nNow it the time to rise from the dark and desolate valley of segregation to the sunlit path of racial justice.\\n\\nNow it the time to lift our nation from the quicksand of racial injustice to the solid rock of brotherhood.\\n\\nNow is the time to make justice a reality to all of God’s children.\\n\\nI would be fatal for the nation to overlook the urgency of the moment and to underestimate the determination of it’s colored citizens. This sweltering summer of the colored people’s legitimate discontent will not pass until there is an invigorating autumn of freedom and equality. Nineteen sixty-three is not an end but a beginning. Those who hope that the colored Americans needed to blow off steam and will now be content will have a rude awakening if the nation returns to business as usual.\\n\\nThere will be neither rest nor tranquility in America until the colored citizen is granted his citizenship rights. The whirlwinds of revolt will continue to shake the foundations of our nation until the bright day of justice emerges.\\n\\nWe can never be satisfied as long as our bodies, heavy with the fatigue of travel, cannot gain lodging in the motels of the highways and the hotels of the cities.\\n\\nWe cannot be satisfied as long as the colored person’s basic mobility is from a smaller ghetto to a larger one.\\n\\nWe can never be satisfied as long as our children are stripped of their selfhood and robbed of their dignity by signs stating “for white only.”\\n\\nWe cannot be satisfied as long as a colored person in Mississippi cannot vote and a colored person in New York believes he has nothing for which to vote.\\n\\nNo, no we are not satisfied and we will not be satisfied until justice rolls down like waters and righteousness like a mighty stream.\\n\\nI am not unmindful that some of you have come here out of your trials and tribulations. Some of you have come from areas where your quest for freedom left you battered by storms of persecutions and staggered by the winds of police brutality.\\n\\nYou have been the veterans of creative suffering. Continue to work with the faith that unearned suffering is redemptive.\\n\\nGo back to Mississippi, go back to Alabama, go back to South Carolina go back to Georgia, go back to Louisiana, go back to the slums and ghettos of our modern cities, knowing that somehow this situation can and will be changed.\\n\\nLet us not wallow in the valley of despair. I say to you, my friends, we have the difficulties of today and tomorrow.\\n\\nI still have a dream. It is a dream deeply rooted in the American dream.\\n\\nI have a dream that one day this nation will rise up and live out the true meaning of its creed. We hold these truths to be self-evident that all men are created equal.\\n\\nI have a dream that one day out in the red hills of Georgia the sons of former slaves and the sons of former slaveowners will be able to sit down together at the table of brotherhood.\\n\\nI have a dream that one day even the state of Mississippi, a state sweltering with the heat of oppression, will be transformed into an oasis of freedom and justice.\\n\\nI have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by their character.\\n\\nI have a dream today.\\n\\nI have a dream that one day down in Alabama, with its vicious racists, with its governor having his lips dripping with the words of interposition and nullification; that one day right down in Alabama little black boys and black girls will be able to join hands with little white boys and white girls as sisters and brothers.\\n\\nI have a dream today.\\n\\nI have a dream that one day every valley shall be engulfed, every hill shall be exalted and every mountain shall be made low, the rough places will be made plains and the crooked places will be made straight and the glory of the Lord shall be revealed and all flesh shall see it together.\\n\\nThis is our hope. This is the faith that I will go back to the South with. With this faith we will be able to hew out of the mountain of despair a stone of hope.\\n\\nWith this faith we will be able to transform the jangling discords of our nation into a beautiful symphony of brotherhood.\\n\\nWith this faith we will be able to work together, to pray together, to struggle together, to go to jail together, to climb up for freedom together, knowing that we will be free one day.\\n\\nThis will be the day when all of God’s children will be able to sing with new meaning “My country ’tis of thee, sweet land of liberty, of thee I sing. Land where my father’s died, land of the Pilgrim’s pride, from every mountainside, let freedom ring!”\\n\\nAnd if America is to be a great nation, this must become true. So let freedom ring from the hilltops of New Hampshire. Let freedom ring from the mighty mountains of New York.\\n\\nLet freedom ring from the heightening Alleghenies of Pennsylvania.\\n\\nLet freedom ring from the snow-capped Rockies of Colorado.\\n\\nLet freedom ring from the curvaceous slopes of California.\\n\\nBut not only that, let freedom, ring from Stone Mountain of Georgia.\\n\\nLet freedom ring from every hill and molehill of Mississippi and every mountainside.\\n\\nWhen we let freedom ring, when we let it ring from every tenement and every hamlet, from every state and every city, we will be able to speed up that day when all of God’s children, black men and white men, Jews and Gentiles, Protestants and Catholics, will be able to join hands and sing in the words of the old spiritual, “Free at last, free at last. Thank God Almighty, we are free at last.",
       "author": "Martin Luther King Jr.",
       "title": "I Have a Dream",
       "count": 0,
       "last_used": "2023-12-18"
-    },
-    "318": {
+   },
+   "318": {
       "quote": "There is no such thing as part freedom.",
       "author": "Nelson Mandela",
       "title": "",
       "count": 0,
       "last_used": "2025-03-04"
-    },
-    "319": {
+   },
+   "319": {
       "quote": "Forget the past.",
       "author": "Nelson Mandela",
       "title": "",
       "count": 0,
       "last_used": "2023-12-09"
-    },
-    "320": {
+   },
+   "320": {
       "quote": "It is wise to persuade people to do things and make them think it was their own idea.",
       "author": "Nelson Mandela",
       "title": "",
       "count": 0,
       "last_used": "2023-12-20"
-    },
-    "321": {
+   },
+   "321": {
       "quote": "There is no easy walk to freedom anywhere, and many of us will have to pass through the valley of the shadow of death.",
       "author": "Nelson Mandela",
       "title": "",
       "count": 0,
       "last_used": "2024-03-12"
-    },
-    "322": {
+   },
+   "322": {
       "quote": "In judging our progress as individuals we tend to concentrate on external factors such as one's social position, influence and popularity, wealth and standard of education. These are, of course, important in measuring one's success in material matters and it is perfectly understandable if many people exert themselves mainly to achieve all these. But internal factors may be even more crucial in assessing one's development as a human being. Honesty, sincerity, simplicity, humility, pure generosity, absence of vanity, readiness to serve others - qualities which are within reach of every soul - are the foundation of one's spiritual life.",
       "author": "Nelson Mandela",
       "title": "",
       "count": 0,
       "last_used": "2024-03-04"
-    },
-    "323": {
+   },
+   "323": {
       "quote": "Success in politics demands that you must take your people into confidence about your views and state them very clearly, very politely, very calmly, but nevertheless, state them openly.",
       "author": "Nelson Mandela",
       "title": "",
       "count": 0,
       "last_used": "2025-01-13"
-    },
-    "324": {
+   },
+   "324": {
       "quote": "I love playing and chatting with children…feeding and putting them to bed with a little story, and being away from the family has troubled me throughout my…life. I like relaxing at the house, reading quietly, taking in the sweet smell that comes from the pots, sitting around a table with the family and taking out my wife and children. when you can no longer enjoy these simple pleasures something valuable is taken away from your life and you feel it in your daily work.",
       "author": "Nelson Mandela",
       "title": "",
       "count": 0,
       "last_used": "2025-01-01"
-    },
-    "325": {
+   },
+   "325": {
       "quote": "Know your enemy — and learn about his favorite sport.",
       "author": "Nelson Mandela",
       "title": "",
       "count": 0,
       "last_used": "2024-03-18"
-    },
-    "326": {
+   },
+   "326": {
       "quote": "I learned that to humiliate another person is to make him suffer an unnecessarily cruel fate. Even as a boy, I defeated my opponents without dishonoring them.",
       "author": "Nelson Mandela",
       "title": "",
       "count": 0,
       "last_used": "2024-08-21"
-    },
-    "327": {
+   },
+   "327": {
       "quote": "I never lose. I either win or learn.",
       "author": "Nelson Mandela",
       "title": "",
       "count": 0,
       "last_used": "2025-03-24"
-    },
-    "328": {
+   },
+   "328": {
       "quote": "I had no epiphany, no singular revelation, no moment of truth, but a steady accumulation of a thousand slights, a thousand indignities and a thousand unremembered moments produced in me an anger, a rebelliousness, a desire to fight the system that imprisoned my people. There was no particular day on which I said, Henceforth I will devote myself to the liberation of my people; instead, I simply found myself doing so, and could not do otherwise.",
       "author": "Nelson Mandela",
       "title": "",
       "count": 0,
       "last_used": "2024-10-28"
-    },
-    "329": {
+   },
+   "329": {
       "quote": "Live life as though nobody is watching, and express yourself as though everyone is listening.",
       "author": "Nelson Mandela",
       "title": "",
       "count": 0,
       "last_used": "2023-12-23"
-    },
-    "330": {
+   },
+   "330": {
       "quote": "One of the things I learned when I was negotiating was that until I changed myself, I could not change others.",
       "author": "Nelson Mandela",
       "title": "",
       "count": 0,
       "last_used": "2023-10-22"
-    },
-    "331": {
+   },
+   "331": {
       "quote": "It is said that no one truly knows a nation until one has been inside its jails. A nation should not be judged by how it treats its highest citizens, but its lowest ones.",
       "author": "Nelson Mandela",
       "title": "",
       "count": 0,
       "last_used": "2023-11-28"
-    },
-    "332": {
+   },
+   "332": {
       "quote": "A leader...is like a shepherd. He stays behind the flock, letting the most nimble go out ahead, whereupon the others follow, not realizing that all along they are being directed from behind.",
       "author": "Nelson Mandela",
       "title": "",
       "count": 0,
       "last_used": "2023-11-25"
-    },
-    "333": {
+   },
+   "333": {
       "quote": "As we let our own light shine, we unconsciously give other people permission to do the same.",
       "author": "Nelson Mandela",
       "title": "",
       "count": 0,
       "last_used": "2024-08-20"
-    },
-    "334": {
+   },
+   "334": {
       "quote": "Overcoming poverty is not a task of charity, it is an act of justice. Like Slavery and Apartheid, poverty is not natural. It is man-made and it can be overcome and eradicated by the actions of human beings. Sometimes it falls on a generation to be great. YOU can be that great generation. Let your greatness blossom.",
       "author": "Nelson Mandela",
       "title": "",
       "count": 0,
       "last_used": "2024-06-03"
-    },
-    "335": {
+   },
+   "335": {
       "quote": "As I have said, the first thing is to be honest with yourself. You can never have an impact on society if you have not changed yourself... Great peacemakers are all people of integrity, of honesty, but humility.",
       "author": "Nelson Mandela",
       "title": "",
       "count": 0,
       "last_used": "2024-11-16"
-    },
-    "336": {
+   },
+   "336": {
       "quote": "Lead from the back — and let others believe they are in front.",
       "author": "Nelson Mandela",
       "title": "",
       "count": 0,
       "last_used": "2024-05-24"
-    },
-    "337": {
+   },
+   "337": {
       "quote": "As I walked out the door toward the gate that would lead to my freedom, I knew if I didn't leave my bitterness and hatred behind, I'd still be in prison.",
       "author": "Nelson Mandela",
       "title": "",
       "count": 0,
       "last_used": "2024-07-20"
-    },
-    "338": {
+   },
+   "338": {
       "quote": "I have walked that long road to freedom. I have tried not to falter; I have made missteps along the way. But I have discovered the secret that after climbing a great hill, one only finds that there are many more hills to climb. I have taken a moment here to rest, to steal a view of the glorious vista that surrounds me, to look back on the distance I have come. But I can only rest for a moment, for with freedom come responsibilities, and I dare not linger, for my long walk is not ended.",
       "author": "Nelson Mandela",
       "title": "",
       "count": 0,
       "last_used": "2024-07-21"
-    },
-    "339": {
+   },
+   "339": {
       "quote": "There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered.",
       "author": "Nelson Mandela",
       "title": "",
       "count": 0,
       "last_used": "2025-01-22"
-    },
-    "340": {
+   },
+   "340": {
       "quote": "No one is born hating another person because of the color of his skin, or his background, or his religion. People must learn to hate, and if they can learn to hate, they can be taught to love, for love comes more naturally to the human heart than its opposite.",
       "author": "Nelson Mandela",
       "title": "",
       "count": 0,
       "last_used": "2024-07-30"
-    },
-    "341": {
+   },
+   "341": {
       "quote": "I am fundamentally an optimist. Whether that comes from nature or nurture, I cannot say. Part of being optimistic is keeping one's head pointed toward the sun, one's feet moving forward. There were many dark moments when my faith in humanity was sorely tested, but I would not and could not give myself up to despair. That way lays defeat and death.",
       "author": "Nelson Mandela",
       "title": "",
       "count": 0,
       "last_used": "2024-07-12"
-    },
-    "342": {
+   },
+   "342": {
       "quote": "It always seems impossible until it's done.",
       "author": "Nelson Mandela",
       "title": "",
       "count": 0,
       "last_used": "2024-01-03"
-    },
-    "343": {
+   },
+   "343": {
       "quote": "I like friends who have independent minds because they tend to make you see problems from all angles.",
       "author": "Nelson Mandela",
       "title": "",
       "count": 0,
       "last_used": "2024-01-01"
-    },
-    "344": {
+   },
+   "344": {
       "quote": "I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear.",
       "author": "Nelson Mandela",
       "title": "",
       "count": 0,
       "last_used": "2024-03-15"
-    },
-    "345": {
+   },
+   "345": {
       "quote": "Resentment is like drinking poison and then hoping it will kill your enemies.",
       "author": "Nelson Mandela",
       "title": "",
       "count": 0,
       "last_used": "2024-06-22"
-    },
-    "346": {
+   },
+   "346": {
       "quote": "A fundamental concern for others in our individual and community lives would go a long way in making the world the better place we so passionately dreamt of.",
       "author": "Nelson Mandela",
       "title": "",
       "count": 0,
       "last_used": "2024-01-13"
-    },
-    "347": {
+   },
+   "347": {
       "quote": "Education is the most powerful weapon which you can use to change the world.",
       "author": "Nelson Mandela",
       "title": "",
       "count": 0,
       "last_used": "2024-04-30"
-    },
-    "348": {
+   },
+   "348": {
       "quote": "Especially for those of us who lived in single cells, you had the time to sit down and think, and we discovered that sitting down just to think is one of the best ways of keeping yourself fresh and able, to be able to address the problems facing you, and you had the opportunity, also, of examining your past.",
       "author": "Nelson Mandela",
       "title": "",
       "count": 0,
       "last_used": "2025-02-02"
-    },
-    "349": {
+   },
+   "349": {
       "quote": "More socialism means more democracy, openness and collectivism in everyday life.",
       "author": "Mikhail Gorbachev",
       "title": "",
       "count": 0,
       "last_used": "2025-02-15"
-    },
-    "350": {
+   },
+   "350": {
       "quote": "It would be naive to think that the problems plaguing mankind today can be solved with means and methods which were applied or seemed to work in the past.",
       "author": "Mikhail Gorbachev",
       "title": "",
       "count": 0,
       "last_used": "2025-03-07"
-    },
-    "351": {
+   },
+   "351": {
       "quote": "Starting reforms in the Soviet Union was only possible from above, only from above. Any attempt to go from below was suppressed, suppressed in a most resolute way.",
       "author": "Mikhail Gorbachev",
       "title": "",
       "count": 0,
       "last_used": "2024-12-29"
-    },
-    "352": {
+   },
+   "352": {
       "quote": "The market came with the dawn of civilization and it is not an invention of capitalism. If it leads to improving the well-being of the people there is no contradiction with socialism.",
       "author": "Mikhail Gorbachev",
       "title": "",
       "count": 0,
       "last_used": "2024-07-28"
-    },
-    "353": {
+   },
+   "353": {
       "quote": "I couldn't wait to get to the most powerful position, because I thought then I would be able to fix problems that only the leader can fix. But when I got there, I realized we needed revolutionary change.",
       "author": "Mikhail Gorbachev",
       "title": "",
       "count": 0,
       "last_used": "2023-11-05"
-    },
-    "354": {
+   },
+   "354": {
       "quote": "There is no object so large but that at a great distance from the eye it does not appear smaller than a smaller object near.",
       "author": "Leonardo da Vinci",
       "title": "",
       "count": 0,
       "last_used": "2025-02-09"
-    },
-    "355": {
+   },
+   "355": {
       "quote": "Experience does not err. Only your judgments err by expecting from her what is not in her power.",
       "author": "Leonardo da Vinci",
       "title": "",
       "count": 0,
       "last_used": "2024-09-06"
-    },
-    "356": {
+   },
+   "356": {
       "quote": "Common Sense is that which judges the things given to it by other senses.",
       "author": "Leonardo da Vinci",
       "title": "",
       "count": 0,
       "last_used": "2024-09-26"
-    },
-    "357": {
+   },
+   "357": {
       "quote": "The spirit desires to remain with its body, because, without the organic instruments of that body, it can neither act, nor feel anything.",
       "author": "Leonardo da Vinci",
       "title": "",
       "count": 0,
       "last_used": "2024-07-09"
-    },
-    "358": {
+   },
+   "358": {
       "quote": "You can have no dominion greater or less than that over yourself.",
       "author": "Leonardo da Vinci",
       "title": "",
       "count": 0,
       "last_used": "2024-01-15"
-    },
-    "359": {
+   },
+   "359": {
       "quote": "Our body is dependant on Heaven and Heaven on the Spirit.",
       "author": "Leonardo da Vinci",
       "title": "",
       "count": 0,
       "last_used": "2024-07-29"
-    },
-    "360": {
+   },
+   "360": {
       "quote": "You do ill if you praise, but worse if you censure, what you do not understand.",
       "author": "Leonardo da Vinci",
       "title": "",
       "count": 0,
       "last_used": "2024-10-07"
-    },
-    "361": {
+   },
+   "361": {
       "quote": "The length of a man's outspread arms is equal to his height.",
       "author": "Leonardo da Vinci",
       "title": "",
       "count": 0,
       "last_used": "2024-12-22"
-    },
-    "362": {
+   },
+   "362": {
       "quote": "Although nature commences with reason and ends in experience it is necessary for us to do the opposite, that is to commence with experience and from this to proceed to investigate the reason.",
       "author": "Leonardo da Vinci",
       "title": "",
       "count": 0,
       "last_used": "2025-02-06"
-    },
-    "363": {
+   },
+   "363": {
       "quote": "In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time.",
       "author": "Leonardo da Vinci",
       "title": "",
       "count": 0,
       "last_used": "2023-12-14"
-    },
-    "364": {
+   },
+   "364": {
       "quote": "He who loves practice without theory is like the sailor who boards ship without a rudder and compass and never knows where he may cast.",
       "author": "Leonardo da Vinci",
       "title": "",
       "count": 0,
       "last_used": "2024-03-08"
-    },
-    "365": {
+   },
+   "365": {
       "quote": "Nature is the source of all true knowledge. She has her own logic, her own laws, she has no effect without cause nor invention without necessity.",
       "author": "Leonardo da Vinci",
       "title": "",
       "count": 0,
       "last_used": "2024-12-01"
-    },
-    "366": {
+   },
+   "366": {
       "quote": "I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.",
       "author": "Leonardo da Vinci",
       "title": "",
       "count": 0,
       "last_used": "2025-03-22"
-    },
-    "367": {
+   },
+   "367": {
       "quote": "Just as food eaten without appetite is a tedious nourishment, so does study without zeal damage the memory by not assimilating what it absorbs.",
       "author": "Leonardo da Vinci",
       "title": "",
       "count": 0,
       "last_used": "2024-09-29"
-    },
-    "368": {
+   },
+   "368": {
       "quote": "Blinding ignorance does mislead us. O! Wretched mortals, open your eyes!",
       "author": "Leonardo da Vinci",
       "title": "",
       "count": 0,
       "last_used": "2024-07-19"
-    },
-    "369": {
+   },
+   "369": {
       "quote": "The natural desire of good men is knowledge.",
       "author": "Leonardo da Vinci",
       "title": "",
       "count": 0,
       "last_used": "2024-11-13"
-    },
-    "370": {
+   },
+   "370": {
       "quote": "The truth of things is the chief nutriment of superior intellects.",
       "author": "Leonardo da Vinci",
       "title": "",
       "count": 0,
       "last_used": "2024-11-09"
-    },
-    "371": {
+   },
+   "371": {
       "quote": "As every divided kingdom falls, so every mind divided between many studies confounds and saps itself.",
       "author": "Leonardo da Vinci",
       "title": "",
       "count": 0,
       "last_used": "2024-09-08"
-    },
-    "372": {
+   },
+   "372": {
       "quote": "Human subtlety will never devise an invention more beautiful, more simple or more direct than does nature because in her inventions nothing is lacking, and nothing is superfluous.",
       "author": "Leonardo da Vinci",
       "title": "",
       "count": 0,
       "last_used": "2023-10-28"
-    },
-    "373": {
+   },
+   "373": {
       "quote": "Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigor of the mind.",
       "author": "Leonardo da Vinci",
       "title": "",
       "count": 0,
       "last_used": "2023-12-08"
-    },
-    "374": {
+   },
+   "374": {
       "quote": "Poor is the pupil who does not surpass his master.",
       "author": "Leonardo da Vinci",
       "title": "",
       "count": 0,
       "last_used": "2024-08-11"
-    },
-    "375": {
+   },
+   "375": {
       "quote": "Art is never finished, only abandoned.",
       "author": "Leonardo da Vinci",
       "title": "",
       "count": 0,
       "last_used": "2023-12-01"
-    },
-    "376": {
+   },
+   "376": {
       "quote": "Learning never exhausts the mind.",
       "author": "Leonardo da Vinci",
       "title": "",
       "count": 0,
       "last_used": "2024-12-08"
-    },
-    "377": {
+   },
+   "377": {
       "quote": "If we have been pleased with life, we should not be displeased with death, since it comes from the hand of the same master.",
       "author": "Michelangelo",
       "title": "",
       "count": 0,
       "last_used": "2025-01-23"
-    },
-    "378": {
+   },
+   "378": {
       "quote": "Many believe - and I believe - that I have been designated for this work by God. In spite of my old age, I do not want to give it up; I work out of love for God and I put all my hope in Him.",
       "author": "Michelangelo",
       "title": "",
       "count": 0,
       "last_used": "2024-04-29"
-    },
-    "379": {
+   },
+   "379": {
       "quote": "Lord, grant that I may always desire more than I can accomplish.",
       "author": "Michelangelo",
       "title": "",
       "count": 0,
       "last_used": "2025-03-09"
-    },
-    "380": {
+   },
+   "380": {
       "quote": "If people knew how hard I worked to get my mastery, it wouldn't seem so wonderful at all.",
       "author": "Michelangelo",
       "title": "",
       "count": 0,
       "last_used": "2024-08-19"
-    },
-    "381": {
+   },
+   "381": {
       "quote": "A man paints with his brains and not with his hands.",
       "author": "Michelangelo",
       "title": "",
       "count": 0,
       "last_used": "2024-09-24"
-    },
-    "382": {
+   },
+   "382": {
       "quote": "The marble not yet carved can hold the form of every thought the greatest artist has.",
       "author": "Michelangelo",
       "title": "",
       "count": 0,
       "last_used": "2023-12-05"
-    },
-    "383": {
+   },
+   "383": {
       "quote": "I am still learning.",
       "author": "Michelangelo",
       "title": "",
       "count": 0,
       "last_used": "2024-12-31"
-    },
-    "384": {
+   },
+   "384": {
       "quote": "The true work of art is but a shadow of the divine perfection.",
       "author": "Michelangelo",
       "title": "",
       "count": 0,
       "last_used": "2025-03-21"
-    },
-    "385": {
+   },
+   "385": {
       "quote": "A beautiful thing never gives so much pain as does failing to hear and see it.",
       "author": "Michelangelo",
       "title": "",
       "count": 0,
       "last_used": "2024-04-24"
-    },
-    "386": {
+   },
+   "386": {
       "quote": "The promises of this world are, for the most part, vain phantoms; and to confide in one's self, and become something of worth and value is the best and safest course.",
       "author": "Michelangelo",
       "title": "",
       "count": 0,
       "last_used": "2025-03-23"
-    },
-    "387": {
+   },
+   "387": {
       "quote": "Death and love are the two wings that bear the good man to heaven.",
       "author": "Michelangelo",
       "title": "",
       "count": 0,
       "last_used": "2024-04-03"
-    },
-    "388": {
+   },
+   "388": {
       "quote": "The greater danger for most of us lies not in setting our aim too high and falling short; but in setting our aim too low, and achieving our mark.",
       "author": "Michelangelo",
       "title": "",
       "count": 0,
       "last_used": "2024-05-05"
-    },
-    "389": {
+   },
+   "389": {
       "quote": "Every beauty which is seen here by persons of perception resembles more than anything else that celestial source from which we all are come.",
       "author": "Michelangelo",
       "title": "",
       "count": 0,
       "last_used": "2024-10-04"
-    },
-    "390": {
+   },
+   "390": {
       "quote": "My soul can find no staircase to Heaven unless it be through Earth's loveliness.",
       "author": "Michelangelo",
       "title": "",
       "count": 0,
       "last_used": "2024-01-04"
-    },
-    "391": {
+   },
+   "391": {
       "quote": "Faith in oneself is the best and safest course.",
       "author": "Michelangelo",
       "title": "",
       "count": 0,
       "last_used": "2025-02-21"
-    },
-    "392": {
+   },
+   "392": {
       "quote": "Every block of stone has a statue inside it and it is the task of the sculptor to discover it.",
       "author": "Michelangelo",
       "title": "",
       "count": 0,
       "last_used": "2024-02-10"
-    },
-    "393": {
+   },
+   "393": {
       "quote": "I saw the angel in the marble and carved until I set him free.",
       "author": "Michelangelo",
       "title": "",
       "count": 0,
       "last_used": "2024-12-27"
-    },
-    "394": {
+   },
+   "394": {
       "quote": "Heat cannot be separated from fire, or beauty from The Eternal.",
       "author": "Dante Alighieri",
       "title": "",
       "count": 0,
       "last_used": "2024-04-20"
-    },
-    "395": {
+   },
+   "395": {
       "quote": "The darkest places in hell are reserved for those who maintain their neutrality in times of moral crisis.",
       "author": "Dante Alighieri",
       "title": "",
       "count": 0,
       "last_used": "2024-05-04"
-    },
-    "396": {
+   },
+   "396": {
       "quote": "Nature is the art of God.",
       "author": "Dante Alighieri",
       "title": "",
       "count": 0,
       "last_used": "2025-01-04"
-    },
-    "397": {
+   },
+   "397": {
       "quote": "Worldly fame is but a breath of wind that blows now this way, and now that, and changes name as it changes direction.",
       "author": "Dante Alighieri",
       "title": "",
       "count": 0,
       "last_used": "2024-11-25"
-    },
-    "398": {
+   },
+   "398": {
       "quote": "Art, as far as it is able, follows nature, as a pupil imitates his master; thus your art must be, as it were, God's grandchild.",
       "author": "Dante Alighieri",
       "title": "",
       "count": 0,
       "last_used": "2024-09-02"
-    },
-    "399": {
+   },
+   "399": {
       "quote": "He listens well who takes notes.",
       "author": "Dante Alighieri",
       "title": "",
       "count": 0,
       "last_used": "2024-12-11"
-    },
-    "400": {
+   },
+   "400": {
       "quote": "The secret of getting things done is to act!",
       "author": "Dante Alighieri",
       "title": "",
       "count": 0,
       "last_used": "2025-03-14"
-    },
-    "401": {
+   },
+   "401": {
       "quote": "Correction does much, but encouragement does more.",
       "author": "Johann Wolfgang von Goethe",
       "title": "",
       "count": 0,
       "last_used": "2024-04-28"
-    },
-    "402": {
+   },
+   "402": {
       "quote": "Self-knowledge comes from knowing other men.",
       "author": "Johann Wolfgang von Goethe",
       "title": "",
       "count": 0,
       "last_used": "2024-12-03"
-    },
-    "403": {
+   },
+   "403": {
       "quote": "That I be not as those are who spend the day in complaining of headache and the night in drinking the wine which gives the headache!",
       "author": "Johann Wolfgang von Goethe",
       "title": "",
       "count": 0,
       "last_used": "2023-11-09"
-    },
-    "404": {
+   },
+   "404": {
       "quote": "A person places themselves on a level with the ones they praise.",
       "author": "Johann Wolfgang von Goethe",
       "title": "",
       "count": 0,
       "last_used": "2025-02-17"
-    },
-    "405": {
+   },
+   "405": {
       "quote": "Science arose from poetry... when times change the two can meet again on a higher level as friends.",
       "author": "Johann Wolfgang von Goethe",
       "title": "",
       "count": 0,
       "last_used": "2024-04-10"
-    },
-    "406": {
+   },
+   "406": {
       "quote": "The intelligent man finds almost everything ridiculous, the sensible man hardly anything.",
       "author": "Johann Wolfgang von Goethe",
       "title": "",
       "count": 0,
       "last_used": "2024-02-20"
-    },
-    "407": {
+   },
+   "407": {
       "quote": "What is uttered from the heart alone, Will win the hearts of others to your own.",
       "author": "Johann Wolfgang von Goethe",
       "title": "",
       "count": 0,
       "last_used": "2024-09-17"
-    },
-    "408": {
+   },
+   "408": {
       "quote": "A person hears only what they understand.",
       "author": "Johann Wolfgang von Goethe",
       "title": "",
       "count": 0,
       "last_used": "2024-06-18"
-    },
-    "409": {
+   },
+   "409": {
       "quote": "The best government is that which teaches us to govern ourselves.",
       "author": "Johann Wolfgang von Goethe",
       "title": "",
       "count": 0,
       "last_used": "2025-03-06"
-    },
-    "410": {
+   },
+   "410": {
       "quote": "Ignorant men raise questions that wise men answered a thousand years ago.",
       "author": "Johann Wolfgang von Goethe",
       "title": "",
       "count": 0,
       "last_used": "2023-11-02"
-    },
-    "411": {
+   },
+   "411": {
       "quote": "To rule is easy, to govern difficult.",
       "author": "Johann Wolfgang von Goethe",
       "title": "",
       "count": 0,
       "last_used": "2024-06-12"
-    },
-    "412": {
+   },
+   "412": {
       "quote": "Few people have the imagination for reality.",
       "author": "Johann Wolfgang von Goethe",
       "title": "",
       "count": 0,
       "last_used": "2024-04-14"
-    },
-    "413": {
+   },
+   "413": {
       "quote": "Let everyone sweep in front of his own door, and the whole world will be clean.",
       "author": "Johann Wolfgang von Goethe",
       "title": "",
       "count": 0,
       "last_used": "2024-05-27"
-    },
-    "414": {
+   },
+   "414": {
       "quote": "The way you see people is the way you treat them, and the way you treat them is what they become.",
       "author": "Johann Wolfgang von Goethe",
       "title": "",
       "count": 0,
       "last_used": "2024-06-06"
-    },
-    "415": {
+   },
+   "415": {
       "quote": "From the solemn gloom of the temple children run out to sit in the dust, God watches them play and forgets the priest.",
       "author": "Rabindranath Tagore",
       "title": "",
       "count": 0,
       "last_used": "2025-01-18"
-    },
-    "416": {
+   },
+   "416": {
       "quote": "Love is not a mere impulse, it must contain truth, which is law.",
       "author": "Rabindranath Tagore",
       "title": "",
       "count": 0,
       "last_used": "2025-01-16"
-    },
-    "417": {
+   },
+   "417": {
       "quote": "If you cry because the sun has gone out of your life, your tears will prevent you from seeing the stars.",
       "author": "Rabindranath Tagore",
       "title": "",
       "count": 0,
       "last_used": "2024-11-02"
-    },
-    "418": {
+   },
+   "418": {
       "quote": "Love is an endless mystery, for it has nothing else to explain it.",
       "author": "Rabindranath Tagore",
       "title": "",
       "count": 0,
       "last_used": "2023-10-24"
-    },
-    "419": {
+   },
+   "419": {
       "quote": "Facts are many, but the truth is one.",
       "author": "Rabindranath Tagore",
       "title": "",
       "count": 0,
       "last_used": "2024-03-30"
-    },
-    "420": {
+   },
+   "420": {
       "quote": "The flower which is single need not envy the thorns that are numerous.",
       "author": "Rabindranath Tagore",
       "title": "",
       "count": 0,
       "last_used": "2023-12-10"
-    },
-    "421": {
+   },
+   "421": {
       "quote": "We live in the world when we love it.",
       "author": "Rabindranath Tagore",
       "title": "",
       "count": 0,
       "last_used": "2024-01-26"
-    },
-    "422": {
+   },
+   "422": {
       "quote": "By plucking her petals, you do not gather the beauty of the flower.",
       "author": "Rabindranath Tagore",
       "title": "",
       "count": 0,
       "last_used": "2024-11-20"
-    },
-    "423": {
+   },
+   "423": {
       "quote": "A mind all logic is like a knife all blade. It makes the hand bleed that uses it.",
       "author": "Rabindranath Tagore",
       "title": "",
       "count": 0,
       "last_used": "2025-03-08"
-    },
-    "424": {
+   },
+   "424": {
       "quote": "Everything comes to us that belongs to us if we create the capacity to receive it.",
       "author": "Rabindranath Tagore",
       "title": "",
       "count": 0,
       "last_used": "2025-02-05"
-    },
-    "425": {
+   },
+   "425": {
       "quote": "I slept and dreamt that life was joy. I awoke and saw that life was service. I acted and behold, service was joy.",
       "author": "Rabindranath Tagore",
       "title": "",
       "count": 0,
       "last_used": "2024-02-11"
-    },
-    "426": {
+   },
+   "426": {
       "quote": "Don't limit a child to your own learning, for he was born in another time.",
       "author": "Rabindranath Tagore",
       "title": "",
       "count": 0,
       "last_used": "2024-01-25"
-    },
-    "427": {
+   },
+   "427": {
       "quote": "It is very simple to be happy, but it is very difficult to be simple.",
       "author": "Rabindranath Tagore",
       "title": "",
       "count": 0,
       "last_used": "2024-10-09"
-    },
-    "428": {
+   },
+   "428": {
       "quote": "Emancipation from the bondage of the soil is no freedom for the tree.",
       "author": "Rabindranath Tagore",
       "title": "",
       "count": 0,
       "last_used": "2024-01-24"
-    },
-    "429": {
+   },
+   "429": {
       "quote": "If you shut the door to all errors, truth will be shut out.",
       "author": "Rabindranath Tagore",
       "title": "",
       "count": 0,
       "last_used": "2023-10-18"
-    },
-    "430": {
+   },
+   "430": {
       "quote": "He who is too busy doing good finds no time to be good.",
       "author": "Rabindranath Tagore",
       "title": "",
       "count": 0,
       "last_used": "2024-03-23"
-    },
-    "431": {
+   },
+   "431": {
       "quote": "Trees are the earth's endless effort to speak to the listening heaven.",
       "author": "Rabindranath Tagore",
       "title": "",
       "count": 0,
       "last_used": "2024-06-29"
-    },
-    "432": {
+   },
+   "432": {
       "quote": "Every child comes with the message that God is not yet discouraged of man.",
       "author": "Rabindranath Tagore",
       "title": "",
       "count": 0,
       "last_used": "2024-10-16"
-    },
-    "433": {
+   },
+   "433": {
       "quote": "Love is the only reality and it is not a mere sentiment. It is the ultimate truth that lies at the heart of creation.",
       "author": "Rabindranath Tagore",
       "title": "",
       "count": 0,
       "last_used": "2024-06-19"
-    },
-    "434": {
+   },
+   "434": {
       "quote": "You can't cross the sea merely by standing and staring at the water.",
       "author": "Rabindranath Tagore",
       "title": "",
       "count": 0,
       "last_used": "2025-01-20"
-    },
-    "435": {
+   },
+   "435": {
       "quote": "No need to be learned from own fault. We can learn a lot from others' mistakes.",
       "author": "Shivaji Maharaj",
       "title": "",
       "count": 0,
       "last_used": "2025-01-02"
-    },
-    "436": {
+   },
+   "436": {
       "quote": "If a tree, which is not a highly elevated living entity, can be so tolerant and merciful to give sweet mangoes even when hit by anyone; being a king, should I not be more merciful and tolerant than the tree?",
       "author": "Shivaji Maharaj",
       "title": "",
       "count": 0,
       "last_used": "2025-01-26"
-    },
-    "437": {
+   },
+   "437": {
       "quote": "Karma binds, is but a half-truth; Done in the proper way, knowing fully well what it is that binds, karma itself becomes an instrument of freedom. For instance, poison kills is well-known, but it is equally true, that if used in preparing medicine, it saves life. Likewise food nourishes, but if taken in excess brings disease.",
       "author": "Gnyaneshwar",
       "title": "",
       "count": 0,
       "last_used": "2024-06-04"
-    },
-    "438": {
+   },
+   "438": {
       "quote": "He is a true sanyasi who has completely forgotten ‘I’ and ‘Mine’. What is to be given up is the ‘ego-sense’. When that is given up is there is no harm in continuing a family life. When fire is extinguished and coal burnt to ashes, there is not the least possibility of a piece of cotton getting burnt even though surrounded by flames. Similarly, a man may be surrounded by a tempting environment but it ceases to have an effect on him once he is detached. Such a man may be married and own a house, have a big family, yet he can be internally a renouncer.",
       "author": "Gnyaneshwar",
       "title": "",
       "count": 0,
       "last_used": "2024-11-11"
-    },
-    "439": {
+   },
+   "439": {
       "quote": "Just as water plays with itself by assuming the form of waves, similarly the Absolute is playing with itself by becoming the world. There is no duality between the sun and his rays when he is surrounded by the rays. The unity of the moon is not disturbed, even when enveloped by the moonlight. The lotus remains one even when it blooms into a thousand petals. Similarly, there is no difference in Absolute, when it presents itself either as the seer or the world that it sees; for it is the Absolute alone that becomes both.",
       "author": "Gnyaneshwar",
       "title": "",
       "count": 0,
       "last_used": "2025-01-08"
-    },
-    "440": {
+   },
+   "440": {
       "quote": "Both Siva and his beloved Shakti lived as a happy couple, Shakti feeling embarrassed in moving about with her formless husband, covered him a multicolored robe of the universe…",
       "author": "Gnyaneshwar",
       "title": "",
       "count": 0,
       "last_used": "2024-06-25"
-    },
-    "441": {
+   },
+   "441": {
       "quote": "So long as gross desires, anger and attachments are in the mind, what is the use of living in the forest by renouncing worldly life?",
       "author": "Namdeo",
       "title": "",
       "count": 0,
       "last_used": "2024-04-12"
-    },
-    "442": {
+   },
+   "442": {
       "quote": "You can know a saint by his indifference to worldly life, by his perennial love, his incessant remembrance of God’s name, his humanity, his constant divine contemplation, his effacement of egoism, his disregard of money, the absence of sensuousness and anger, his peace and forgiveness, his equality, his indifference of pleasure and pain and his eagerness to show men the path of devotion. Saints have great humane virtues as they feel all are men of god. At the highest, the saints thought about other saints is that they are all god incarnate and God lives in them.",
       "author": "Namdeo",
       "title": "",
       "count": 0,
       "last_used": "2024-05-29"
-    },
-    "443": {
+   },
+   "443": {
       "quote": "Let patience be your purpose in life; implant this in your mind.\\nIn this way, you will grow into a great river;\\nyou will not break off into a tiny stream.",
       "author": "Baba Farid",
       "title": "",
       "count": 0,
       "last_used": "2024-01-10"
-    },
-    "444": {
+   },
+   "444": {
       "quote": "The lanes are muddy and far is the house\\nof the One I love so much.\\nIf I walk to Him I wet my rug, and\\nremaining behind, I fail in my love!",
       "author": "Baba Farid",
       "title": "",
       "count": 0,
       "last_used": "2024-08-23"
-    },
-    "445": {
+   },
+   "445": {
       "quote": "Farid, why do you wander from jungle to jungle, crashing through the thorny trees? The Lord abides in the heart; why are you looking for Him in the jungle?",
       "author": "Baba Farid",
       "title": "",
       "count": 0,
       "last_used": "2025-01-19"
-    },
-    "446": {
+   },
+   "446": {
       "quote": "Always find an excuse to do something good.",
       "author": "Baba Farid",
       "title": "",
       "count": 0,
       "last_used": "2024-01-06"
-    },
-    "447": {
+   },
+   "447": {
       "quote": "The Prophet used to say that blessed is the man whose knowledge of his own faults and defects prevents him from disclosing the faults of others.",
       "author": "Baba Farid",
       "title": "",
       "count": 0,
       "last_used": "2024-03-27"
-    },
-    "448": {
+   },
+   "448": {
       "quote": "Keep your internal self better than the external self.",
       "author": "Baba Farid",
       "title": "",
       "count": 0,
       "last_used": "2024-03-01"
-    },
-    "449": {
+   },
+   "449": {
       "quote": "Do not satisfy the demands of the physical self, for the more you satisfy it, the more it demands.",
       "author": "Baba Farid",
       "title": "",
       "count": 0,
       "last_used": "2025-02-27"
-    },
-    "450": {
+   },
+   "450": {
       "quote": "Do not lower yourself in an attempt to secure a high position.",
       "author": "Baba Farid",
       "title": "",
       "count": 0,
       "last_used": "2024-03-25"
-    },
-    "451": {
+   },
+   "451": {
       "quote": "Resignation to the Will of God is the real key to peace and satisfaction in life.",
       "author": "Shaikh Nizamuddin Auliya",
       "title": "",
       "count": 0,
       "last_used": "2024-02-19"
-    },
-    "452": {
+   },
+   "452": {
       "quote": "One who serves becomes the master.",
       "author": "Shaikh Nizamuddin Auliya",
       "title": "",
       "count": 0,
       "last_used": "2024-02-16"
-    },
-    "453": {
+   },
+   "453": {
       "quote": "Seclusion from human society is not desirable. One should mix with people and face their blows and buffets.",
       "author": "Shaikh Nizamuddin Auliya",
       "title": "",
       "count": 0,
       "last_used": "2024-06-14"
-    },
-    "454": {
+   },
+   "454": {
       "quote": "Love of God and love of materialism cannot subsist in one heart.",
       "author": "Shaikh Nizamuddin Auliya",
       "title": "",
       "count": 0,
       "last_used": "2025-01-17"
-    },
-    "455": {
+   },
+   "455": {
       "quote": "Food should not be taken alone.",
       "author": "Shaikh Nizamuddin Auliya",
       "title": "",
       "count": 0,
       "last_used": "2024-09-03"
-    },
-    "456": {
+   },
+   "456": {
       "quote": "Though God’s bounty is always there, whatever one can achieve is through the dint of his effort. Under no circumstances one can earn anything without struggle.",
       "author": "Shaikh Nizamuddin Auliya",
       "title": "",
       "count": 0,
       "last_used": "2024-09-22"
-    },
-    "457": {
+   },
+   "457": {
       "quote": "Prayers should be inspired neither by fear of hell nor by love of heaven, Love of God should be the only inspiring motive",
       "author": "Shaikh Nizamuddin Auliya",
       "title": "",
       "count": 0,
       "last_used": "2023-10-26"
-    },
-    "458": {
+   },
+   "458": {
       "quote": "Bread earned through permitted means provides greater spiritual enlightenment than livelihood obtained through doubtful means.",
       "author": "Shaikh Nizamuddin Auliya",
       "title": "",
       "count": 0,
       "last_used": "2024-01-21"
-    },
-    "459": {
+   },
+   "459": {
       "quote": "Whatever one does not like for himself, he should not under any circumstances, suggest for others.",
       "author": "Shaikh Nizamuddin Auliya",
       "title": "",
       "count": 0,
       "last_used": "2025-03-12"
-    },
-    "460": {
+   },
+   "460": {
       "quote": "One who repents sincerely after committing a sin and one who committed no sin hold equal position in mystic discipline.",
       "author": "Shaikh Nizamuddin Auliya",
       "title": "",
       "count": 0,
       "last_used": "2023-11-29"
-    },
-    "461": {
+   },
+   "461": {
       "quote": "Real pleasure lies not in accumulation but in the distribution of wealth.",
       "author": "Shaikh Nizamuddin Auliya",
       "title": "",
       "count": 0,
       "last_used": "2024-04-09"
-    },
-    "462": {
+   },
+   "462": {
       "quote": "One should pray for the Salvation of all. There should be no discrimination in it.",
       "author": "Shaikh Nizamuddin Auliya",
       "title": "",
       "count": 0,
       "last_used": "2024-11-26"
-    },
-    "463": {
+   },
+   "463": {
       "quote": "A miracle is like a screen which obscures the reality from view.",
       "author": "Shaikh Nizamuddin Auliya",
       "title": "",
       "count": 0,
       "last_used": "2023-12-22"
-    },
-    "464": {
+   },
+   "464": {
       "quote": "One should hide, rather than disclose the evil deeds of others.",
       "author": "Shaikh Nizamuddin Auliya",
       "title": "",
       "count": 0,
       "last_used": "2024-11-15"
-    },
-    "465": {
+   },
+   "465": {
       "quote": "Every visitor should be served something; if there is nothing to offer, a cup of water may be offered.",
       "author": "Shaikh Nizamuddin Auliya",
       "title": "",
       "count": 0,
       "last_used": "2024-01-31"
-    },
-    "466": {
+   },
+   "466": {
       "quote": "The essence of life is in remembering God.",
       "author": "Kabir",
       "title": "",
       "count": 0,
       "last_used": "2024-09-28"
-    },
-    "467": {
+   },
+   "467": {
       "quote": "As the bee collecteth honey with great zest, so the fool collecteth wealth.",
       "author": "Kabir",
       "title": "",
       "count": 0,
       "last_used": "2025-01-15"
-    },
-    "468": {
+   },
+   "468": {
       "quote": "I felt in need of a great pilgrimage, so I sat still for three days and God came to me.",
       "author": "Kabir",
       "title": "",
       "count": 0,
       "last_used": "2024-01-07"
-    },
-    "469": {
+   },
+   "469": {
       "quote": "When the flower opens, the bees will come.",
       "author": "Kabir",
       "title": "",
       "count": 0,
       "last_used": "2024-12-21"
-    },
-    "470": {
+   },
+   "470": {
       "quote": "The river that flows in you also flows in me.",
       "author": "Kabir",
       "title": "",
       "count": 0,
       "last_used": "2024-04-16"
-    },
-    "471": {
+   },
+   "471": {
       "quote": "All darkness vanished, when I saw the Lamp within my heart.",
       "author": "Kabir",
       "title": "",
       "count": 0,
       "last_used": "2023-12-27"
-    },
-    "472": {
+   },
+   "472": {
       "quote": "I laugh when I hear that the fish in the water is thirsty. I laugh when I hear that people go on pilgrimage to find God.",
       "author": "Kabir",
       "title": "",
       "count": 0,
       "last_used": "2024-08-07"
-    },
-    "473": {
+   },
+   "473": {
       "quote": "Be quiet in your mind, quiet in your senses, and also quiet in your body. Then, when all these are quiet, don't do anything. In that state truth will reveal itself to you.",
       "author": "Kabir",
       "title": "",
       "count": 0,
       "last_used": "2024-08-26"
-    },
-    "474": {
+   },
+   "474": {
       "quote": "Lift the veil that obscures the heart, and there you will find what you are looking for.",
       "author": "Kabir",
       "title": "",
       "count": 0,
       "last_used": "2025-02-04"
-    },
-    "475": {
+   },
+   "475": {
       "quote": "The Lord is in me, the Lord is in you, as life is in every seed, put false pride away and seek the Lord within..",
       "author": "Kabir",
       "title": "",
       "count": 0,
       "last_used": "2024-01-05"
-    },
-    "476": {
+   },
+   "476": {
       "quote": "I don't think there is such a thing as an intelligent mega-rich person. For who with a fine mind can look out upon this world and hoard what can nourish a thousand souls.",
       "author": "Kabir",
       "title": "",
       "count": 0,
       "last_used": "2024-02-18"
-    },
-    "477": {
+   },
+   "477": {
       "quote": "...But if a mirror ever makes you sad you should know that it does not know you.",
       "author": "Kabir",
       "title": "",
       "count": 0,
       "last_used": "2024-06-15"
-    },
-    "478": {
+   },
+   "478": {
       "quote": "The musk deer’s fragrance is in its navel, But he madly hunts it everywhere",
       "author": "Kabir",
       "title": "",
       "count": 0,
       "last_used": "2024-09-19"
-    },
-    "479": {
+   },
+   "479": {
       "quote": "I have met him in my heart. When a stream enters the Ganges, It becomes the Ganges itself. Kabir is lost in the Ganges.",
       "author": "Kabir",
       "title": "",
       "count": 0,
       "last_used": "2024-03-07"
-    },
-    "480": {
+   },
+   "480": {
       "quote": "Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose.",
       "author": "Eknath",
       "title": "",
       "count": 0,
       "last_used": "2023-10-25"
-    },
-    "481": {
+   },
+   "481": {
       "quote": "The Sufis advise us to speak only after our words have managed to pass through three gates. At the first gate we ask ourselves, Are these words true? If so, we let them pass on; if not, back they go. At the second gate we ask, Are they necessary? At the last gate we ask, Are they kind?",
       "author": "Eknath",
       "title": "",
       "count": 0,
       "last_used": "2024-05-23"
-    },
-    "482": {
+   },
+   "482": {
       "quote": "One should become purified by performing regular (nitya) and special (naimittika) duties. Practice spiritual disciplines and remember God with one-pointed devotion to make the mind steady. As a result of these practices and by the grace of God, one achieves discernment and renunciation. Then the mind hankers for getting an ideal guru. By the grace of an ideal guru, one gets the true knowledge of Brahman. Constantly meditate on the guru’s holy feet in your heart. Janardan’s disciple Eknath says that by keeping one’s mind constantly on God, the mind gets uplifted.",
       "author": "Eknath",
       "title": "",
       "count": 0,
       "last_used": "2025-02-08"
-    },
-    "483": {
+   },
+   "483": {
       "quote": "Penance or constant meditation on God and not fasting or torturing the body is needed.",
       "author": "Eknath",
       "title": "",
       "count": 0,
       "last_used": "2024-01-16"
-    },
-    "484": {
+   },
+   "484": {
       "quote": "By the grace of the Sadguru you have acquired the knowledge of the self, but remember that sagun (form) bhakti is indispensable. By discipline yogis overcome their senses but without bhaki they cannot experience the sagun God. Yogic practices may bestow great powers but without the bhakti and love there cannot be the bliss of the divine union.",
       "author": "Eknath",
       "title": "",
       "count": 0,
       "last_used": "2023-12-25"
-    },
-    "485": {
+   },
+   "485": {
       "quote": "The Atma is neither born nor dies; it is a detached witness, without any attributes or non-attributes. The all-pervading soul is the only reality. The concept of morality remains as long as one identifies himself with perishable body and the world. The concept drops upon the realization of oneness with God.",
       "author": "Eknath",
       "title": "",
       "count": 0,
       "last_used": "2024-12-02"
-    },
-    "486": {
+   },
+   "486": {
       "quote": "The reflection of God in the soiled mirror of a vidya is jiva, whereas the same in a clear mirror of vidya or enlightenment is shiva; the difference is due to maya. For instance waves gain form and name but their content is the same as the oceans; the element gold is the same though made in different ornaments.’",
       "author": "Eknath",
       "title": "",
       "count": 0,
       "last_used": "2024-08-05"
-    },
-    "487": {
+   },
+   "487": {
       "quote": "The ego prevents one from perceiving the divinity within every human being. When the individual realizes his oneness with the collective consciousness, the form disappears like the merging of the drop in the ocean, and we truly love others. With the attention on the divine, it becomes easy to face the ordeals of daily life. Empowered by the divine connection, a realized soul goes beyond vidhi and nishedha (laws, prescribing or forbidding). For him there remains nothing to be done or attained. His sense of identity drops, like the concept of ‘I’ or ‘thou’.",
       "author": "Eknath",
       "title": "",
       "count": 0,
       "last_used": "2024-10-12"
-    },
-    "488": {
+   },
+   "488": {
       "quote": "If the mind is pure then why go on pilgrimage to sacred places, if the heart is pure then you can see the lord wherever you are. Samadhi is not the loss of consciousness or stiff motionless condition of the body; establishment in the brahmi state is when one enjoys constant divine experience.",
       "author": "Eknath",
       "title": "",
       "count": 0,
       "last_used": "2024-01-28"
-    },
-    "489": {
+   },
+   "489": {
       "quote": "The body is like riding a horse, deprived of food he would grow weak and be unable to carry the horseman; on the other hand if over fed, he would become restive, frisky and throw off the master. The horse, therefore, should neither be strayed nor overfed. Everything should be in moderation.",
       "author": "Eknath",
       "title": "",
       "count": 0,
       "last_used": "2024-03-21"
-    },
-    "490": {
+   },
+   "490": {
       "quote": "Be calm and considerate. Whoever can manage his mundane matters successfully will also succeed in the field of spirituality. Look upon your household as God’s assignment to you and do your duty as devotion to Him.",
       "author": "Ramdas",
       "title": "",
       "count": 0,
       "last_used": "2024-10-25"
-    },
-    "491": {
+   },
+   "491": {
       "quote": "Fire requires to be kindled and by an effort, it is kindled; that is the way to infuse the right spirit into the people’s minds and rouse them into action. Make efforts; try again; put faith in God and march on",
       "author": "Ramdas",
       "title": "",
       "count": 0,
       "last_used": "2024-11-06"
-    },
-    "492": {
+   },
+   "492": {
       "quote": "Don’t forget that God sits in your heart is a fundamental fact. Don’t get discouraged by initial failures. Cultivate in and outside of you the Spirit to give up the workings of His will until you have given up your sense of self totally and know that He is within all, that He is all, and that you and He are One. Be patient. Be patient. The road of self-discipline leading to realization of God is not an easy one. Barriers, and pain are on the road; you have to carry the latter and conquer the former with His guidance. His assistance solely comes through concentration. God’s name repeating helps to concentrate.",
       "author": "Ramdas",
       "title": "",
       "count": 0,
       "last_used": "2024-10-03"
-    },
-    "493": {
+   },
+   "493": {
       "quote": "Know first of all that the God you are looking for is in you. He is the universe’s life and soul, and the highest aim of life is to achieve Him. Evil and suffering occur because of your conviction that you are distinct from this fundamental Truth. This wall of separation was established by the ego. Have a deep and intensive desire to realize that your life is one with the life of the cosmos. Then, by prayer, meditation and execution, resign the ego with a continued identity to Him without craving its fruit. As you go on this journey, that is the road of dedication, knowledge, and self-abandonment, you will lose connection to the unreality of existence and will remove the illusions of your mind. Now your heart will be filled with divine love, and your vision will be purified and equalized, and your acts will become your immortal being’s natural outflow, giving you true joy and tranquillity. This is the climax of human effort and the accomplishment of life’s goal",
       "author": "Ramdas",
       "title": "",
       "count": 0,
       "last_used": "2024-10-10"
-    },
-    "494": {
+   },
+   "494": {
       "quote": "One who has no intelligence, no wealth and no courage, that person is a fool.",
       "author": "Ramdas",
       "title": "",
       "count": 0,
       "last_used": "2024-05-22"
-    },
-    "495": {
+   },
+   "495": {
       "quote": "When two people talk and the third gets upset going between them, that person is a fool.",
       "author": "Ramdas",
       "title": "",
       "count": 0,
       "last_used": "2024-08-29"
-    },
-    "496": {
+   },
+   "496": {
       "quote": "Before starting any work it is important to know about that work.",
       "author": "Ramdas",
       "title": "",
       "count": 0,
       "last_used": "2024-06-08"
-    },
-    "497": {
+   },
+   "497": {
       "quote": "The aspirant should take some time to go and sit alone and rest in one's 'Self Nature.' With that practice, one becomes firmly rooted in 'Supreme Truth.'",
       "author": "Ramdas",
       "title": "",
       "count": 0,
       "last_used": "2024-09-14"
-    },
-    "498": {
+   },
+   "498": {
       "quote": "I am looking for a poem that says Everything so I don't have to write anymore.",
       "author": "Tukaram",
       "title": "",
       "count": 0,
       "last_used": "2024-11-07"
-    },
-    "499": {
+   },
+   "499": {
       "quote": "Can water drink itself?\\nCan a tree taste its own fruit?\\nThe worshiper of God must\\nremain distinct from Him.\\n\\nOnly thus will he come to\\nknow God's joyful love.\\nBut if he were to say that God\\nand he are one,\\nthat joy and love would\\nvanish instantly.",
       "author": "Tukaram",
       "title": "Can water drink itself",
       "count": 0,
       "last_used": "2024-11-28"
-    },
-    "500": {
+   },
+   "500": {
       "quote": "How long can the truth be veiled? The spirit is all there is to know.",
       "author": "Bulleh Shah",
       "title": "",
       "count": 0,
       "last_used": "2024-05-31"
-    },
-    "501": {
+   },
+   "501": {
       "quote": "It’s all in the One contained, understand that one and forget the rest.",
       "author": "Bulleh Shah",
       "title": "",
       "count": 0,
       "last_used": "2024-06-16"
-    },
-    "502": {
+   },
+   "502": {
       "quote": "A lie which is half a truth is ever the blackest of lies.",
       "author": "Alfred Lord Tennyson",
       "title": "",
       "count": 0,
       "last_used": "2023-11-23"
-    },
-    "503": {
+   },
+   "503": {
       "quote": "If you don't concentrate on what you are doing then the thing that you are doing is not what you are thinking.",
       "author": "Alfred Lord Tennyson",
       "title": "",
       "count": 0,
       "last_used": "2025-03-02"
-    },
-    "504": {
+   },
+   "504": {
       "quote": "The shell must break before the bird can fly.",
       "author": "Alfred Lord Tennyson",
       "title": "",
       "count": 0,
       "last_used": "2023-12-16"
-    },
-    "505": {
+   },
+   "505": {
       "quote": "We are all a part of every person we have ever met.",
       "author": "Alfred Lord Tennyson",
       "title": "",
       "count": 0,
       "last_used": "2025-01-07"
-    },
-    "506": {
+   },
+   "506": {
       "quote": "I sometimes hold it half a sin\\nTo put in words the grief I feel;\\nFor words, like Nature, half reveal\\nAnd half conceal the Soul within.\\n\\nBut, for the unquiet heart and brain,\\nA use in measured language lies;\\nThe sad mechanic exercise,\\nLike dull narcotics, numbing pain.\\n\\nIn words, like weeds, I'll wrap me o'er,\\nLike coarsest clothes against the cold:\\nBut that large grief which these enfold\\nIs given in outline and no more.",
       "author": "Alfred Lord Tennyson",
       "title": "In Memoriam A. H. H.",
       "count": 0,
       "last_used": "2024-08-28"
-    },
-    "507": {
+   },
+   "507": {
       "quote": "How many undervalue the power of simplicity! But it is the real key to the heart.",
       "author": "William Wordsworth",
       "title": "",
       "count": 0,
       "last_used": "2024-04-19"
-    },
-    "508": {
+   },
+   "508": {
       "quote": "In modern business it is not the crook who is to be feared most, it is the honest man who doesn't know what he is doing.",
       "author": "William Wordsworth",
       "title": "",
       "count": 0,
       "last_used": "2024-02-29"
-    },
-    "509": {
+   },
+   "509": {
       "quote": "To begin, begin.",
       "author": "William Wordsworth",
       "title": "",
       "count": 0,
       "last_used": "2024-05-19"
-    },
-    "510": {
+   },
+   "510": {
       "quote": "The best portion of a good man's life: his little, nameless unremembered acts of kindness and love.",
       "author": "William Wordsworth",
       "title": "",
       "count": 0,
       "last_used": "2024-07-27"
-    },
-    "511": {
+   },
+   "511": {
       "quote": "Rapine, avarice, expense, This is idolatry; and these we adore; Plain living and high thinking are no more.",
       "author": "William Wordsworth",
       "title": "",
       "count": 0,
       "last_used": "2024-01-20"
-    },
-    "512": {
+   },
+   "512": {
       "quote": "I wandered lonely as a cloud\\nThat floats on high o'er vales and hills,\\nWhen all at once I saw a crowd,\\nA host, of golden daffodils;\\nBeside the lake, beneath the trees,\\nFluttering and dancing in the breeze.\\n\\nContinuous as the stars that shine\\nAnd twinkle on the milky way,\\nThey stretched in never-ending line\\nAlong the margin of a bay:\\nTen thousand saw I at a glance,\\nTossing their heads in sprightly dance.\\n\\nThe waves beside them danced; but they\\nOut-did the sparkling waves in glee:\\nA poet could not but be gay,\\nIn such a jocund company:\\nI gazed—and gazed—but little thought\\nWhat wealth the show to me had brought:\\n\\nFor oft, when on my couch I lie\\nIn vacant or in pensive mood,\\nThey flash upon that inward eye\\nWhich is the bliss of solitude;\\nAnd then my heart with pleasure fills,\\nAnd dances with the daffodils.",
       "author": "William Wordsworth",
       "title": "I Wandered Lonely as a Cloud",
       "count": 0,
       "last_used": "2024-08-24"
-    },
-    "513": {
+   },
+   "513": {
       "quote": "If the doors of perception were cleansed every thing would appear to man as it is, Infinite. For man has closed himself up, till he sees all things thro' narrow chinks of his cavern.",
       "author": "William Blake",
       "title": "",
       "count": 0,
       "last_used": "2024-06-07"
-    },
-    "514": {
+   },
+   "514": {
       "quote": "A truth that’s told with bad intent beats all the lies you can invent.",
       "author": "William Blake",
       "title": "",
       "count": 0,
       "last_used": "2025-02-18"
-    },
-    "515": {
+   },
+   "515": {
       "quote": "In the universe, there are things that are known, and things that are unknown, and in between, there are doors.",
       "author": "William Blake",
       "title": "",
       "count": 0,
       "last_used": "2024-10-13"
-    },
-    "516": {
+   },
+   "516": {
       "quote": "You never know what is enough unless you know what is more than enough.",
       "author": "William Blake",
       "title": "",
       "count": 0,
       "last_used": "2024-07-07"
-    },
-    "517": {
+   },
+   "517": {
       "quote": "The difference between a bad artist and a good one is: the bad artist seems to copy a great deal; the good one really does.",
       "author": "William Blake",
       "title": "",
       "count": 0,
       "last_used": "2025-01-30"
-    },
-    "518": {
+   },
+   "518": {
       "quote": "Love seeketh not itself to please, nor for itself hath any care, but for another gives its ease, and builds a Heaven in Hell's despair.",
       "author": "William Blake",
       "title": "",
       "count": 0,
       "last_used": "2023-12-30"
-    },
-    "519": {
+   },
+   "519": {
       "quote": "To see a World in a Grain of Sand\\nAnd a Heaven in a Wild Flower,\\nHold Infinity in the palm of your hand\\nAnd Eternity in an hour.",
       "author": "William Blake",
       "title": "",
       "count": 0,
       "last_used": "2024-06-24"
-    },
-    "520": {
+   },
+   "520": {
       "quote": "Tyger Tyger, burning bright, \\nIn the forests of the night; \\nWhat immortal hand or eye, \\nCould frame thy fearful symmetry?\\n\\nIn what distant deeps or skies. \\nBurnt the fire of thine eyes?\\nOn what wings dare he aspire?\\nWhat the hand, dare seize the fire?\\n\\nAnd what shoulder, & what art,\\nCould twist the sinews of thy heart?\\nAnd when thy heart began to beat.\\nWhat dread hand? & what dread feet?\\n\\nWhat the hammer? what the chain,\\nIn what furnace was thy brain?\\nWhat the anvil? what dread grasp.\\nDare its deadly terrors clasp?\\n\\nWhen the stars threw down their spears \\nAnd water'd heaven with their tears:\\nDid he smile his work to see?\\nDid he who made the Lamb make thee?\\n\\nTyger Tyger burning bright,\\nIn the forests of the night:\\nWhat immortal hand or eye,\\nDare frame thy fearful symmetry?",
       "author": "William Blake",
       "title": "The Tyger",
       "count": 0,
       "last_used": "2024-06-21"
-    },
-    "521": {
+   },
+   "521": {
       "quote": "And did those feet in ancient time\\nWalk upon Englands mountains green:\\nAnd was the holy Lamb of God,\\nOn Englands pleasant pastures seen!\\n \\nAnd did the Countenance Divine,\\nShine forth upon our clouded hills?\\nAnd was Jerusalem builded here,\\nAmong these dark Satanic Mills?\\n \\nBring me my Bow of burning gold:\\nBring me my arrows of desire:\\nBring me my Spear: O clouds unfold!\\nBring me my Chariot of fire!\\n \\nI will not cease from Mental Fight,\\nNor shall my sword sleep in my hand:\\nTill we have built Jerusalem,\\nIn Englands green & pleasant Land.",
       "author": "William Blake",
       "title": "Jerusalem",
       "count": 0,
       "last_used": "2023-10-30"
-    },
-    "522": {
+   },
+   "522": {
       "quote": "Little Lamb who made thee \\nDost thou know who made thee \\nGave thee life & bid thee feed. \\nBy the stream & o'er the mead;\\nGave thee clothing of delight,\\nSoftest clothing wooly bright;\\nGave thee such a tender voice,\\nMaking all the vales rejoice! \\nLittle Lamb who made thee \\nDost thou know who made thee \\n\\nLittle Lamb I'll tell thee,\\nLittle Lamb I'll tell thee!\\nHe is called by thy name,\\nFor he calls himself a Lamb: \\nHe is meek & he is mild, \\nHe became a little child: \\nI a child & thou a lamb, \\nWe are called by his name.\\nLittle Lamb God bless thee. \\nLittle Lamb God bless thee.",
       "author": "William Blake",
       "title": "The Lamb",
       "count": 0,
       "last_used": "2024-12-15"
-    },
-    "523": {
+   },
+   "523": {
       "quote": "I was angry with my friend; \\nI told my wrath, my wrath did end.\\nI was angry with my foe: \\nI told it not, my wrath did grow. \\n\\nAnd I waterd it in fears,\\nNight & morning with my tears: \\nAnd I sunned it with smiles,\\nAnd with soft deceitful wiles. \\n\\nAnd it grew both day and night. \\nTill it bore an apple bright. \\nAnd my foe beheld it shine,\\nAnd he knew that it was mine. \\n\\nAnd into my garden stole, \\nWhen the night had veild the pole; \\nIn the morning glad I see; \\nMy foe outstretched beneath the tree.",
       "author": "William Blake",
       "title": "A Poison Tree",
       "count": 0,
       "last_used": "2024-05-13"
-    },
-    "524": {
+   },
+   "524": {
       "quote": "'Love seeketh not itself to please,\\nNor for itself hath any care,\\nBut for another gives its ease,\\nAnd builds a Heaven in Hell's despair.''\\n\\nSo sung a little Clod of Clay\\nTrodden with the cattle's feet,\\nBut a Pebble of the brook\\nWarbled out these metres meet:\\n\\n'Love seeketh only self to please,\\nTo bind another to its delight,\\nJoys in another's loss of ease,\\nAnd builds a Hell in Heaven's despite.'",
       "author": "William Blake",
       "title": "The Clod and the Pebble",
       "count": 0,
       "last_used": "2024-10-26"
-    },
-    "525": {
+   },
+   "525": {
       "quote": "My mother bore me in the southern wild,\\nAnd I am black, but O! my soul is white;\\nWhite as an angel is the English child: \\nBut I am black as if bereav'd of light.\\n\\nMy mother taught me underneath a tree \\nAnd sitting down before the heat of day,\\nShe took me on her lap and kissed me,\\nAnd pointing to the east began to say. \\n\\nLook on the rising sun: there God does live \\nAnd gives his light, and gives his heat away. \\nAnd flowers and trees and beasts and men receive\\nComfort in morning joy in the noonday.\\n\\nAnd we are put on earth a little space,\\nThat we may learn to bear the beams of love, \\nAnd these black bodies and this sun-burnt face\\nIs but a cloud, and like a shady grove.\\n\\nFor when our souls have learn'd the heat to bear \\nThe cloud will vanish we shall hear his voice. \\nSaying: come out from the grove my love & care,\\nAnd round my golden tent like lambs rejoice.\\n\\nThus did my mother say and kissed me, \\nAnd thus I say to little English boy. \\nWhen I from black and he from white cloud free,\\nAnd round the tent of God like lambs we joy: \\n\\nIll shade him from the heat till he can bear, \\nTo lean in joy upon our fathers knee. \\nAnd then I'll stand and stroke his silver hair,\\nAnd be like him and he will then love me.",
       "author": "William Blake",
       "title": "The Little Black Boy",
       "count": 0,
       "last_used": "2024-09-16"
-    },
-    "526": {
+   },
+   "526": {
       "quote": "I went to the Garden of Love,\\nAnd saw what I never had seen:\\nA Chapel was built in the midst,\\nWhere I used to play on the green.\\n\\nAnd the gates of this Chapel were shut,\\nAnd 'Thou shalt not' writ over the door;\\nSo I turn'd to the Garden of Love,\\nThat so many sweet flowers bore. \\n\\nAnd I saw it was filled with graves,\\nAnd tomb-stones where flowers should be:\\nAnd Priests in black gowns, were walking their rounds,\\nAnd binding with briars, my joys & desires.",
       "author": "William Blake",
       "title": "The Garden of Love",
       "count": 0,
       "last_used": "2024-09-11"
-    },
-    "527": {
+   },
+   "527": {
       "quote": "To see a World in a Grain of Sand\\nAnd a Heaven in a Wild Flower \\nHold Infinity in the palm of your hand \\nAnd Eternity in an hour\\nA Robin Red breast in a Cage\\nPuts all Heaven in a Rage \\nA Dove house filld with Doves & Pigeons\\nShudders Hell thr' all its regions \\nA dog starvd at his Masters Gate\\nPredicts the ruin of the State \\nA Horse misusd upon the Road\\nCalls to Heaven for Human blood \\nEach outcry of the hunted Hare\\nA fibre from the Brain does tear \\nA Skylark wounded in the wing \\nA Cherubim does cease to sing \\nThe Game Cock clipd & armd for fight\\nDoes the Rising Sun affright \\nEvery Wolfs & Lions howl\\nRaises from Hell a Human Soul \\nThe wild deer, wandring here & there \\nKeeps the Human Soul from Care \\nThe Lamb misusd breeds Public Strife\\nAnd yet forgives the Butchers knife \\nThe Bat that flits at close of Eve\\nHas left the Brain that wont Believe\\nThe Owl that calls upon the Night\\nSpeaks the Unbelievers fright\\nHe who shall hurt the little Wren\\nShall never be belovd by Men \\nHe who the Ox to wrath has movd\\nShall never be by Woman lovd\\nThe wanton Boy that kills the Fly\\nShall feel the Spiders enmity \\nHe who torments the Chafers Sprite\\nWeaves a Bower in endless Night \\nThe Catterpiller on the Leaf\\nRepeats to thee thy Mothers grief \\nKill not the Moth nor Butterfly \\nFor the Last Judgment draweth nigh \\nHe who shall train the Horse to War\\nShall never pass the Polar Bar \\nThe Beggars Dog & Widows Cat \\nFeed them & thou wilt grow fat \\nThe Gnat that sings his Summers Song\\nPoison gets from Slanders tongue \\nThe poison of the Snake & Newt\\nIs the sweat of Envys Foot \\nThe poison of the Honey Bee\\nIs the Artists Jealousy\\nThe Princes Robes & Beggars Rags\\nAre Toadstools on the Misers Bags \\nA Truth thats told with bad intent\\nBeats all the Lies you can invent \\nIt is right it should be so \\nMan was made for Joy & Woe \\nAnd when this we rightly know \\nThro the World we safely go \\nJoy & Woe are woven fine \\nA Clothing for the soul divine \\nUnder every grief & pine\\nRuns a joy with silken twine \\nThe Babe is more than swadling Bands\\nThroughout all these Human Lands\\nTools were made & Born were hands \\nEvery Farmer Understands\\nEvery Tear from Every Eye\\nBecomes a Babe in Eternity \\nThis is caught by Females bright\\nAnd returnd to its own delight \\nThe Bleat the Bark Bellow & Roar \\nAre Waves that Beat on Heavens Shore \\nThe Babe that weeps the Rod beneath\\nWrites Revenge in realms of Death \\nThe Beggars Rags fluttering in Air\\nDoes to Rags the Heavens tear \\nThe Soldier armd with Sword & Gun \\nPalsied strikes the Summers Sun\\nThe poor Mans Farthing is worth more\\nThan all the Gold on Africs Shore\\nOne Mite wrung from the Labrers hands\\nShall buy & sell the Misers Lands \\nOr if protected from on high \\nDoes that whole Nation sell & buy \\nHe who mocks the Infants Faith\\nShall be mockd in Age & Death \\nHe who shall teach the Child to Doubt\\nThe rotting Grave shall neer get out \\nHe who respects the Infants faith\\nTriumphs over Hell & Death \\nThe Childs Toys & the Old Mans Reasons\\nAre the Fruits of the Two seasons \\nThe Questioner who sits so sly \\nShall never know how to Reply \\nHe who replies to words of Doubt\\nDoth put the Light of Knowledge out \\nThe Strongest Poison ever known\\nCame from Caesars Laurel Crown \\nNought can Deform the Human Race\\nLike to the Armours iron brace \\nWhen Gold & Gems adorn the Plow\\nTo peaceful Arts shall Envy Bow \\nA Riddle or the Crickets Cry\\nIs to Doubt a fit Reply \\nThe Emmets Inch & Eagles Mile\\nMake Lame Philosophy to smile \\nHe who Doubts from what he sees\\nWill neer Believe do what you Please \\nIf the Sun & Moon should Doubt \\nTheyd immediately Go out \\nTo be in a Passion you Good may Do \\nBut no Good if a Passion is in you \\nThe Whore & Gambler by the State\\nLicencd build that Nations Fate \\nThe Harlots cry from Street to Street \\nShall weave Old Englands winding Sheet \\nThe Winners Shout the Losers Curse \\nDance before dead Englands Hearse \\nEvery Night & every Morn\\nSome to Misery are Born \\nEvery Morn and every Night\\nSome are Born to sweet delight \\nSome are Born to sweet delight \\nSome are Born to Endless Night \\nWe are led to Believe a Lie\\nWhen we see not Thro the Eye\\nWhich was Born in a Night to perish in a Night \\nWhen the Soul Slept in Beams of Light \\nGod Appears & God is Light\\nTo those poor Souls who dwell in Night \\nBut does a Human Form Display\\nTo those who Dwell in Realms of day",
       "author": "William Blake",
       "title": "Auguries of Innocence",
       "count": 0,
       "last_used": "2023-11-26"
-    },
-    "528": {
+   },
+   "528": {
       "quote": "In seed time learn, in harvest teach, in winter enjoy.\\nDrive your cart and your plow over the bones of the dead.\\nThe road of excess leads to the palace of wisdom.\\nPrudence is a rich ugly old maid courted by Incapacity.\\nHe who desires but acts not, breeds pestilence.\\nThe cut worm forgives the plow.\\nDip him in the river who loves water.\\nA fool sees not the same tree that a wise man sees.\\nHe whose face gives no light, shall never become a star.\\nEternity is in love with the productions of time.\\nThe busy bee has no time for sorrow.\\nThe hours of folly are measur'd by the clock, but of wis\\xaddom: no clock can measure.\\nAll wholsom food is caught without a net or a trap.\\nBring out number weight & measure in a year of dearth.\\nNo bird soars too high, if he soars with his own wings.\\nA dead body, revenges not injuries.\\nThe most sublime act is to set another before you.\\nIf the fool would persist in his folly he would become wise.\\nFolly is the cloke of knavery.\\nShame is Prides cloke.",
       "author": "William Blake",
       "title": "Proverbs of Hell",
       "count": 0,
       "last_used": "2024-08-15"
-    },
-    "529": {
+   },
+   "529": {
       "quote": "Twas on a Holy Thursday their innocent faces clean \\nThe children walking two & two in red & blue & green \\nGrey-headed beadles walkd before with wands as white as snow,\\nTill into the high dome of Pauls they like Thames waters flow \\n\\nO what a multitude they seemd these flowers of London town \\nSeated in companies they sit with radiance all their own \\nThe hum of multitudes was there but multitudes of lambs \\nThousands of little boys & girls raising their innocent hands \\n\\nNow like a mighty wind they raise to heaven the voice of song \\nOr like harmonious thunderings the seats of Heaven among \\nBeneath them sit the aged men wise guardians of the poor \\nThen cherish pity, lest you drive an angel from your door",
       "author": "William Blake",
       "title": "Holy Thursday",
       "count": 0,
       "last_used": "2023-10-12"
-    },
-    "530": {
+   },
+   "530": {
       "quote": "To Mercy, Pity, Peace, and Love\\nAll pray in their distress;\\nAnd to these virtues of delight\\nReturn their thankfulness.\\n\\nFor Mercy, Pity, Peace, and Love\\nIs God, our father dear,\\nAnd Mercy, Pity, Peace, and Love\\nIs Man, his child and care.\\n\\nFor Mercy has a human heart,\\nPity a human face,\\nAnd Love, the human form divine,\\nAnd Peace, the human dress.\\n\\nThen every man, of every clime,\\nThat prays in his distress,\\nPrays to the human form divine,\\nLove, Mercy, Pity, Peace.\\n\\nAnd all must love the human form,\\nIn heathen, Turk, or Jew;\\nWhere Mercy, Love, and Pity dwell\\nThere God is dwelling too.",
       "author": "William Blake",
       "title": "The Divine Image",
       "count": 0,
       "last_used": "2025-03-15"
-    },
-    "531": {
+   },
+   "531": {
       "quote": "O holy virgin! clad in purest white,\\nUnlock heav'n's golden gates, and issue forth;\\nAwake the dawn that sleeps in heaven; let light\\nRise from the chambers of the east, and bring\\nThe honey'd dew that cometh on waking day.\\nO radiant morning, salute the sun\\nRous'd like a huntsman to the chase, and with\\nThy buskin'd feet appear upon our hills.",
       "author": "William Blake",
       "title": "To Morning",
       "count": 0,
       "last_used": "2024-11-18"
-    },
-    "532": {
+   },
+   "532": {
       "quote": "When love beckons to you, follow him,\\nThough his ways are hard and steep.\\nAnd when his wings enfold you yield to\\nhim,\\nThough the sword hidden among his\\npinions may wound you.\\nAnd when he speaks to you believe in\\nhim,\\nThough his voice may shatter your dreams\\nas the north wind lays waste the garden.\\n\\nFor even as love crowns you so shall he\\ncrucify you. Even as he is for your growth\\nso is he for your pruning.\\nEven as he ascends to your height and\\ncaresses your tenderest branches that quiver\\nin the sun,\\nSo shall he descend to your roots and\\nshake them in their clinging to the earth.\\n\\nLike sheaves of corn he gathers you unto\\nhimself.\\nHe threshes you to make you naked.\\nHe sifts you to free you from your husks.\\nHe grinds you to whiteness.\\nHe kneads you until you are pliant;\\nAnd then he assigns you to his sacred\\nfire, that you may become sacred bread for\\nGod’s sacred feast.\\n\\nAll these things shall love do unto you\\nthat you may know the secrets of your\\nheart, and in that knowledge become a\\nfragment of Life’s heart.\\n\\nBut if in your fear you would seek only\\nlove’s peace and love’s pleasure,\\nThen it is better for you that you cover\\nyour nakedness and pass out of love’s\\nthreshing-floor,\\nInto the seasonless world where you\\nshall laugh, but not all of your laughter,\\nand weep, but not all of your tears.\\n\\nLove gives naught but itself and takes\\nnaught but from itself.\\nLove possesses not nor would it be\\npossessed;\\nFor love is sufficient unto love.\\n\\nWhen you love you should not say,\\n“God is in my heart,” but rather, “I am\\nin the heart of God.”\\nAnd think not you can direct the course\\nof love, for love, if it finds you worthy,\\ndirects your course.\\n\\nLove has no other desire but to fulfil\\nitself.\\nBut if you love and must needs have\\ndesires, let these be your desires:\\nTo melt and be like a running brook\\nthat sings its melody to the night.\\nTo know the pain of too much tenderness.\\nTo be wounded by your own under-\\nstanding of love;\\nAnd to bleed willingly and joyfully.\\nTo wake at dawn with a winged heart\\nand give thanks for another day of loving;\\nTo rest at the noon hour and meditate\\nlove’s ecstasy;\\nTo return home at eventide with grati-\\ntude;\\nAnd then to sleep with a prayer for the\\nbeloved in your heart and a song of praise\\nupon your lips.",
       "author": "Kahlil Gibran",
       "title": "On Love",
       "count": 0,
       "last_used": "2024-04-17"
-    }
-  }
+   },
+   "533": {
+      "quote": "All happy families are alike, each unhappy family is unhappy in its own way",
+      "author": "Leo Tolstoy",
+      "title": "",
+      "count": 0,
+      "last_used": "2023-10-08"
+   },
+   "534": {
+      "quote": "Everyone thinks of changing the world, but no one thinks of changing himself",
+      "author": "Leo Tolstoy",
+      "title": "",
+      "count": 0,
+      "last_used": "2023-10-08"
+   },
+   "535": {
+      "quote": "If you want to be happy, be",
+      "author": "Leo Tolstoy",
+      "title": "",
+      "count": 0,
+      "last_used": "2023-10-08"
+   },
+   "536": {
+      "quote": "It is amazing how complete is the delusion that beauty is goodness",
+      "author": "Leo Tolstoy",
+      "title": "",
+      "count": 0,
+      "last_used": "2023-10-08"
+   },
+   "537": {
+      "quote": "Truth, like gold, is to be obtained not by its growth, but by washing away from it all that is not gold",
+      "author": "Leo Tolstoy",
+      "title": "",
+      "count": 0,
+      "last_used": "2023-10-08"
+   },
+   "538": {
+      "quote": "One of the first conditions of happiness is that the link between Man and Nature shall not be broken",
+      "author": "Leo Tolstoy",
+      "title": "",
+      "count": 0,
+      "last_used": "2023-10-08"
+   },
+   "539": {
+      "quote": "In the name of God, stop a moment, cease your work, look around you",
+      "author": "Leo Tolstoy",
+      "title": "",
+      "count": 0,
+      "last_used": "2023-10-08"
+   },
+   "540": {
+      "quote": "I sit on a man's back, choking him and making him carry me, and yet assure myself and others that I am very sorry for him and wish to ease his lot by all possible means - except by getting off his back.",
+      "author": "Leo Tolstoy",
+      "title": "",
+      "count": 0,
+      "last_used": "2023-10-08"
+   }
+}
 }

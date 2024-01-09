@@ -1,6 +1,8 @@
 import 'dart:async';
 import 'dart:math';
 
+import 'package:shared_preferences/shared_preferences.dart';
+
 import 'Classes/author.dart';
 import 'Classes/quote.dart';
 import 'package:flutter/services.dart' show rootBundle;
@@ -113,4 +115,14 @@ Quote getQuoteOfTheDay(List<Quote> qList) {
   }
   // if nothing is resolved - this quote returned.
   return Quote(1, 'I am the Spirit', '', '', todaysDate, 0);
+}
+
+getNotificationStatus() async {
+  final prefs = await SharedPreferences.getInstance();
+  final notificationStatus = prefs.getBool('notification_status');
+  if (notificationStatus == null) {
+    return false;
+  } else {
+    return notificationStatus;
+  }
 }
