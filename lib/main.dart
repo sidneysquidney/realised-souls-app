@@ -6,7 +6,6 @@ import 'firebase_options.dart';
 import 'package:realised_app/helper.dart';
 import 'home_page.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'dart:io' show Platform;
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

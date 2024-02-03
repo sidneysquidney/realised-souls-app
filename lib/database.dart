@@ -1,11 +1,8 @@
 import 'dart:async';
 
-import 'package:firebase_core/firebase_core.dart';
-import 'package:flutter/material.dart';
 import 'package:realised_app/helper.dart';
 import 'Classes/quote.dart';
 import 'Classes/author.dart';
-import 'firebase_options.dart';
 import 'package:firebase_database/firebase_database.dart';
 
 DatabaseReference databaseRef = FirebaseDatabase.instance.ref();
