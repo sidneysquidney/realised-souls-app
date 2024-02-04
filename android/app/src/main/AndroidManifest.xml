@@ -1,4 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    package="com.realised_souls.realised_app"
     <application
         android:label="Realised Souls"
         android:name="${applicationName}"
